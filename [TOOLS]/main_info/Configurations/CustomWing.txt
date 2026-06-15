@@ -1,0 +1,4 @@
+//Index	ItemIndex	DefenseConstA	IncDamageConstA	IncDamageConstB	DecDamageConstA	DecDamageConstB	OptionIndex1	OptionValue1	OptionIndex2	OptionValue2	OptionIndex3	OptionValue3	NewOptionIndex1	NewOptionValue1	NewOptionIndex2	NewOptionValue2	NewOptionIndex3	NewOptionValue3	NewOptionIndex4	NewOptionValue4	ModelType	ModelName
+  0	    6344		4		        139		        2		        61		        2		        84		        5		        80		        4		        83		        4		        102		        5		        109		        5		        110		        5		        111		        5		        0		    "Wing200"
+  1	    6345		4		        139		        2		        61		        2		        84		        5		        80		        4		        83		        4		        102		        5		        109		        5		        110		        5		        111		        5		        0		    "Wing200"
+end

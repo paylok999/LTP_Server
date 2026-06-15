@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Shop>
+
+	<Item Type="7" Index="0" Level="15" Dur="255" Skill="0" Luck="0" Option="0" Exc="0" Anc="0" OptionEx="0" PriceType="2" BuyValue="50" SellValue="20" />
+	<Item Type="7" Index="1" Level="15" Dur="255" Skill="0" Luck="0" Option="0" Exc="0" Anc="0" OptionEx="0" PriceType="2" BuyValue="50" SellValue="20"  />
+	<Item Type="7" Index="2" Level="15" Dur="255" Skill="0" Luck="0" Option="0" Exc="0" Anc="0" OptionEx="0" PriceType="2" BuyValue="50" SellValue="20"  />
+	<Item Type="7" Index="3" Level="15" Dur="255" Skill="0" Luck="0" Option="0" Exc="0" Anc="0" OptionEx="0" PriceType="2" BuyValue="50" SellValue="20"  />
+	<Item Type="7" Index="4" Level="15" Dur="255" Skill="0" Luck="0" Option="0" Exc="0" Anc="0" OptionEx="0" PriceType="2" BuyValue="50" SellValue="20"  />
+	<Item Type="7" Index="5" Level="15" Dur="255" Skill="0" Luck="0" Option="0" Exc="0" Anc="0" OptionEx="0" PriceType="2" BuyValue="50" SellValue="20"  />
+	<Item Type="7" Index="6" Level="15" Dur="255" Skill="0" Luck="0" Option="0" Exc="0" Anc="0" OptionEx="0" PriceType="2" BuyValue="50" SellValue="20"  />
+</Shop>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventItemBagManager>
+	<ItemBag Index="0" ItemIndex="7179" ItemLevel="0" MonsterClass="-1" SpecialValue="-1" /> <!-- Box of Luck -->
+	<ItemBag Index="1" ItemIndex="-1" ItemLevel="-1" MonsterClass="55" SpecialValue="-1" /> <!-- Skeleton King -->
+	<ItemBag Index="2" ItemIndex="-1" ItemLevel="-1" MonsterClass="42" SpecialValue="-1" /> <!-- Red Dragon -->
+	<ItemBag Index="3" ItemIndex="7179" ItemLevel="1" MonsterClass="-1" SpecialValue="-1" /> <!-- Star of Christmas -->
+	<ItemBag Index="4" ItemIndex="7179" ItemLevel="3" MonsterClass="-1" SpecialValue="-1" /> <!-- Heart of Love -->
+	<ItemBag Index="5" ItemIndex="7179" ItemLevel="5" MonsterClass="-1" SpecialValue="-1" /> <!-- Silver Medal -->
+	<ItemBag Index="6" ItemIndex="7179" ItemLevel="6" MonsterClass="-1" SpecialValue="-1" /> <!-- Gold Medal -->
+	<ItemBag Index="7" ItemIndex="7179" ItemLevel="8" MonsterClass="-1" SpecialValue="-1" /> <!-- Box of Kundun 1 -->
+	<ItemBag Index="8" ItemIndex="7179" ItemLevel="9" MonsterClass="-1" SpecialValue="-1" /> <!-- Box of Kundun 2 -->
+	<ItemBag Index="9" ItemIndex="7179" ItemLevel="10" MonsterClass="-1" SpecialValue="-1" /> <!-- Box of Kundun 3 -->
+	<ItemBag Index="10" ItemIndex="7179" ItemLevel="11" MonsterClass="-1" SpecialValue="-1" /> <!-- Box of Kundun 4 -->
+	<ItemBag Index="11" ItemIndex="7179" ItemLevel="12" MonsterClass="-1" SpecialValue="-1" /> <!-- Box of Kundun 5 -->
+	<ItemBag Index="12" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="0" /> <!-- Blood Castle 1 -->
+	<ItemBag Index="13" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="1" /> <!-- Blood Castle 2 -->
+	<ItemBag Index="14" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="2" /> <!-- Blood Castle 3 -->
+	<ItemBag Index="15" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="3" /> <!-- Blood Castle 4 -->
+	<ItemBag Index="16" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="4" /> <!-- Blood Castle 5 -->
+	<ItemBag Index="17" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="5" /> <!-- Blood Castle 6 -->
+	<ItemBag Index="18" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="6" /> <!-- Blood Castle 7 -->
+	<ItemBag Index="19" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="7" /> <!-- Blood Castle 8 -->
+	<ItemBag Index="20" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="8" /> <!-- Chaos Castle 1 -->
+	<ItemBag Index="21" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="9" /> <!-- Chaos Castle 2 -->
+	<ItemBag Index="22" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="10" /> <!-- Chaos Castle 3 -->
+	<ItemBag Index="23" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="11" /> <!-- Chaos Castle 4 -->
+	<ItemBag Index="24" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="12" /> <!-- Chaos Castle 5 -->
+	<ItemBag Index="25" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="13" /> <!-- Chaos Castle 6 -->
+	<ItemBag Index="26" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="14" /> <!-- Chaos Castle 7 -->
+	<ItemBag Index="27" ItemIndex="-1" ItemLevel="-1" MonsterClass="135" SpecialValue="-1" /> <!-- White Wizard -->
+	<ItemBag Index="28" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="15" /> <!-- Starter Ring 40 -->
+	<ItemBag Index="29" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="16" /> <!-- Starter Ring 80 -->
+	<ItemBag Index="30" ItemIndex="7179" ItemLevel="7" MonsterClass="-1" SpecialValue="-1" /> <!-- Box of Heaven -->
+	<ItemBag Index="31" ItemIndex="7179" ItemLevel="13" MonsterClass="-1" SpecialValue="-1" /> <!-- Blue Heart -->
+	<ItemBag Index="32" ItemIndex="-1" ItemLevel="-1" MonsterClass="275" SpecialValue="-1" /> <!-- Kundun -->
+	<ItemBag Index="33" ItemIndex="-1" ItemLevel="-1" MonsterClass="295" SpecialValue="-1" /> <!-- Erohim -->
+	<ItemBag Index="34" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="17" /> <!-- Senior Mix -->
+	<ItemBag Index="35" ItemIndex="6176" ItemLevel="-1" MonsterClass="-1" SpecialValue="-1" /> <!-- Red Ribbon Box -->
+	<ItemBag Index="36" ItemIndex="6177" ItemLevel="-1" MonsterClass="-1" SpecialValue="-1" /> <!-- Green Ribbon Box -->
+	<ItemBag Index="37" ItemIndex="6178" ItemLevel="-1" MonsterClass="-1" SpecialValue="-1" /> <!-- Blue Ribbon Box -->
+	<ItemBag Index="38" ItemIndex="7200" ItemLevel="0" MonsterClass="-1" SpecialValue="-1" /> <!-- Pink Chocolate Box -->
+	<ItemBag Index="39" ItemIndex="7201" ItemLevel="0" MonsterClass="-1" SpecialValue="-1" /> <!-- Red Chocolate Box -->
+	<ItemBag Index="40" ItemIndex="7202" ItemLevel="0" MonsterClass="-1" SpecialValue="-1" /> <!-- Blue Chocolate Box -->
+	<ItemBag Index="41" ItemIndex="7200" ItemLevel="1" MonsterClass="-1" SpecialValue="-1" /> <!-- Purple Candy Box -->
+	<ItemBag Index="42" ItemIndex="7201" ItemLevel="1" MonsterClass="-1" SpecialValue="-1" /> <!-- Red Candy Box -->
+	<ItemBag Index="43" ItemIndex="7202" ItemLevel="1" MonsterClass="-1" SpecialValue="-1" /> <!-- Blue Candy Box -->
+	<ItemBag Index="44" ItemIndex="-1" ItemLevel="-1" MonsterClass="340" SpecialValue="-1" /> <!-- Dark Elf -->
+	<ItemBag Index="45" ItemIndex="-1" ItemLevel="-1" MonsterClass="349" SpecialValue="-1" /> <!-- Balgass -->
+	<ItemBag Index="46" ItemIndex="-1" ItemLevel="-1" MonsterClass="362" SpecialValue="-1" /> <!-- Maya Hand Left -->
+	<ItemBag Index="47" ItemIndex="-1" ItemLevel="-1" MonsterClass="363" SpecialValue="-1" /> <!-- Maya Hand Right -->
+	<ItemBag Index="48" ItemIndex="-1" ItemLevel="-1" MonsterClass="361" SpecialValue="-1" /> <!-- Nightmare -->
+	<ItemBag Index="49" ItemIndex="7213" ItemLevel="-1" MonsterClass="-1" SpecialValue="-1" /> <!-- Halloween Pumpkin -->
+	<ItemBag Index="50" ItemIndex="-1" ItemLevel="-1" MonsterClass="365" SpecialValue="-1" /> <!-- Fortune Pouch -->
+	<ItemBag Index="51" ItemIndex="7220" ItemLevel="-1" MonsterClass="-1" SpecialValue="-1" /> <!-- Game Master Box -->
+	<ItemBag Index="52" ItemIndex="7223" ItemLevel="-1" MonsterClass="-1" SpecialValue="-1" /> <!-- Green Mistery Box -->
+	<ItemBag Index="53" ItemIndex="7224" ItemLevel="-1" MonsterClass="-1" SpecialValue="-1" /> <!-- Pink Mistery Box -->
+	<ItemBag Index="54" ItemIndex="7225" ItemLevel="-1" MonsterClass="-1" SpecialValue="-1" /> <!-- Purple Mistery Box -->
+	<ItemBag Index="55" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="18" /> <!-- Leo the Helper -->
+	<ItemBag Index="56" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="19" /> <!-- Illusion Temple 1 -->
+	<ItemBag Index="57" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="20" /> <!-- Illusion Temple 2 -->
+	<ItemBag Index="58" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="21" /> <!-- Illusion Temple 3 -->
+	<ItemBag Index="59" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="22" /> <!-- Illusion Temple 4 -->
+	<ItemBag Index="60" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="23" /> <!-- Illusion Temple 5 -->
+	<ItemBag Index="61" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="24" /> <!-- Illusion Temple 6 -->
+	<ItemBag Index="62" ItemIndex="-1" ItemLevel="-1" MonsterClass="413" SpecialValue="-1" /> <!-- Lunar Rabbit -->
+	<ItemBag Index="63" ItemIndex="7252" ItemLevel="-1" MonsterClass="-1" SpecialValue="-1" /> <!-- Cherry Blossom Box -->
+	<ItemBag Index="64" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="25" /> <!-- Cherry Blossom Mix 1 -->
+	<ItemBag Index="65" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="26" /> <!-- Cherry Blossom Mix 2 -->
+	<ItemBag Index="66" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="27" /> <!-- Cherry Blossom Mix 3 -->
+	<ItemBag Index="67" ItemIndex="-1" ItemLevel="-1" MonsterClass="459" SpecialValue="-1" /> <!-- Selupan -->
+	<ItemBag Index="68" ItemIndex="-1" ItemLevel="-1" MonsterClass="463" SpecialValue="-1" /> <!-- Fire Flame Ghost -->
+	<ItemBag Index="69" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="28" /> <!-- Santa Claus -->
+	<ItemBag Index="70" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="29" /> <!-- Lucky Coin 1 -->
+	<ItemBag Index="71" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="30" /> <!-- Lucky Coin 2 -->
+	<ItemBag Index="72" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="31" /> <!-- Lucky Coin 3 -->
+	<ItemBag Index="73" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="32" /> <!-- Chaos Card Mix 1 -->
+	<ItemBag Index="74" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="33" /> <!-- Chaos Card Mix 2 -->
+	<ItemBag Index="75" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="34" /> <!-- Chaos Card Mix 3 -->
+	<ItemBag Index="76" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="35" /> <!-- Chaos Card Mix 4 -->
+	<ItemBag Index="77" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="36" /> <!-- Chaos Card Mix 5 -->
+	<ItemBag Index="78" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="37" /> <!-- Double Goer Silver Chest 1 -->
+	<ItemBag Index="79" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="38" /> <!-- Double Goer Silver Chest 2 -->
+	<ItemBag Index="80" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="39" /> <!-- Double Goer Silver Chest 3 -->
+	<ItemBag Index="81" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="40" /> <!-- Double Goer Silver Chest 4 -->
+	<ItemBag Index="82" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="41" /> <!-- Double Goer Silver Chest 5 -->
+	<ItemBag Index="83" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="42" /> <!-- Double Goer Golden Chest 1 -->
+	<ItemBag Index="84" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="43" /> <!-- Double Goer Golden Chest 2 -->
+	<ItemBag Index="85" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="44" /> <!-- Double Goer Golden Chest 3 -->
+	<ItemBag Index="86" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="45" /> <!-- Double Goer Golden Chest 4 -->
+	<ItemBag Index="87" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="46" /> <!-- Double Goer Golden Chest 5 -->
+	<ItemBag Index="88" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="47" /> <!-- Imperial Guardian Side Boss 1 -->
+	<ItemBag Index="89" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="48" /> <!-- Imperial Guardian Side Boss 2 -->
+	<ItemBag Index="90" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="49" /> <!-- Imperial Guardian Side Boss 3 -->
+	<ItemBag Index="91" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="50" /> <!-- Imperial Guardian Side Boss 4 -->
+	<ItemBag Index="92" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="51" /> <!-- Imperial Guardian Side Boss 5 -->
+	<ItemBag Index="93" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="52" /> <!-- Imperial Guardian Main Boss 1 -->
+	<ItemBag Index="94" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="53" /> <!-- Imperial Guardian Main Boss 2 -->
+	<ItemBag Index="95" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="54" /> <!-- Imperial Guardian Main Boss 3 -->
+	<ItemBag Index="96" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="55" /> <!-- Imperial Guardian Main Boss 4 -->
+	<ItemBag Index="97" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="56" /> <!-- Imperial Guardian Main Boss 5 -->
+	<ItemBag Index="98" ItemIndex="7179" ItemLevel="14" MonsterClass="-1" SpecialValue="-1" /> <!-- Blue Luck Pouch -->
+	<ItemBag Index="99" ItemIndex="7179" ItemLevel="15" MonsterClass="-1" SpecialValue="-1" /> <!-- Red Luck Pouch -->
+	<ItemBag Index="100" ItemIndex="7291" ItemLevel="-1" MonsterClass="-1" SpecialValue="-1" /> <!-- Golden Box -->
+	<ItemBag Index="101" ItemIndex="7292" ItemLevel="-1" MonsterClass="-1" SpecialValue="-1" /> <!-- Silver Box -->
+	<ItemBag Index="102" ItemIndex="7309" ItemLevel="-1" MonsterClass="-1" SpecialValue="-1" /> <!-- Shining Jewelry Case -->
+	<ItemBag Index="103" ItemIndex="7310" ItemLevel="-1" MonsterClass="-1" SpecialValue="-1" /> <!-- Elegant Jewelry Case -->
+	<ItemBag Index="104" ItemIndex="7311" ItemLevel="-1" MonsterClass="-1" SpecialValue="-1" /> <!-- Steel Jewelry Case -->
+	<ItemBag Index="105" ItemIndex="7312" ItemLevel="-1" MonsterClass="-1" SpecialValue="-1" /> <!-- Old Jewelry Case -->
+	<ItemBag Index="106" ItemIndex="-1" ItemLevel="-1" MonsterClass="561" SpecialValue="-1" /> <!-- Medusa -->
+	<ItemBag Index="107" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="57" /> <!-- Crywolf -->
+	<ItemBag Index="108" ItemIndex="-1" ItemLevel="-1" MonsterClass="43" SpecialValue="-1" /> <!-- Golden Budge Dragon -->
+	<ItemBag Index="109" ItemIndex="-1" ItemLevel="-1" MonsterClass="78" SpecialValue="-1" /> <!-- Golden Goblin -->
+	<ItemBag Index="110" ItemIndex="-1" ItemLevel="-1" MonsterClass="54" SpecialValue="-1" /> <!-- Golden Soldier -->
+	<ItemBag Index="111" ItemIndex="-1" ItemLevel="-1" MonsterClass="53" SpecialValue="-1" /> <!-- Golden Titan -->
+	<ItemBag Index="112" ItemIndex="-1" ItemLevel="-1" MonsterClass="79" SpecialValue="-1" /> <!-- Golden Dragon -->
+	<ItemBag Index="113" ItemIndex="-1" ItemLevel="-1" MonsterClass="80" SpecialValue="-1" /> <!-- Golden Lizard King -->
+	<ItemBag Index="114" ItemIndex="-1" ItemLevel="-1" MonsterClass="81" SpecialValue="-1" /> <!-- Golden Vepar -->
+	<ItemBag Index="115" ItemIndex="-1" ItemLevel="-1" MonsterClass="82" SpecialValue="-1" /> <!-- Golden Tantalos -->
+	<ItemBag Index="116" ItemIndex="-1" ItemLevel="-1" MonsterClass="83" SpecialValue="-1" /> <!-- Golden Iron Wheel -->
+	<ItemBag Index="117" ItemIndex="-1" ItemLevel="-1" MonsterClass="502" SpecialValue="-1" /> <!-- Golden Rabbit -->
+	<ItemBag Index="118" ItemIndex="-1" ItemLevel="-1" MonsterClass="493" SpecialValue="-1" /> <!-- Golden Dark Knight -->
+	<ItemBag Index="119" ItemIndex="-1" ItemLevel="-1" MonsterClass="494" SpecialValue="-1" /> <!-- Golden Devil -->
+	<ItemBag Index="120" ItemIndex="-1" ItemLevel="-1" MonsterClass="495" SpecialValue="-1" /> <!-- Golden Stone Golem -->
+	<ItemBag Index="121" ItemIndex="-1" ItemLevel="-1" MonsterClass="496" SpecialValue="-1" /> <!-- Golden Crust -->
+	<ItemBag Index="122" ItemIndex="-1" ItemLevel="-1" MonsterClass="497" SpecialValue="-1" /> <!-- Golden Satyros -->
+	<ItemBag Index="123" ItemIndex="-1" ItemLevel="-1" MonsterClass="498" SpecialValue="-1" /> <!-- Golden Twin Tail -->
+	<ItemBag Index="124" ItemIndex="-1" ItemLevel="-1" MonsterClass="499" SpecialValue="-1" /> <!-- Golden Iron Knight -->
+	<ItemBag Index="125" ItemIndex="-1" ItemLevel="-1" MonsterClass="500" SpecialValue="-1" /> <!-- Golden Napin -->
+	<ItemBag Index="126" ItemIndex="-1" ItemLevel="-1" MonsterClass="501" SpecialValue="-1" /> <!-- Golden Great Dragon -->
+	<!-- <ItemBag Index="127" ItemIndex="-1" ItemLevel="-1" MonsterClass="12" SpecialValue="-1" /> --> <!-- Diablo -->
+	<ItemBag Index="128" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="58" /> <!-- Golden Archer -->
+	<ItemBag Index="129" ItemIndex="-1" ItemLevel="-1" MonsterClass="476" SpecialValue="-1" /> <!-- Cursed Santa -->
+</EventItemBagManager>

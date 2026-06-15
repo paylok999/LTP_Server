@@ -1,0 +1,51 @@
+//======================================================================================
+//Data - for ask for help to Bot Buffer player must put /bot helper near Bot Buffer
+//BotBuffer Must be in Safe Zone
+//======================================================================================
+//OnlyVip  = This bot is only for VIP users
+//Class    = 0,1,2	DW,SM,GM
+//	   = 16,17,18	DK,BK,BM
+//	   = 32,33,34	Elf,ME,HE
+//	   = 48,49,50	MG,DM
+//	   = 64,65,66	DL,LE
+//	   = 80,81,82	SU,BS,DS
+//         = 96,97,98   RF,FM
+//PriceType = 0 - Zen, 1 - Credits, 2 - WcoinC, 3 - WcoinP, 4 - Goblin Point
+//======================================================================================
+//BotIndex	Class	OnlyVip	MaxLvl	Name		Map	X	Y	Dir	PriceType	PriceCount
+0
+0		50	0	400	"[Helper]BK"	0	132	128	2	0		5000
+end
+//BotPet Items
+//Slot:
+//0 = Weapon
+//1 = Shield
+//2 = Helm
+//3 = Armor
+//4 = Pants
+//5 = Gloves
+//6 = Boots
+//7 = Wings
+//8 = Pet
+//BotIndex	Slot	Type	Index	Level	Opt
+1
+0		0	0	0	15	0
+end
+
+//Allowed Skills:
+//16	(Mana Shield)
+//27	(Greater Defense)
+//28	(Greater Damage)
+//48	(Greater Fortitude)
+//64	(Critical Damage)
+//217	(Reflect)
+//233	(Magic Circle)
+//
+//MAX SKILLS PER BOT = 5
+//BotIndex	Skill	BuffTime
+2
+0		48	180
+0		64	180
+0		217	180
+0		233	180
+end

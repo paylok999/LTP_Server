@@ -1,0 +1,22 @@
+0
+//Time  On	WCoinC    WCoinP    WCoinG    Credits    Interval (In Min)
+        1       5       10       0       0        180
+end
+
+1
+//Event Slot    WCoinC	WCoinP	WCoinG	Credits
+        0       0       0       0       0 //BloodCastle
+        1       20      0       0       0 //DevilSquare
+        2       0       0       0       0 //ChaosCastle
+        3       0       0       0       0 //IllusionTemple
+        4       0       0       0       0 //Crywolf
+        5       0       0       0       0 //DoubleGoer
+        6       0       0       0       0 //ImperialGuardian
+end
+
+//--------------------------------------------------------------------------------------------------------------------------------------
+//Monster ID	Map    WCoinC	WcoinP	 WcoinG	 Credits  GuildScore
+//--------------------------------------------------------------------------------------------------------------------------------------
+2
+58	8	0	0	0	0	5
+end

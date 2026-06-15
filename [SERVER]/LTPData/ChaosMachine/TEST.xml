@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipe Name="TEST">
+	<combination name="test1">
+	<money>50000</money>
+	<successrate>100</successrate>
+	<excoption op1="15" op2="15" op4="15" op8="15" op16="20" op32="20" />
+		<ingredients>
+			<item starttype="0" startindex="5" endtype="0" endindex="5" minlevel="0" maxlevel="15" minoption="0" maxoption="7" mindur="1" maxdur="255" mincount="2" maxcount="2" tag="tag"/>
+			<item starttype="12" startindex="15" endtype="12" endindex="15" minlevel="0" maxlevel="15" minoption="0" maxoption="7" mindur="0" maxdur="255" mincount="1" maxcount="1" tag="tag"/>
+			<item starttype="14" startindex="22" endtype="14" endindex="22" minlevel="0" maxlevel="15" minoption="0" maxoption="7" mindur="0" maxdur="255" mincount="1" maxcount="1" tag="tag"/>
+		</ingredients>	
+		<talismans>
+			<item starttype="0" startindex="0" endtype="0" endindex="0" minlevel="0" maxlevel="0" minoption="0" maxoption="0" mindur="1" maxdur="255" addrate="10" countmax="5"/>
+		</talismans>	
+		<produces>
+			<item type="7" index="45" minlevel="13" maxlevel="15" minoption="0" maxoption="0" skill="0" luck="0" excmin="1" excmax="5" ancient="1" sockmin="0" sockmax="5" dur="255"/>
+		</produces>
+	</combination>
+</recipe>

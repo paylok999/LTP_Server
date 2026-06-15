@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 
+ItemIndex = Group * Index
+-->
+
+<RandomMonsterCall>
+	<Item Index="5512">
+		<Monster Index="20" MinCount="5" MaxCount="10" Time="300" Renewal="0" AllowParty="1" AllowGuild="1"/>
+		<Monster Index="25" MinCount="5" MaxCount="10" Time="300" Renewal="0" AllowParty="1" AllowGuild="1"/>
+		<Monster Index="33" MinCount="5" MaxCount="10" Time="300" Renewal="0" AllowParty="1" AllowGuild="1"/>
+		<Monster Index="45" MinCount="5" MaxCount="10" Time="300" Renewal="0" AllowParty="1" AllowGuild="1"/>
+		<Monster Index="60" MinCount="5" MaxCount="10" Time="300" Renewal="0" AllowParty="1" AllowGuild="1"/>
+	</Item>
+
+	<Item Index="6398">
+		<Monster Index="20" MinCount="5" MaxCount="10" Time="300" Renewal="0" AllowParty="1" AllowGuild="1"/>
+		<Monster Index="25" MinCount="5" MaxCount="10" Time="300" Renewal="0" AllowParty="1" AllowGuild="1"/>
+		<Monster Index="33" MinCount="5" MaxCount="10" Time="300" Renewal="0" AllowParty="1" AllowGuild="1"/>
+		<Monster Index="45" MinCount="5" MaxCount="10" Time="300" Renewal="0" AllowParty="1" AllowGuild="1"/>
+		<Monster Index="60" MinCount="5" MaxCount="10" Time="300" Renewal="0" AllowParty="1" AllowGuild="1"/>
+	</Item>
+</RandomMonsterCall>

@@ -1,0 +1,4 @@
+//ITS IS PREMIUM CUSTOM, YOU NEED BUY IT, BEFORE USE IT
+//Index   PosZ   PetSize   PetSizeInventory   ModelName
+6801      0      0.5       0.0008             "File389"
+end

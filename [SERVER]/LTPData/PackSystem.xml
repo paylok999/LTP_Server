@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PackSystem>
+	<Jewel Group="14" ID="13" BundleGroup="12" BundleID="30" Price10="12345" Price20="54321" Price30="54321" PriceUnPack10="10" PriceUnPack20="11" PriceUnPack30="12"/>
+	<Jewel Group="14" ID="14" BundleGroup="12" BundleID="31" Price10="54321" Price20="54321" Price30="54321" PriceUnPack10="20" PriceUnPack20="21" PriceUnPack30="22"/>
+	<Jewel Group="14" ID="16" BundleGroup="12" BundleID="136" Price10="54321" Price20="54321" Price30="54321" PriceUnPack10="30" PriceUnPack20="31" PriceUnPack30="32"/>
+	<Jewel Group="14" ID="22" BundleGroup="12" BundleID="137" Price10="54321" Price20="54321" Price30="54321" PriceUnPack10="40" PriceUnPack20="41" PriceUnPack30="42"/>
+	<Jewel Group="14" ID="31" BundleGroup="12" BundleID="138" Price10="54321" Price20="54321" Price30="54321" PriceUnPack10="50" PriceUnPack20="51" PriceUnPack30="52"/>
+	<Jewel Group="14" ID="41" BundleGroup="12" BundleID="139" Price10="54321" Price20="54321" Price30="54321" PriceUnPack10="60" PriceUnPack20="61" PriceUnPack30="62"/>
+	<Jewel Group="14" ID="42" BundleGroup="12" BundleID="140" Price10="54321" Price20="54321" Price30="54321" PriceUnPack10="60" PriceUnPack20="61" PriceUnPack30="62"/>
+	<Jewel Group="12" ID="15" BundleGroup="12" BundleID="141" Price10="54321" Price20="54321" Price30="54321" PriceUnPack10="60" PriceUnPack20="61" PriceUnPack30="62"/>
+	<Jewel Group="14" ID="43" BundleGroup="12" BundleID="142" Price10="54321" Price20="54321" Price30="54321" PriceUnPack10="60" PriceUnPack20="61" PriceUnPack30="62"/>
+	<Jewel Group="14" ID="44" BundleGroup="12" BundleID="143" Price10="54321" Price20="54321" Price30="54321" PriceUnPack10="60" PriceUnPack20="61" PriceUnPack30="62"/>
+	<Jewel Group="14" ID="44" BundleGroup="12" BundleID="143" Price10="54321" Price20="54321" Price30="54321" PriceUnPack10="60" PriceUnPack20="61" PriceUnPack30="62"/>
+</PackSystem>

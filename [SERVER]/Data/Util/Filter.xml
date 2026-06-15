@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+//===================================================================================
+// LTPTeam
+// ----------------------------------------------------------------------------------
+// Description: Command settings file
+// ----------------------------------------------------------------------------------
+// Revision: 	14:08 11.04.2017
+//===================================================================================
+-->
+
+<!--
+//
+// ### Filter::Restrict ###
+//	Word: a word to restrict from entire Game Play chatting
+//
+// ~ IMPORTANT ~ File must be saved with UTF-8 Without BOM encoding, one word per line (without any spaces)
+//
+// STRICTLY NO COMMENTS INSIDE TAGS
+-->
+
+<Filter>
+	<Restrict Word="fuck" />
+	<Restrict Word="shit" />
+	<Restrict Word="suka" />
+	<Restrict Word="блять" />
+</Filter>

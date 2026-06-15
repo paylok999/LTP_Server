@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Shop>
+	<Item Type="7" Index="30" Level="0" Dur="0" Skill="0" Luck="1" Option="3" Exc="0" Anc="0" OptionEx="1" PriceType="1" BuyValue="0" />
+	<Item Type="7" Index="30" Level="0" Dur="0" Skill="0" Luck="1" Option="3" Exc="0" Anc="0" OptionEx="0" PriceType="0" BuyValue="0" />
+	<Item Type="7" Index="1" Level="0" Dur="0" Skill="0" Luck="0" Option="0" Exc="0" Anc="5" OptionEx="0" PriceType="0" BuyValue="0" />
+</Shop>

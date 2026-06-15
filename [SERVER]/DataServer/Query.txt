@@ -1,0 +1,3 @@
+[Query]
+RankingsQuery1 = "SELECT TOP 100 [c].[Name], [c].[cLevel], [c].[Class], [c].[MapNumber], [c].[ResetCount], [c].[MasterResetCount], ISNULL([gr].[Family], 0) as [Family], ISNULL([msk].[MasterLevel], 0) as [MasterLevel], ISNULL([ms].[ConnectStat], 0) as [ConnectStat], [mi].[AccountLevel] FROM [dbo].[Character] [c] LEFT JOIN [dbo].[Gens_Rank] [gr] on [gr].[Name] = [c].[Name] LEFT JOIN [dbo].[MasterSkillTree] [msk] on [msk].[Name] = [c].[Name] LEFT JOIN [dbo].[MEMB_STAT] [ms] on [ms].[memb___id] = [c].[AccountID] LEFT JOIN [dbo].[MEMB_INFO] [mi] on [mi].[memb___id] = [c].[AccountID] ORDER BY [c].[MasterResetCount] DESC, [c].[ResetCount] DESC, [c].[cLevel] DESC"
+RankingsQuery2 = ""

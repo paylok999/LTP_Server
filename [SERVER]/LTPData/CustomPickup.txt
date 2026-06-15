@@ -1,0 +1,20 @@
+[CustomPickup]
+
+PickupEnabled_AL0 = 0	; on/off item pick-up NON-VIP
+PickupEnabled_AL1 = 0	; on/off item pick-up VIP-1
+PickupEnabled_AL2 = 0	; on/off item pick-up VIP-2
+PickupEnabled_AL3 = 0	; on/off item pick-up VIP-3
+
+ZenPrice_AL0 = 10000	; zen price for item pick-up NON-VIP
+ZenPrice_AL1 = 10000	; zen price for item pick-up VIP-1
+ZenPrice_AL2 = 10000	; zen price for item pick-up VIP-2
+ZenPrice_AL3 = 10000	; zen price for item pick-up VIP-3
+
+//Command argument for pick excellent items
+CommandArg1 = excellent
+
+//Command argument for pick other items (configurable in \\LTPData\\PickupItems.txt)
+CommandArg2 = jewels
+
+//Command argument to disable pickup
+CommandArg3 = clear

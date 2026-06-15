@@ -1,0 +1,18 @@
+//ITS IS PREMIUM CUSTOM, YOU NEED BUY IT, BEFORE USE IT
+0 //Background color
+//Red   Green   Blue   Alpha
+0       0       0      150
+end
+
+1 //Items tooltip
+//ItemId   TooltipID   ColorR  ColorG  ColorB  ColorA   BgColorR   BgColorG   BgColorB   BgColorA   Font   Text
+6801	   0           255     255     255     255      168        102        0          255        0	   "Health: %d"
+6801	   1           255     255     255     255      0          0          0          255        0	   "LOL KEK CHEBURECK1"
+6801	   2           255     255     255     255      255        0          0          255        0	   "LOL KEK CHEBURECK2"
+6801	   3           255     255     255     255      0          0          0          255        0	   "LOL KEK CHEBURECK3"
+6801	   4           255     255     255     255      255        0          0          255        0	   "LOL KEK CHEBURECK4"
+6801	   5           255     255     255     255      0          0          0          255        0	   "LOL KEK CHEBURECK5"
+6801	   6           255     255     255     255      255        0          0          255        0	   "LOL KEK CHEBURECK6"
+6801	   7           255     255     255     255      0          0          0          255        0	   "LOL KEK CHEBURECK7"
+6801	   8           255     255     255     255      255        0          0          255        0	   "LOL KEK CHEBURECK8"
+end

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chaosmachine>
+	<mixlist>
+		<recipe index="187">TEST.xml</recipe>
+		<recipe index="85">Lion.xml</recipe>
+		<recipe index="86">Flower.xml</recipe>
+		<recipe index="87">Emperor.xml</recipe>
+		<recipe index="88">SteelWarrior.xml</recipe>
+		<recipe index="89">Power.xml</recipe>
+		<recipe index="90">Defender.xml</recipe>
+		<recipe index="91">Evil.xml</recipe>
+		<recipe index="92">Prisoner.xml</recipe>
+		<recipe index="93">FallenAngel.xml</recipe>
+		<recipe index="94">Nemesis.xml</recipe>
+		<recipe index="95">GraceOfGod.xml</recipe>
+		<recipe index="98">Punisher.xml</recipe>
+		<recipe index="99">Cronos.xml</recipe>
+		<recipe index="100">WareWolf.xml</recipe>
+		<recipe index="101">GoldenSword.xml</recipe>
+		<recipe index="102">GoldenScepter.xml</recipe>
+		<recipe index="103">GoldenStaff.xml</recipe>
+		<recipe index="104">GoldenShield.xml</recipe>
+		<recipe index="105">ArtefactSword.xml</recipe>
+		<recipe index="106">ArtefactScepter.xml</recipe>
+		<recipe index="107">ArtefactStaff.xml</recipe>
+		<recipe index="108">ArtefactShield.xml</recipe>
+	</mixlist>
+</chaosmachine>

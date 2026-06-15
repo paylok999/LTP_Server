@@ -1,0 +1,14 @@
+//Account         Name         Level
+//"louismk"	"LuisADM"	2
+"admin"	"Admin"	2
+"admin"	"Test"	2
+"admin"	"WorldofMU"	1
+"gmkeeks"	"Keeks"	2
+"gmkeeks"	"Password"	2
+"gmkeeks2"	"KeeksADMIN"	2
+"hunks25"	"MuAddict"	1
+"gmkeeks3"	"ServerBoy"	1
+"taoevent"	"TaoEvent"	1
+"gmkeeks5"	"Passcode`"	1
+"gmkeeks5"	"KeeksADM"	1
+end

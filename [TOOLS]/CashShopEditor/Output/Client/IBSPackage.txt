@@ -1,0 +1,31 @@
+31@1@100@Seal of Ascension@170@250@EXP gain increase 50%  #*Applicable to Master Level.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1000|@6699@2@3@1000|1001|1002|@0@508@669
+31@2@129@Max SD Boost Aura@170@110@Increase Maximum SD@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1290|@6761@2@3@1290|1291|1292|@0@508@669
+31@3@101@Scroll of Quickness@170@90@*Increases Attack Speed by 300@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1010|@7240@2@3@1010|1011|1012|@0@508@669
+31@4@102@Scroll of Defense@170@150@*Increases Defense by 750@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1020|@7241@2@3@1020|1021|1022|@0@508@669
+31@5@103@Scroll of Wrath@170@135@*Increases Attack Power by 150@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1030|@7242@2@3@1030|1031|1032|@0@508@669
+31@6@104@Scroll of Wizardry@170@115@*Increases Wizardry by 500@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1040|@7243@2@3@1040|1041|1042|@0@508@669
+31@7@105@Scroll of Health@170@100@*Increases HP by 5000@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1050|@7244@2@3@1050|1051|1052|@0@508@669
+31@8@106@Scroll of Mana@170@50@*Increases MP  by 10000@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1060|@7245@2@3@1060|1061|1062|@0@508@669
+31@9@107@Scroll of Battle@170@110@*Increases Critical Damage by 20% #*You cannot use Scroll of Strengthener at the same time@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1070|@7265@2@3@1070|1071|1072|@0@508@669
+31@10@108@Scroll of Strength@170@110@*Increases Excellent Damage by 20%. #*You cannot use Scroll of Battle at the same time@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1080|@7266@2@3@1080|1081|1082|@0@508@669
+32@1@109@Demon@170@35@*Attack, Wizardy and Curse +40% #*Attack Speed +10@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1090|@6720@2@3@1090|1091|1092|@0@508@669
+32@2@110@Spirit of Guardian@170@35@*Reduces damage from monsters by 30% #*HP +50@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1100|@6721@2@3@1100|1101|1102|@0@508@669
+32@3@111@Pet Unicorn@170@45@*Collects zen automatically  #*Zen increase +50%  #*Defensibility +50  #*Minimum Level:28@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1110|@6762@2@3@1110|1111|1112|@0@508@669
+32@4@112@Lethal Wizard's Ring@170@45@*Wizardry + 15% #*Attack power +15% #*Attack(Wizardry)Speed +15@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1120|@6763@2@3@1120|1121|1122|@0@508@669
+32@5@113@Panda Ring@170@75@Transform into Panda#Zen increase 50%#Damage /Wizardry /Curse +30 #Wear it with Pet Panda and get 20% extra EXP@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1130|@6732@2@3@1130|1131|1132|@0@508@669
+32@6@114@Pet Panda@170@100@EXP 20% increase#collects Zen around #Increase defensive skill + 50 #-Wear it with Panda Transformation Ring and get 20% extra EXP@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1140|@6736@2@3@1140|1141|1142|@0@508@669
+32@7@115@Skeleton Transformation Ring@170@100@Attack power +40#Wizardry increase +40#Curse spell +40#Wear it with Pet Skeleton and get 30% extra EXP@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1150|@6778@2@3@1150|1151|1152|@0@508@669
+32@8@116@Pet Skeleton@170@125@Zens are automatically collected#Attack power/Wizardry/Curse spell 20% increase#- Attack speed increase +10#- Exp 30% increase #-Wear it with Skeleton Transformation Ring and get 30% extra EXP@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1160|@6779@2@3@1160|1161|1162|@0@508@669
+34@1@117@Devil Square Ticket@170@100@Devil Square Ticket 10 - 50 - 100 EA@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1170|@6702@2@3@1170|1171|1172|@0@508@669
+34@2@118@Blood Castle Ticket@170@100@Blood Castle Ticket 10 - 50 - 100 EA@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1180|@6703@2@3@1180|1181|1182|@0@508@669
+34@3@119@Kalima Ticket@170@100@Kalima Ticket 10 - 50 - 100 EA@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1190|@6704@2@3@1190|1191|1192|@0@508@669
+34@4@120@Illusion Temple Ticket@170@100@Illusion Temple Ticket 10 - 50 - 100 EA@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1200|@6717@2@3@1200|1201|1202|@0@508@669
+34@5@125@Access Ticket to Doppelganger@170@100@Doppelganger Ticket 10 - 50 - 100 EA@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1250|@6781@2@3@1250|1251|1252|@0@508@669
+34@6@127@Access Ticket to Varka@170@100@Imperial Guardian Ticket 10 - 50 - 100 EA@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1270|@6782@2@3@1270|1271|1272|@0@508@669
+34@7@130@Access Ticket to Varka 7@170@100@Imperial Guardian Ticket 10 - 50 - 100 EA@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1300|@6783@2@3@1300|1301|1302|@0@508@669
+34@8@126@Spirit Map@170@10@Acheron Entrance Item.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1260|@7862@2@1@1260|@0@508@669
+34@9@128@Nixies Spirit Fragment@170@20@Nix Zone Entrance Item.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1280|@7864@2@1@1280|@0@508@669
+35@1@121@Talisman of Resurrection@170@35@*Resurrect automatically in the place character died#(When game client is once closed all the restored data will be initialized#It cannot be used in event maps)#*The coordinates will be initialized when character reconnects.#*You can only use once per item.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1210|@6725@2@1@1210|@0@508@669
+35@2@122@Talisman of Mobility@170@35@*Return to a place where you used Talisman of Mobility initially #(When game client is once closed all the restored data will be initialized.#It cannot be used in event maps)#*The coordinates will be initialized when character reconnects.#*You can only use once per item.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1220|@6726@2@1@1220|@0@508@669
+35@3@123@Talisman of Luck@170@50@*Increases the success rate 1,5,10% of combination.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1230|@7221@2@3@1230|1231|1232|@0@508@669
+35@4@124@Talisman of Chaos Assembly@170@100@*You need at least a +10-+15 item level upgrade to prevent this item from disappearing.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1240|@7264@2@1@1240|@0@508@669

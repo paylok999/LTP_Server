@@ -1,0 +1,3 @@
+//ItemID    OptionIndex    ClientOptionIndex    NewOptionIndex    NewOptionValue
+3584        86               92                   117               100
+end

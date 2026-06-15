@@ -1,0 +1,18 @@
+//Section   Type   Level   Dur   Skill   Luck   Option   Excellent   Ancient   OptionEx
+7	        59	   0	   0	 0	     1	    0	     0           0         0         //Sacred
+8	        59	   0	   0	 0	     1	    0	     0           0         0         //Sacred
+9	        59	   0	   0	 0	     1	    0	     0           0         0         //Sacred
+11	        59	   0	   0	 0	     1	    0	     0           0         0         //Sacred
+0	        32	   0	   0	 1	     1	    0	     0           0         0         //Sacred Glove
+0	        32	   0	   0	 1	     1	    0	     0           0         0         //Sacred Glove
+2	        4	   0	   0	 1	     1	    0	     0           0         0         //Crystal Morning Star
+15	        31	   0	   0	 0	     0	    0	     0           0         0         //Dark Side Parchment
+15	        30	   0	   0	 0	     0	    0	     0           0         0         //Chain Drive Parchment
+7	        59	   7	   0	 0	     1	    0	     0           0         0         //Sacred
+8	        59	   7	   0	 0	     1	    0	     0           0         0         //Sacred
+9	        59	   7	   0	 0	     1	    0	     0           0         0         //Sacred
+11	        59	   7	   0	 0	     1	    0	     0           0         0         //Sacred
+0	        32	   7	   0	 1	     1	    0	     0           0         0         //Sacred Glove
+0	        32	   7	   0	 1	     1	    0	     0           0         0         //Sacred Glove
+2	        4	   7	   0	 1	     1	    0	     0           0         0         //Crystal Morning Star
+end

@@ -1,0 +1,122 @@
+[GameServerInfo]
+;==================================================
+; Blood Castle Event Settings
+;==================================================
+BloodCastleEvent = 1								;Turn on or off Blood Castle event (0 = Off / 1 = League).
+BloodCastleMaxUser = 10								;Max. User
+BloodCastleNewLevelSettings = 0
+BloodCastleMaxDayEntry_AL0 = 4						;Maximum entries per day (0 - unlimited)
+BloodCastleMaxDayEntry_AL1 = 4						;Maximum entries per day (0 - unlimited)
+BloodCastleMaxDayEntry_AL2 = 4						;Maximum entries per day (0 - unlimited)
+BloodCastleMaxDayEntry_AL3 = 4						;Maximum entries per day (0 - unlimited)
+
+;==================================================
+; Devil Square Event Settings
+;==================================================
+DevilSquareEvent = 1								;Turn on or off event Devil Square (0 = Off / 1 = League).
+DevilSquareMaxUser = 15								;Max. User
+DevilSquareNewLevelSettings = 0
+DevilSquareMaxDayEntry_AL0 = 2						;Maximum entries per day (0 - unlimited)
+DevilSquareMaxDayEntry_AL1 = 2						;Maximum entries per day (0 - unlimited)
+DevilSquareMaxDayEntry_AL2 = 2						;Maximum entries per day (0 - unlimited)
+DevilSquareMaxDayEntry_AL3 = 2						;Maximum entries per day (0 - unlimited)
+
+;==================================================
+; Illusion Temple Event Settings
+;==================================================
+IllusionTempleEvent = 1								;Turn on or off event Illusion Temple (0 = Off / 1 = League).
+IllusionTempleMinUser = 2							;Min. User for start
+IllusionTempleRewardFenrirRate = 5					;Percentage chance to drop a Golden Fenrir for the winner of the event. (x / 10000)
+IllusionTempleNewLevelSettings = 1
+
+;==================================================
+; Bonus Manager Settings
+;==================================================
+BonusManagerSwitch = 1								;
+
+;==================================================
+; Castle Deep Event Settings
+;==================================================
+CastleDeepEvent = 0									;Turn on or off Castle Deep event (0 = Off / 1 = League).
+CastleDeepEventTime = 0							;The Castle Deep event duration time.
+
+;==================================================
+; Castle Siege Event Settings
+;==================================================
+CastleSiegeEvent = 0								;Turn on or off event Castle Siege (0 = Off / 1 = League).
+CastleSiegeCycleStartYear = 2016						;Year initialization of the Castle Siege cycle.
+CastleSiegeCycleStartMonth = 5						;Startup Month of Castle Siege cycle.
+CastleSiegeCycleStartDay = 5						;Startup Day at Castle Siege cycle.
+CastleSiegeSpecificState = 0						;
+CastleSiegeStateStartYear = 0						;
+CastleSiegeStateStartMonth = 0						;
+CastleSiegeStateStartDay = 0						;
+CastleSiegeStateStartHour = 0						;
+CastleSiegeStateStartMinute = 0						;
+CastleSiegeOffensiveWeaponDamage = 300				;Damage caused by the offending catapult in Castle Siege.
+CastleSiegeDefensiveWeaponDamage = 200				;Damage caused by catapult defender in Castle Siege.
+CastleSiegeLowerAccumulatedTimeValue = 0			;Total time, in milliseconds, lost when losing connection to the crown.
+CastleSiegeDecayAccumulatedTimeValue = 0			;Total time, in milliseconds, lost every second out of the crown room.
+
+;==================================================
+; Chaos Castle Event Settings
+;==================================================
+ChaosCastleEvent = 1								;Turn on or off Chaos Castle event (0 = Off / 1 = League).
+ChaosCastleMinUser = 1								;Min. User for start.
+ChaosCastleBlowUserRate = 50						;Percentage chance of Chaos Castle monsters explode after death.
+
+;==================================================
+; Crywolf Event Settings
+;==================================================
+CrywolfEvent = 1									;Turn on or off Crywolf event (0 = Off / 1 = League).
+CrywolfBenefitSwitch = 1							;Turn on or off the benefits of winning the event (0 = Off / 1 = League).
+CrywolfBenefitChaosRate = 10						;Increase in the success rate of ChaosMix after winning the event.
+CrywolfBenefitMonsterLife = 80						;Percentage of life of the monsters after winning the event.
+CrywolfPenaltySwitch = 0							;Turn on or off the penalties to lose the event (0 = Off / 1 = League).
+CrywolfPenaltyJewelDrop = 70						;Drop Percentage of jewelry after missing the event.
+CrywolfPenaltyExperience = 70						;Percentage of experience gained after losing the event.
+
+;==================================================
+; Kalima Event Settings
+;==================================================
+MaxKalimaEnterUser = 2								;Max. number of users that can pass through the gate
+MaxKalimaStand = 60								;Time life kalima gate (in seconds)
+MaxKalimaNextStand = 60								;Time life next kalima gate (in seconds)
+
+;==================================================
+; Double Goer Event Settings
+;==================================================
+DoubleGoerEvent = 1									;Turn on or off Double Goer Event (0 = Off / 1 = League).
+DoubleGoerDifficultRate = 10						;Double Event difficulty Percentage Goer.
+
+;==================================================
+; Imperial Guardian Event Settings
+;==================================================
+ImperialGuardianEvent = 1							;Turn on or off event Imperial Guardian (0 = Off / 1 = League).
+ImperialGuardianDifficultRate = 100					;Imperial Guardian Event difficulty percentage.
+
+;==================================================
+; Invasion Manager Settings
+;==================================================
+InvasionManagerSwitch = 1							;Turn on or off invasions system (0 = Off / 1 = League).
+
+;==================================================
+; Kanturu Event Settings
+;==================================================
+KanturuEvent = 1									;Turn on or off Kanturu event (0 = Off / 1 = League).
+
+;==================================================
+; Moss Merchant Event Settings
+;==================================================
+MossMerchantEvent = 1								;Turn on or off Moss Merchant (0 = Off / 1 = League).
+MossMerchantEventTime = 120							;Moss Merchant Length.
+
+;==================================================
+; Golden Archer Settings
+;==================================================
+GoldenArcherNeedRenaCount = 10							;Need rena to get prize.
+
+;==================================================
+; Raklion Event Settings
+;==================================================
+RaklionEvent = 1									;Turn on or off Raklion event (0 = Off / 1 = League).

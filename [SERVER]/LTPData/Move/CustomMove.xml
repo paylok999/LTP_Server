@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<CustomMove>
+	<move text="test map 1"  map_number="0" min_level="400" min_reset="50" min_greset="0" min_account_level="0" price="100" price_type="0"/>
+	<move text="test map 2"  map_number="0" min_level="400" min_reset="50" min_greset="0" min_account_level="0" price="100" price_type="0"/>
+	<move text="test map 3"  map_number="0" min_level="400" min_reset="50" min_greset="15" min_account_level="0" price="100" price_type="0"/>
+	<move text="test map 4"  map_number="0" min_level="400" min_reset="50" min_greset="50" min_account_level="0" price="100" price_type="2"/>
+	<move text="test map 5"  map_number="0" min_level="400" min_reset="0" min_greset="0" min_account_level="1" price="100" price_type="1"/>
+	<move text="test map 6"  map_number="0" min_level="400" min_reset="50" min_greset="0" min_account_level="1" price="100" price_type="0"/>
+	<move text="test map 7"  map_number="0" min_level="400" min_reset="50" min_greset="0" min_account_level="1" price="100" price_type="0"/>
+	<move text="test map 8"  map_number="0" min_level="400" min_reset="50" min_greset="0" min_account_level="1" price="100" price_type="3"/>
+	<move text="test map 9"  map_number="0" min_level="400" min_reset="50" min_greset="0" min_account_level="1" price="100" price_type="5"/>
+	<move text="test map 10" map_number="0" min_level="400" min_reset="50" min_greset="0" min_account_level="2" price="100" price_type="0"/>
+	<move text="test map 11" map_number="0" min_level="400" min_reset="50" min_greset="0" min_account_level="2" price="100" price_type="0"/>
+	<move text="test map 12" map_number="0" min_level="400" min_reset="50" min_greset="0" min_account_level="2" price="100" price_type="4"/>
+	<move text="test map 13" map_number="0" min_level="400" min_reset="50" min_greset="0" min_account_level="2" price="100" price_type="0"/>
+	<move text="test map 14" map_number="0" min_level="400" min_reset="50" min_greset="0" min_account_level="3" price="100" price_type="0"/>
+	<move text="test map 15" map_number="0" min_level="400" min_reset="50" min_greset="13" min_account_level="3" price="100" price_type="0"/>
+	<move text="test map 16" map_number="0" min_level="400" min_reset="10" min_greset="0" min_account_level="3" price="100" price_type="0"/>
+	<move text="test map 17" map_number="0" min_level="400" min_reset="50" min_greset="0" min_account_level="3" price="100" price_type="4"/>
+	<move text="test map 18" map_number="0" min_level="400" min_reset="50" min_greset="0" min_account_level="3" price="100" price_type="0"/>
+	<move text="test map 19" map_number="0" min_level="400" min_reset="50" min_greset="0" min_account_level="0" price="100" price_type="0"/>
+	<move text="test map 20" map_number="0" min_level="400" min_reset="50" min_greset="0" min_account_level="0" price="100" price_type="0"/>
+	<move text="test map 21" map_number="0" min_level="400" min_reset="50" min_greset="0" min_account_level="0" price="100" price_type="2"/>
+	<move text="test map 22" map_number="0" min_level="400" min_reset="50" min_greset="0" min_account_level="0" price="100" price_type="0"/>
+	<move text="test map 23" map_number="0" min_level="400" min_reset="50" min_greset="0" min_account_level="0" price="100" price_type="0"/>
+	<move text="test map 24" map_number="0" min_level="400" min_reset="50" min_greset="0" min_account_level="0" price="100" price_type="0"/>
+	<move text="test map 25" map_number="0" min_level="400" min_reset="50" min_greset="0" min_account_level="0" price="100" price_type="1"/>
+	
+</CustomMove>

@@ -1,0 +1,6 @@
+//Section   Type   Level   Dur   Skill   Luck   Option   Excellent   Ancient   OptionEx
+8	        15	   0	   0	 0	     0	    0	     0           0         0         //Storm Crow
+9	        15	   0	   0	 0	     0	    0	     0           0         0         //Storm Crow
+10	        15	   0	   0	 0	     0	    0	     0           0         0         //Storm Crow
+11	        15	   0	   0	 0	     0	    0	     0           0         0         //Storm Crow
+end

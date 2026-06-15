@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ComboSkill>
+	<Class index="0" check_quest="0"> <!-- CLASS_DW -->
+		<SkillListFirst>
+			<Skill index="5"/>
+		</SkillListFirst>
+		
+		<SkillListSecond>
+			<Skill index="38"/>
+			<Skill index="39"/>
+		</SkillListSecond>
+	</Class>
+	
+	<Class index="1" check_quest="3"> <!-- CLASS_DK -->
+		<SkillListFirst>
+			<Skill index="19"/>
+			<Skill index="20"/>
+			<Skill index="21"/>
+			<Skill index="22"/>
+			<Skill index="23"/>
+		</SkillListFirst>
+		
+		<SkillListSecond>
+			<Skill index="41"/>
+			<Skill index="42"/>
+			<Skill index="43"/>
+			<Skill index="232"/>
+			<Skill index="344"/>
+		</SkillListSecond>
+	</Class>
+	
+	<Class index="2" check_quest="2"> <!-- CLASS_FE -->
+		<SkillListFirst>
+			<Skill index="19"/>
+			<Skill index="20"/>
+			<Skill index="21"/>
+			<Skill index="22"/>
+			<Skill index="23"/>
+		</SkillListFirst>
+		
+		<SkillListSecond>
+			<Skill index="41"/>
+			<Skill index="42"/>
+			<Skill index="43"/>
+			<Skill index="232"/>
+			<Skill index="344"/>
+		</SkillListSecond>
+	</Class>
+	
+	<Class index="3" check_quest="0"> <!-- CLASS_MG -->
+		<SkillListFirst>
+			<Skill index="19"/>
+			<Skill index="20"/>
+			<Skill index="21"/>
+			<Skill index="22"/>
+			<Skill index="23"/>
+		</SkillListFirst>
+		
+		<SkillListSecond>
+			<Skill index="41"/>
+			<Skill index="42"/>
+			<Skill index="43"/>
+			<Skill index="232"/>
+			<Skill index="344"/>
+		</SkillListSecond>
+	</Class>
+	
+	<Class index="4" check_quest="0"> <!-- CLASS_DL -->
+		<SkillListFirst>
+			<Skill index="19"/>
+			<Skill index="20"/>
+			<Skill index="21"/>
+			<Skill index="22"/>
+			<Skill index="23"/>
+		</SkillListFirst>
+		
+		<SkillListSecond>
+			<Skill index="41"/>
+			<Skill index="42"/>
+			<Skill index="43"/>
+			<Skill index="232"/>
+			<Skill index="344"/>
+		</SkillListSecond>
+	</Class>
+	
+	<Class index="5" check_quest="2"> <!-- CLASS_SU -->
+		<SkillListFirst>
+			<Skill index="19"/>
+			<Skill index="20"/>
+			<Skill index="21"/>
+			<Skill index="22"/>
+			<Skill index="23"/>
+		</SkillListFirst>
+		
+		<SkillListSecond>
+			<Skill index="41"/>
+			<Skill index="42"/>
+			<Skill index="43"/>
+			<Skill index="232"/>
+			<Skill index="344"/>
+		</SkillListSecond>
+	</Class>
+	
+	<Class index="6" check_quest="0"> <!-- CLASS_RF -->
+		<SkillListFirst>
+			<Skill index="19"/>
+			<Skill index="20"/>
+			<Skill index="21"/>
+			<Skill index="22"/>
+			<Skill index="23"/>
+		</SkillListFirst>
+		
+		<SkillListSecond>
+			<Skill index="41"/>
+			<Skill index="42"/>
+			<Skill index="43"/>
+			<Skill index="232"/>
+			<Skill index="344"/>
+		</SkillListSecond>
+	</Class>
+</ComboSkill>

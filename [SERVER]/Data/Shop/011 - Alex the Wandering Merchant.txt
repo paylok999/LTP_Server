@@ -1,0 +1,8 @@
+//Section   Type   Level   Dur   Skill   Luck   Option   Excellent   Ancient   OptionEx
+7	        25	   0	   0	 0	     0	    0	     0           0         0        //Light Plate 
+8	        25	   0	   0	 0	     0	    0	     0           0         0        //Light Plate
+9	        25	   0	   0	 0	     0	    0	     0           0         0        //Light Plate
+10	        25	   0	   0	 0	     0	    0	     0           0         0        //Light Plate
+11	        25	   0	   0	 0	     0	    0	     0           0         0        //Light Plate
+2	        8	   0	   0	 0	     0	    0	     0           0         0        //Battle Scepter
+end

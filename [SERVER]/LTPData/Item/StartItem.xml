@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+	CLASS_DW = 0,
+	CLASS_DK = 1,
+	CLASS_FE = 2,
+	CLASS_MG = 3,
+	CLASS_DL = 4,
+	CLASS_SU = 5,
+	CLASS_RF = 6,
+-->
+<CustomStartItem Enable="0">
+	<!-- Dark Wizard -->
+	<Item Class="0" Section="13" Type="145" Level="0" Durability="0" Skill="0" Luck="0" Option="0" ExcOption="0" AncOption="0" JoHOption="0" ExOption="0" SocketOpt1="255" SocketOpt2="255" SocketOpt3="255" SocketOpt4="255" SocketOpt5="255" Time="60"/>	
+	<Item Class="0" Section="0" Type="0" Level="0" Durability="0" Skill="0" Luck="0" Option="0" ExcOption="0" AncOption="0" JoHOption="0" ExOption="0" SocketOpt1="255" SocketOpt2="255" SocketOpt3="255" SocketOpt4="255" SocketOpt5="255" Time="60"/>	
+	<!-- Dark Knight -->
+	<Item Class="1" Section="0" Type="0" Level="15" Durability="0" Skill="0" Luck="0" Option="7" ExcOption="0" AncOption="0" JoHOption="0" ExOption="0" SocketOpt1="255" SocketOpt2="255" SocketOpt3="255" SocketOpt4="255" SocketOpt5="255" Time="60"/>	
+<!-- Elf -->
+	<Item Class="2" Section="0" Type="0" Level="15" Durability="0" Skill="0" Luck="0" Option="7" ExcOption="0" AncOption="0" JoHOption="0" ExOption="0" SocketOpt1="255" SocketOpt2="255" SocketOpt3="255" SocketOpt4="255" SocketOpt5="255" Time="60"/>	
+<!-- Magic Gladiator -->
+	<Item Class="3" Section="0" Type="0" Level="15" Durability="0" Skill="0" Luck="0" Option="7" ExcOption="0" AncOption="0" JoHOption="0" ExOption="0" SocketOpt1="255" SocketOpt2="255" SocketOpt3="255" SocketOpt4="255" SocketOpt5="255" Time="60"/>	
+<!-- Dark Lord -->
+	<Item Class="4" Section="0" Type="0" Level="15" Durability="0" Skill="0" Luck="0" Option="7" ExcOption="0" AncOption="0" JoHOption="0" ExOption="0" SocketOpt1="255" SocketOpt2="255" SocketOpt3="255" SocketOpt4="255" SocketOpt5="255" Time="60"/>	
+<!-- Summoner -->
+	<Item Class="5" Section="0" Type="0" Level="15" Durability="0" Skill="0" Luck="0" Option="7" ExcOption="0" AncOption="0" JoHOption="0" ExOption="0" SocketOpt1="255" SocketOpt2="255" SocketOpt3="255" SocketOpt4="255" SocketOpt5="255" Time="60"/>	
+<!-- RAge Fighter -->
+	<Item Class="6" Section="0" Type="0" Level="15" Durability="0" Skill="0" Luck="0" Option="7" ExcOption="0" AncOption="0" JoHOption="0" ExOption="0" SocketOpt1="255" SocketOpt2="255" SocketOpt3="255" SocketOpt4="255" SocketOpt5="255" Time="60"/>	
+
+</CustomStartItem>
+
+<CustomStartBuff Enable="0">
+	<Buff Class="0" Effect="0" Power1="12" Power2="15" Time="60"/>
+</CustomStartBuff>

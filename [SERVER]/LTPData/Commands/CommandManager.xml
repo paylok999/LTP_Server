@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+//===================================================================================
+// LTPTeam
+// ----------------------------------------------------------------------------------
+// Description: Command settings file
+// ----------------------------------------------------------------------------------
+// Revision: 	23:10 10.04.2017
+//===================================================================================
+-->
+
+<!--
+	Index:			Static Index of command
+	Active:			Command status
+	Access:			Access code for command (1: User, 32: GM)
+	MinLevel:		Min. level for using command
+	MinReset:		Min. reset for using command
+	PriceType:		Type of price (0: Zen, 1: WCoinC, 2: WCoinP, 3: WCoinG, 4: Credits)
+	Price:			Cost for command
+	AccountLevel:	AccountLevel for this command (0: None, 1: Bronze, 2: Silver, 3: Gold)
+-->
+<CommandManager>
+	<Command Index="1" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0" AccountLevel="0">/move</Command>					<!-- Arg: <MapName> | Effect: User teleport in map -->
+	<Command Index="2" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/post</Command>					<!-- Arg: <Text> | Effect: Send text to post chat -->
+	<Command Index="3" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/addstr</Command>				<!-- Arg: <Value> | Effect: Add value to Strength from point -->
+	<Command Index="4" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/addagi</Command>				<!-- Arg: <Value> | Effect: Add value to Agility from point -->
+	<Command Index="5" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/addvit</Command>					<!-- Arg: <Value> | Effect: Add value to Vitality from point -->
+	<Command Index="6" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/addene</Command>				<!-- Arg: <Value> | Effect: Add value to Energy from point -->
+	<Command Index="7" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/addcmd</Command>				<!-- Arg: <Value> | Effect: Add value to Command from point -->
+	<Command Index="8" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="1" Price_AL0="100000" Price_AL1="100000" Price_AL2="100000" Price_AL3="100000"  AccountLevel="0">/pkclear</Command>				<!-- Arg: <NONE> | Effect: PK status reset -->
+	<Command Index="9" Active="0" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/money</Command>				<!-- Arg: <Value> | Effect: Set money value -->
+	<Command Index="10" Active="0" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/change</Command>				<!-- Arg: <NONE> | Effect: ChangeUP -->
+	<Command Index="11" Active="0" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/ware</Command>					<!-- Arg: <ID> | Effect: Change id of warehouse -->
+	<Command Index="12" Active="0" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/reset</Command>				<!-- Arg: <NONE> | Effect: Make reset -->
+	<Command Index="13" Active="1" Access="32" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/gmmove</Command>			<!-- Arg: <UserName> <MapNumber> <X> <Y> | Effect: Teleport user in target location -->
+	<Command Index="14" Active="1" Access="32" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/gmpost</Command>			<!-- Arg: <Text> | Effect: Send notice to all -->
+	<Command Index="15" Active="1" Access="32" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/track</Command>				<!-- Arg: <Name> | Effect: Teleport to user -->
+	<Command Index="16" Active="1" Access="32" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/trace</Command>				<!-- Arg: <Name> | Effect: Teleport user to you -->
+	<Command Index="17" Active="1" Access="32" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/disconnect</Command>		<!-- Arg: <UserName> | Effect: Discconect user from the game -->
+	<Command Index="18" Active="1" Access="32" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/fireworks</Command>			<!-- Arg: <NONE> | Effect: Firecracker -->
+	<Command Index="19" Active="1" Access="32" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/make</Command>				<!-- Arg: <Count> <ItemType> <ItemIndex> <Level> <Skill> <Luck> <Option> <ExcOpt> <AncientOpt> | Effect: Make N x Items in your inventory -->
+	<Command Index="20" Active="1" Access="32" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/skin</Command>				<!-- Arg: <UserName> <SkinNumber> | Effect: Set skin for player (-1: default skin, 0 ~ 600: skin number from monster.txt) -->
+	<Command Index="21" Active="1" Access="32" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/setmoney</Command>		<!-- Arg: <UserName> <Value> | Effect: Set user money value -->
+	<Command Index="22" Active="1" Access="32" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/gnotice</Command>				<!-- Arg: <Text> | Effect: Send global notice to all -->
+	<Command Index="23" Active="1" Access="32" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/setcredits</Command>
+	<Command Index="24" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/war</Command>					<!-- Arg: <GuildName> | Effect: Start Guild War -->
+	<Command Index="25" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/soccer</Command>				<!-- Arg: <GuildName> | Effect: Start Guild Soccer War -->
+	<Command Index="26" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/re</Command>						<!-- Arg: <mode> | Effect: Request -->
+	<Command Index="27" Active="0" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/store</Command>				<!-- Arg: <Type> | Effect: Open custom store -->
+	<Command Index="28" Active="0" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/offstore</Command>				<!-- Arg: <NONE> | Effect: Open custom offline store -->
+	<Command Index="29" Active="1" Access="32" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/hide</Command>				<!-- Arg: <NONE> | Effect: EFFECT INVISIBILITY ON/OFF -->
+	<Command Index="32" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/teleport</Command>				<!-- Arg: <ZoneName> | Effect: Teleporter command (Configure in Teleporter.txt) -->
+	<Command Index="33" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/clearinv</Command>			<!-- Arg: <NONE> | Effect: Clear your inventory -->
+	<Command Index="34" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/dcfriend</Command>			<!-- Arg: <Account> <Password> | Effect: Disconnect friend -->
+	<Command Index="39" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/offexp</Command>			<!-- Arg: <Account> <Password> | Effect: Disconnect friend -->
+	<Command Index="40" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/pickup</Command>				<!-- Arg: <Type> | Effect: Pickup command (Configure in CustomPickup.txt)-->
+	<Command Index="41" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/quest</Command>				<!-- Arg: <NONE> | Effect: Get quest info-->
+	<Command Index="42" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/partyleader</Command>		<!-- Arg: <UserName> | Effect: Change party leader -->
+	<Command Index="43" Active="1" Access="32" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/drop</Command>				<!-- Arg: <ItemType> <ItemIndex> <Level> <Skill> <Luck> <Option> <ExcOpt> <AncientOpt> | Effect: Drop Item on floor -->
+	<Command Index="44" Active="1" Access="32" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/chatban</Command>			<!-- Arg: <UserName> <BanTime> | Effect: Ban chat -->
+	<Command Index="45" Active="1" Access="32" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/chatunban</Command>		<!-- Arg: <UserName> | Effect: Unban chat -->
+	<Command Index="46" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/prop</Command>					
+	<Command Index="47" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/accept</Command>
+	<Command Index="48" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/teleport</Command>
+	<Command Index="49" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/divorce</Command>
+	<Command Index="50" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/mlreset</Command>
+	<Command Index="51" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/spawn</Command>
+	<Command Index="52" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/ex</Command>
+	
+	<Command Index="53" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/sendzen</Command>
+	<Command Index="54" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/sendbless</Command>
+	<Command Index="55" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/sendsoul</Command>
+	<Command Index="56" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/sendchaos</Command>
+	<Command Index="57" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/sendlife</Command>
+	<Command Index="58" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/sendcreation</Command>
+	<Command Index="59" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/recvzen</Command>
+	<Command Index="60" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/recvbless</Command>
+	<Command Index="61" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/recvsoul</Command>
+	<Command Index="62" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/recvchaos</Command>
+	<Command Index="63" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/recvlife</Command>
+	<Command Index="64" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/recvcreation</Command>
+	
+	<Command Index="65" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/packjewel</Command>
+	<Command Index="66" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/unpackjewel</Command>
+	
+	<Command Index="67" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/sendguardian</Command>
+	<Command Index="68" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/sendharmony</Command>
+	<Command Index="69" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/sendlowstone</Command>
+	<Command Index="70" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/sendhighstone</Command>
+	<Command Index="71" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/sendgemstone</Command>
+	<Command Index="72" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/recvguardian</Command>
+	<Command Index="73" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/recvharmony</Command>
+	<Command Index="74" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/recvlowstone</Command>
+	<Command Index="75" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/recvhighstone</Command>
+	<Command Index="76" Active="1" Access="1" MinLevel="0" MinReset="0" PriceType="0" Price_AL0="0" Price_AL1="0" Price_AL2="0" Price_AL3="0"  AccountLevel="0">/recvgemstone</Command>
+</CommandManager>

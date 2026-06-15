@@ -1,0 +1,131 @@
+[CustomAttack]
+;==================================================
+; Custom Attack Settings
+;==================================================
+CustomAttackSwitch = 1
+CustomAttackEnable_AL0 = 1
+CustomAttackEnable_AL1 = 1
+CustomAttackEnable_AL2 = 1
+CustomAttackEnable_AL3 = 1
+CustomAttackRequireLevel_AL0 = 0
+CustomAttackRequireLevel_AL1 = 0
+CustomAttackRequireLevel_AL2 = 0
+CustomAttackRequireLevel_AL3 = 0
+CustomAttackRequireReset_AL0 = 0
+CustomAttackRequireReset_AL1 = 0
+CustomAttackRequireReset_AL2 = 0
+CustomAttackRequireReset_AL3 = 0
+CustomAttackText1 = You are not enabled to use /attack
+CustomAttackText2 = You need at least %d level to use the command
+CustomAttackText3 = You need at least %d reset to use the command
+CustomAttackText4 = You already using the command
+CustomAttackText5 = You can't use the command in this location
+CustomAttackText6 = You don't have the required spell to use the command
+
+;==================================================
+; Custom Attack Speed Settings
+;==================================================
+CustomAttackSpeed1_AL0 = 4	;If Agility > 0 and <= 3000
+CustomAttackSpeed1_AL1 = 4	;If Agility > 0 and <= 3000
+CustomAttackSpeed1_AL2 = 4	;If Agility > 0 and <= 3000
+CustomAttackSpeed1_AL3 = 4	;If Agility > 0 and <= 3000
+CustomAttackSpeed2_AL0 = 4	;If Agility > 3000 and <= 6000
+CustomAttackSpeed2_AL1 = 4	;If Agility > 3000 and <= 6000
+CustomAttackSpeed2_AL2 = 4	;If Agility > 3000 and <= 6000
+CustomAttackSpeed2_AL3 = 4	;If Agility > 3000 and <= 6000
+CustomAttackSpeed3_AL0 = 3	;If Agility > 6000 and <= 9000
+CustomAttackSpeed3_AL1 = 3	;If Agility > 6000 and <= 9000
+CustomAttackSpeed3_AL2 = 3	;If Agility > 6000 and <= 9000
+CustomAttackSpeed3_AL3 = 3	;If Agility > 6000 and <= 9000
+CustomAttackSpeed4_AL0 = 3	;If Agility > 9000 and <= 12000
+CustomAttackSpeed4_AL1 = 3	;If Agility > 9000 and <= 12000
+CustomAttackSpeed4_AL2 = 3	;If Agility > 9000 and <= 12000
+CustomAttackSpeed4_AL3 = 3	;If Agility > 9000 and <= 12000
+CustomAttackSpeed5_AL0 = 3	;If Agility > 12000 and <= 15000
+CustomAttackSpeed5_AL1 = 3	;If Agility > 12000 and <= 15000
+CustomAttackSpeed5_AL2 = 3	;If Agility > 12000 and <= 15000
+CustomAttackSpeed5_AL3 = 3	;If Agility > 12000 and <= 15000
+CustomAttackSpeed6_AL0 = 2	;If Agility > 15000 and <= 18000
+CustomAttackSpeed6_AL1 = 2	;If Agility > 15000 and <= 18000
+CustomAttackSpeed6_AL2 = 2	;If Agility > 15000 and <= 18000
+CustomAttackSpeed6_AL3 = 2	;If Agility > 15000 and <= 18000
+CustomAttackSpeed7_AL0 = 2	;If Agility > 18000 and <= 21000
+CustomAttackSpeed7_AL1 = 2	;If Agility > 18000 and <= 21000
+CustomAttackSpeed7_AL2 = 2	;If Agility > 18000 and <= 21000
+CustomAttackSpeed7_AL3 = 2	;If Agility > 18000 and <= 21000
+CustomAttackSpeed8_AL0 = 2	;If Agility > 21000 and <= 24000
+CustomAttackSpeed8_AL1 = 2	;If Agility > 21000 and <= 24000
+CustomAttackSpeed8_AL2 = 2	;If Agility > 21000 and <= 24000
+CustomAttackSpeed8_AL3 = 2	;If Agility > 21000 and <= 24000
+
+;==================================================
+; Custom Attack Offline Settings
+;==================================================
+CustomAttackOfflineSwitch = 1
+CustomAttackOfflineGPGain = 0
+CustomAttackOfflineEnable_AL0 = 1
+CustomAttackOfflineEnable_AL1 = 1
+CustomAttackOfflineEnable_AL2 = 1
+CustomAttackOfflineEnable_AL3 = 1
+CustomAttackOfflineRequireLevel_AL0 = 0
+CustomAttackOfflineRequireLevel_AL1 = 0
+CustomAttackOfflineRequireLevel_AL2 = 0
+CustomAttackOfflineRequireLevel_AL3 = 0
+CustomAttackOfflineRequireReset_AL0 = 0
+CustomAttackOfflineRequireReset_AL1 = 0
+CustomAttackOfflineRequireReset_AL2 = 0
+CustomAttackOfflineRequireReset_AL3 = 0
+CustomAttackOfflineRequireMoney_AL0 = 0
+CustomAttackOfflineRequireMoney_AL1 = 0
+CustomAttackOfflineRequireMoney_AL2 = 0
+CustomAttackOfflineRequireMoney_AL3 = 0
+
+CustomAttackOfflineMoneyFreeTime_AL0 = 60
+CustomAttackOfflineMoneyFreeTime_AL1 = 60
+CustomAttackOfflineMoneyFreeTime_AL2 = 60
+CustomAttackOfflineMoneyFreeTime_AL3 = 60
+
+CustomAttackOfflineOpenPSShop_AL0 = 0
+CustomAttackOfflineOpenPSShop_AL1 = 0
+CustomAttackOfflineOpenPSShop_AL2 = 0
+CustomAttackOfflineOpenPSShop_AL3 = 0
+CustomAttackOfflineText1 = You are not enabled to use /offattack
+CustomAttackOfflineText2 = You need at least %d level to use the command
+CustomAttackOfflineText3 = You need at least %d reset to use the command
+CustomAttackOfflineText4 = You need at least %d money to use the command
+CustomAttackOfflineText5 = You need to enable automatic attack first
+CustomAttackOfflineText6 = You can't use the command in this location
+CustomAttackOfflineText7 = OFF-EXP
+
+;==================================================
+; Custom Attack Pick Items Settings
+;==================================================
+PickItems_AL0 = 0		; Global on/off item pick-up NON-VIP
+PickItems_AL1 = 0		; Global on/off item pick-up VIP-1
+PickItems_AL2 = 0		; Global on/off item pick-up VIP-2
+PickItems_AL3 = 0		; Global on/off item pick-up VIP-3
+
+PickExc_AL0 = 1			; on/off Excellent item pick-up NON-VIP
+PickExc_AL1 = 1			; on/off Excellent item pick-up VIP-1
+PickExc_AL2 = 1			; on/off Excellent item pick-up VIP-2
+PickExc_AL3 = 1			; on/off Excellent item pick-up VIP-3
+
+PickMoney_AL0 = 1		; on/off Zen pick-up NON-VIP
+PickMoney_AL1 = 1		; on/off Zen pick-up VIP-1
+PickMoney_AL3 = 1		; on/off Zen pick-up VIP-2
+PickMoney_AL3 = 1		; on/off Zen pick-up VIP-3
+
+PickAnc_AL0 = 1			; on/off Ancient item pick-up NON-VIP
+PickAnc_AL1 = 1			; on/off Ancient item pick-up VIP-1
+PickAnc_AL2 = 1			; on/off Ancient item pick-up VIP-2
+PickAnc_AL3 = 1			; on/off Ancient item pick-up VIP-3
+
+PickSocket_AL0 = 1		; on/off Socket item pick-up NON-VIP
+PickSocket_AL1 = 1		; on/off Socket item pick-up VIP-1
+PickSocket_AL2 = 1		; on/off Socket item pick-up VIP-2
+PickSocket_AL3 = 1		; on/off Socket item pick-up VIP-3
+
+PickSelectedItems_AL0 = 1	; on/off item from config (Data/Item/OffExpItems) pick-up NON-VIP
+PickSelectedItems_AL1 = 1	; on/off item from config (Data/Item/OffExpItems) pick-up VIP-1
+PickSelectedItems_AL2 = 1	; on/off item from config (Data/Item/OffExpItems) pick-up VIP-2
+PickSelectedItems_AL3 = 1	; on/off item from config (Data/Item/OffExpItems) pick-up VIP-3

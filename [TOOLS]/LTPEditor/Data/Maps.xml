@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapInfo>
+	<Map Index="0"  Name="Lorencia" />
+	<Map Index="1"  Name="Dungeon" /> <!-- 1 ~ 3 -->
+	<Map Index="2"  Name="Devias" />
+	<Map Index="3"  Name="Noria" />
+	<Map Index="4"  Name="LostTower" />
+	<Map Index="5"  Name="Exile" />
+	<Map Index="6"  Name="Arena" />
+	<Map Index="7"  Name="Atlans" /> <!-- 1 ~ 3 -->
+	<Map Index="8"  Name="Tarkan" /> <!-- 1 ~ 2 -->
+	<Map Index="9"  Name="Devil Square" /> <!-- 1 ~ 4 -->
+	<Map Index="10" Name="Icarus" />
+	<Map Index="11" Name="Blood Castle 1" />
+	<Map Index="12" Name="Blood Castle 2" />
+	<Map Index="13" Name="Blood Castle 3" />
+	<Map Index="14" Name="Blood Castle 4" />
+	<Map Index="15" Name="Blood Castle 5" />
+	<Map Index="16" Name="Blood Castle 6" />
+	<Map Index="17" Name="Blood Castle 7" />
+	<Map Index="18" Name="Chaos Castle 1" />
+	<Map Index="19" Name="Chaos Castle 2" />
+	<Map Index="20" Name="Chaos Castle 3" />
+	<Map Index="21" Name="Chaos Castle 4" />
+	<Map Index="22" Name="Chaos Castle 5" />
+	<Map Index="23" Name="Chaos Castle 6" />
+	<Map Index="24" Name="Kalima 1" />
+	<Map Index="25" Name="Kalima 2" />
+	<Map Index="26" Name="Kalima 3" />
+	<Map Index="27" Name="Kalima 4" />
+	<Map Index="28" Name="Kalima 5" />
+	<Map Index="29" Name="Kalima 6" />
+	<Map Index="30" Name="Valley of Loren" />
+	<Map Index="31" Name="Land Of Trials" />
+	<Map Index="32" Name="Devil Square" /> <!-- 5 ~ 7 -->
+	<Map Index="33" Name="Aida" /> <!-- 1 ~ 2 -->
+	<Map Index="34" Name="Crywolf (First Zone)" />
+	<Map Index="35" Name="Crywolf (Second Zone)" />
+	<Map Index="36" Name="Kalima 7 (Lost)" />
+	<Map Index="37" Name="Kanturu Ruins" />
+	<Map Index="38" Name="Kanturu (Remain)" /> <!-- 1 -->
+	<Map Index="39" Name="Kanturu (Refinery Tower)" /> <!-- 2 -->
+	<Map Index="40" Name="Silent Map" />
+	<Map Index="41" Name="Barracks of Balgass" />
+	<Map Index="42" Name="Balgass Refuge" />
+	<Map Index="45" Name="Illusion Temple 1" />
+	<Map Index="46" Name="Illusion Temple 2" />
+	<Map Index="47" Name="Illusion Temple 3" />
+	<Map Index="48" Name="Illusion Temple 4" />
+	<Map Index="49" Name="Illusion Temple 5" />
+	<Map Index="50" Name="Illusion Temple 6" />
+	<Map Index="51" Name="Elbeland" />
+	<Map Index="52" Name="Blood Castle 8" />
+	<Map Index="53" Name="Chaos Castle 7" />
+	<Map Index="56" Name="Swamp of Calmness" />
+	<Map Index="57" Name="Raklion" />
+	<Map Index="58" Name="Hatchery" />
+	<Map Index="62" Name="Santa Village" />
+	<Map Index="63" Name="Vulcanus" />
+	<Map Index="64" Name="Duel Area" />
+	<Map Index="65" Name="Dopple Ganger Snow" />
+	<Map Index="66" Name="Dopple Ganger Volcan" />
+	<Map Index="67" Name="Dopple Ganger Sea" />
+	<Map Index="68" Name="Dopple Ganger Crystals" />
+	<Map Index="69" Name="Imperial Fortress 1" />
+	<Map Index="70" Name="Imperial Fortress 2" />
+	<Map Index="71" Name="Imperial Fortress 3" />
+	<Map Index="72" Name="Imperial Fortress 4" />
+	<Map Index="79" Name="Loren Market" />
+	<Map Index="80" Name="Karutan 1" />
+	<Map Index="81" Name="Karutan 2" />
+	<Map Index="84" Name="Arkania" />
+</MapInfo>

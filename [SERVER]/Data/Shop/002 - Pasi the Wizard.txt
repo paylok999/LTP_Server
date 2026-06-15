@@ -1,0 +1,21 @@
+//Section   Type   Level   Dur   Skill   Luck   Option   Excellent   Ancient   OptionEx
+7	        2	   0	   0	 0	     0	    0	     0           0         0	//Pad Helm
+7	        4	   0	   0	 0	     0	    0	     0           0         0	//Bone Helm
+7	        7	   0	   0	 0	     0	    0	     0           0         0	//Sphinx Mask
+5	        1	   0	   0	 0	     0	    0	     0           0         0	//Angelic Staff
+8	        2	   0	   0	 0	     0	    0	     0           0         0	//Pad Armor
+8	        4	   0	   0	 0	     0	    0	     0           0         0	//Bone Armor
+8	        7	   0	   0	 0	     0	    0	     0           0         0	//Sphinx Armor
+5	        2	   0	   0	 0	     0	    0	     0           0         0	//Serpent Staff
+9	        2	   0	   0	 0	     0	    0	     0           0         0	//Pad Pants
+9	        4	   0	   0	 0	     0	    0	     0           0         0	//Bone Pants
+9	        7	   0	   0	 0	     0	    0	     0           0         0	//Sphinx Pants
+10	        2	   0	   0	 0	     0	    0	     0           0         0	//Pad Gloves
+10	        4	   0	   0	 0	     0	    0	     0           0         0	//Bone Gloves
+5	        0	   0	   0	 0	     0	    0	     0           0         0	//Skull Staff
+15	        3	   0	   0	 0	     0	    0	     0           0         0	//Scroll of Fire Ball
+10	        7	   0	   0	 0	     0	    0	     0           0         0	//Sphinx Gloves
+11	        2	   0	   0	 0	     0	    0	     0           0         0	//Pad Boots
+11	        4	   0	   0	 0	     0	    0	     0           0         0	//Bone Boots
+11	        7	   0	   0	 0	     0	    0	     0           0         0	//Sphinx Boots
+end                                                      

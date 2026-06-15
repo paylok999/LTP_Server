@@ -1,0 +1,11 @@
+// ---------------------------------
+// LTP_Server
+// ---------------------------------
+// Description: Custom Pets System
+// ---------------------------------
+// Developer: Creative
+// ---------------------------------
+
+//ItemIndex	AddHP	AddMP	DamageRate	AttackSpeed	DoubleDamageRate    CanRestoreHP
+6801		1000	2000	40		50		10                  1
+end

@@ -1,0 +1,23 @@
+0
+//Index   ItemIndex   MinItemLevel   MaxItemLevel   MaxItemOption1   MaxItemOption2   MinItemOption3   MaxItemOption3   MinItemNewOption   MaxItemNewOption   MaxItemSetOption   MinItemSocketOption   MaxItemSocketOption   EnableSlotWeapon   EnableSlotArmor   EnableSlotWing   EnableSlotRing   EnableSlotPendant   SuccessRate_AL0   SuccessRate_AL1   SuccessRate_AL2   SuccessRate_AL3   SalePrice   ModelName
+  0       7368        0              14             *                *                *                *                *                  *                  *                  *                     *                     *                  *                 *                *                *                   50                50                50                50                20          "Jewel200"    	 //Jewel Of Level
+  1       7369        *              *              *                0                *                *                *                  *                  *                  *                     *                     *                  *                 *                *                *                   50                50                50                50                20          "Jewel201"    	 //Jewel Of Luck
+  2       7370        *              *              *                *                *                6                *                  *                  *                  *                     *                     *                  *                 *                *                *                   60                60                60                60                20          "Jewel202"    	 //Jewel Of Option
+  3       7371        *              *              0                *                *                *                *                  *                  *                  *                     *                     *                  0                 0                *                *                   70                70                70                70                20          "Jewel203"    	 //Jewel Of Skill
+  4       7372        *              *              *                *                *                *                *                  *                  0                  *                     *                     0                  *                 0                *                *                   50                50                50                50                20          "Jewel204"    	 //Jewel Of Ancient
+  5       7373        *              *              *                *                *                *                0                  2                  *                  *                     *                     *                  *                 *                *                *                   70                70                70                70                20          "Jewel205"    	 //Jewel Of Excellent
+end
+
+1
+//Index   Level   Option1   Option2   Option3   NewOption   SetOption   SocketOption
+  0       1       0         0         0         0           0           0  //Jewel Of Level
+  1       0       0         1         0         0           0           0  //Jewel Of Luck
+  2       0       0         0         7         0           0           0  //Jewel Of Option
+  3       0       1         0         0         0           0           0  //Jewel Of Skill
+  4       0       0         0         0         0           1           0  //Jewel Of Ancient
+  5       0       0         0         0         1           0           0  //Jewel Of Excellent
+end
+
+2
+//Index   Level   Option1   Option2   Option3   NewOption   SetOption   SocketOption
+end

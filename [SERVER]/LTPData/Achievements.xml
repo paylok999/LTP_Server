@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+//===================================================================================
+// LTP-Team (https://ltp-team.com)
+// ----------------------------------------------------------------------------------
+// Description: Achievements system settings file
+// ----------------------------------------------------------------------------------
+// Revision: 	13:26 03.10.2019
+//===================================================================================
+-->
+
+<!--
+	Type of rewards (0: Zen, 1: WCoinC, 2: WCoinP, 3: WCoinG, 4: Credits, 5: Super Points, 6: Item)
+-->
+
+<!--
+	Its premium custom. You need buy it, before use.
+-->
+
+<achievements enable="0">
+	<mission>
+		<info index="0" count="500" rewardType="6" rewardValue="50000" Name="Monster Kill"> <!-- MonsterKill -->
+			<item index="3585" level="15" skill="1" luck="1" option="7" excellent="63" count="1"/>
+		</info>
+		<info index="1" count="250" rewardType="6" rewardValue="500" Name="Golden Kill"> <!-- GoldenKill -->
+			<item index="3585" level="15" skill="1" luck="1" option="7" excellent="63" count="1"/>
+		</info>
+		<info index="2" count="3000000" rewardType="2" rewardValue="500" Name="Kalima Monster Kill"/> <!-- KalimaMonserKill -->
+		<info index="3" count="500" rewardType="3" rewardValue="500" Name="White Wizard Kill"/> <!-- WhiteWizardKill -->
+		<info index="4" count="400" rewardType="4" rewardValue="500" Name="Player Kill"/> <!-- PlayerKill -->
+		<info index="5" count="200" rewardType="0" rewardValue="500" Name="Red Dragon Kill"/> <!-- RedDragonKill -->
+		<info index="6" count="1200000" rewardType="0" rewardValue="500" Name="Orc Kill"/> <!-- OrcKill -->
+		<info index="7" count="125" rewardType="0" rewardValue="500" Name="Kill gate BC"/> <!-- KillGateBC -->
+		<info index="8" count="200" rewardType="0" rewardValue="500" Name="Take part in CC"/> <!-- TakePartInCC -->
+		<info index="9" count="50" rewardType="0" rewardValue="500" Name="Winning the CC"/> <!-- WinningTheCC -->
+		<info index="10" count="500" rewardType="0" rewardValue="500" Name="Online Time"/> <!-- OnlineTime -->
+		<info index="11" count="325" rewardType="0" rewardValue="500" Name="Pick up Jewels"/> <!-- PickUpJewels -->
+		<info index="12" count="270" rewardType="0" rewardValue="500" Name="Used Jewels"/> <!-- UsedJewels -->
+		<info index="13" count="450" rewardType="0" rewardValue="500" Name="Success Chaos Mix"/> <!-- SuccessChaosMix -->
+		<info index="14" count="900" rewardType="0" rewardValue="500" Name="Failed Chaos Mix"/> <!-- FailedChaosMix -->
+		<info index="15" count="2000000000" rewardType="0" rewardValue="500" Name="Pick up Zen"/> <!-- PickUpZen -->
+		<info index="16" count="75" rewardType="0" rewardValue="500" Name="Pick up Excellent"/> <!-- PickUpExellent -->
+		<info index="17" count="50" rewardType="0" rewardValue="500" Name="Pick up Ancent"/> <!-- PickUpAncient -->
+		<info index="18" count="100" rewardType="0" rewardValue="500" Name="Duel Win"/> <!-- DuelWin -->
+		<info index="19" count="10000" rewardType="0" rewardValue="500" Name="Level up"/> <!-- LevelUp -->
+		<info index="20" count="100" rewardType="0" rewardValue="500" Name="Reset up"/> <!-- ResetUp -->
+		<info index="21" count="100" rewardType="0" rewardValue="500" Name="Kanturu Boss Kill"/> <!-- KanturuBossKill -->
+		<info index="22" count="7000000" rewardType="0" rewardValue="500" Name="Monster 100lvl Kill"/> <!-- Monster100LvlKill -->
+		<info index="23" count="100" rewardType="0" rewardValue="500" Name="Mmotop vote"/> <!-- MmotopVote -->
+		<info index="24" count="500" rewardType="0" rewardValue="500" Name="Phonoman Kill"/> <!-- PhonomanKill -->
+		<info index="25" count="600" rewardType="0" rewardValue="500" Name="CryWolf Event Monster"/> <!-- CryWolfEventMonster -->
+		<info index="26" count="300" rewardType="0" rewardValue="500" Name="Hell Main Kill"/> <!-- HellMainKill -->
+		<info index="27" count="200" rewardType="0" rewardValue="500" Name="Kill in self-defense"/> <!-- KillInSelf_Defense -->
+		<info index="28" count="100" rewardType="0" rewardValue="500" Name="Selupan Kill"/> <!-- SelupanKill -->
+		<info index="29" count="750" rewardType="0" rewardValue="500" Name="Kundun Kill"/> <!-- KundunKill -->
+		<info index="30" count="200" rewardType="0" rewardValue="500" Name="Kill Statue BC"/> <!-- KillStatueBC -->
+		<info index="31" count="400" rewardType="0" rewardValue="500" Name="Complete BC"/> <!-- CompleteBC -->
+		<info index="32" count="30" rewardType="0" rewardValue="500" Name="Grand Reset up"/> <!-- GrandResetUp -->
+		<info index="33" count="700" rewardType="0" rewardValue="500" Name="Blue Rabbit Killer"/> <!-- BlueRabbitKiller -->
+		<info index="34" count="400" rewardType="0" rewardValue="500" Name="Happy Pouches Killer"/> <!-- HappyPouchesKiller -->
+		<info index="35" count="200" rewardType="0" rewardValue="500" Name="Pheonix Kill"/> <!-- PheonixKill -->
+		<info index="36" count="75" rewardType="0" rewardValue="500" Name="Kanturu Monster Kill"/> <!-- KanturuMonsterKill -->
+		<info index="37" count="125" rewardType="0" rewardValue="500" Name="Move player from Switch"/> <!-- MovePlayerFromSwitch -->
+		<info index="38" count="10" rewardType="0" rewardValue="500" Name="Withstand Switch 10 min"/> <!-- WithstandSwitch10min -->
+		<info index="39" count="100" rewardType="0" rewardValue="500" Name="Move player from Crown"/> <!-- MovePlayerFromCrown -->
+		<info index="40" count="10" rewardType="0" rewardValue="500" Name="Win Siege"/> <!-- WinSiege -->
+		<info index="41" count="100" rewardType="0" rewardValue="500" Name="Kill Castle Siege NPC"/> <!-- KillCastleSiegeNPC -->
+		<info index="42" count="1000" rewardType="0" rewardValue="500" Name="Kill player Castle Siege"/> <!-- KillPlayerCastleSiege -->
+		<info index="43" count="50" rewardType="0" rewardValue="500" Name="Kill Erohim"/> <!-- KillErohim -->
+		<info index="44" count="500" rewardType="0" rewardValue="500" Name="Buy Donate Shop Item"/> <!-- BuyDonateShopItem -->
+		<info index="45" count="350" rewardType="0" rewardValue="500" Name="Guild War Win"/> <!-- GuildWarWin -->
+		<info index="46" count="400" rewardType="0" rewardValue="500" Name="Party noob level up"/> <!-- PartyNoobLevelUp -->
+		<info index="47" count="200" rewardType="0" rewardValue="500" Name="Pick up Rena"/> <!-- PickUpRena -->
+		<info index="48" count="255" rewardType="0" rewardValue="500" Name="Pick up sing of lord"/> <!-- PickUpLuckyCoins -->
+		<info index="49" count="1440" rewardType="0" rewardValue="500" Name="Offline Attack Time"/> <!-- OfflineAttackTime -->
+		
+	</mission>
+	<power>
+		<damageMax>100</damageMax>
+		<defenseMax>100</defenseMax>
+		<lifeMax>100</lifeMax>
+		<excellentDamageMax>25</excellentDamageMax>
+		<criticalDamageMax>25</criticalDamageMax>
+		
+		<divDamage>1</divDamage>
+		<divDefense>1</divDefense>
+		<divLife>1</divLife>
+		<divExcellentPercent>1</divExcellentPercent>
+		<divCriticalPercent>1</divCriticalPercent>
+	</power>
+</achievements>

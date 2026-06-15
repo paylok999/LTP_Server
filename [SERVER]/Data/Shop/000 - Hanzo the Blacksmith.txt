@@ -1,0 +1,29 @@
+//Section   Type   Level   Dur   Skill   Luck   Option   Excellent   Ancient   OptionEx
+7	        5	   0	   0	 0	     0	    0	     0           0         0         //Leather
+7	        0	   0	   0	 0	     0	    0	     0           0         0         //Bronze
+7	        6	   0	   0	 0	     0	    0	     0           0         0         //Scale
+7	        9	   0	   0	 0	     0	    0	     0           0         0         //Plate
+8	        5	   0	   0	 0	     0	    0	     0           0         0         //Leather
+8	        0	   0	   0	 0	     0	    0	     0           0         0         //Bronze
+8	        6	   0	   0	 0	     0	    0	     0           0         0         //Scale
+8	        9	   0	   0	 0	     0	    0	     0           0         0         //Plate
+9	        0	   0	   0	 0	     0	    0	     0           0         0         //Bronze
+9	        6	   0	   0	 0	     0	    0	     0           0         0         //Scale
+9	        9	   0	   0	 0	     0	    0	     0           0         0         //Plate
+9	        5	   0	   0	 0	     0	    0	     0           0         0         //Leather	
+10	        0	   0	   0	 0	     0	    0	     0           0         0         //Bronze
+10	        6	   0	   0	 0	     0	    0	     0           0         0         //Scale
+10	        9	   0	   0	 0	     0	    0	     0           0         0         //Plate
+10	        5	   0	   0	 0	     0	    0	     0           0         0         //Leather
+11	        0	   0	   0	 0	     0	    0	     0           0         0         //Bronze
+11	        6	   0	   0	 0	     0	    0	     0           0         0         //Scale
+11	        9	   0	   0	 0	     0	    0	     0           0         0         //Plate
+11	        5	   0	   0	 0	     0	    0	     0           0         0         //Leather	
+0	        3	   0	   0	 1	     0	    0	     0           0         0         //Katana
+0	        4	   0	   0	 1	     0	    0	     0           0         0         //Sword of Assassin
+0	        6	   0	   0	 1	     0	    0	     0           0         0         //Gladius
+0	        8	   0	   0	 1	     0	    0	     0           0         0         //Serpent Sword
+0	        10	   0	   0	 1	     0	    0	     0           0         0         //Light Saber
+0	        11	   0	   0	 1	     0	    0	     0           0         0         //Legendary Sword					 
+end
+

@@ -1,0 +1,16 @@
+//**************************
+// Developer: Creative
+// -------------------------
+// LTPTeam
+// -------------------------
+// Monster Add
+// -------------------------
+// ----------------------------------------------------------------------------------
+// Type = 0: NPC (Monster ID 620 - 650)
+// Type = 1: Monster (Monster ID 580 - 619)
+// ----------------------------------------------------------------------------------
+// MonsterID | Type 	| Name 		| Dir 				| Folder 		| BMDFile 		| Size
+// ----------------------------------------------------------------------------------
+580		1	"test"		"Data\\Custom\\Monster\\"	"Custom\\Monster\\"	"test"		0.90	"Data\\Sound\\w64\\ZombieWarrior_move01.wav"	"Data\\Sound\\w64\\ZombieWarrior_move02.wav"	"Data\\Sound\\w64\\ZombieWarrior_damage01.wav"	"Data\\Sound\\w64\\ZombieWarrior_damage02.wav"	"Data\\Sound\\w64\\ZombieWarrior_death.wav"
+581		1	"test1"		"Data\\Custom\\Monster\\"	"Custom\\Monster\\"	"test1"	    1.00	""	""	""	""	""
+end

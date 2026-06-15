@@ -1,0 +1,90 @@
+//Group    DayOfWeek    Hour    Minute    Text Index in client
+0          *            0       30        0  //"Blood Castle"
+0          *            4       30        0  //"Blood Castle"
+0          *            8       30        0  //"Blood Castle"
+0          *            12      30        0  //"Blood Castle"
+0          *            16      30        0  //"Blood Castle"
+0          *            20      30        0  //"Blood Castle"
+
+1          *            1       30        1  //"Devil Square"
+1          *            5       30        1  //"Devil Square"
+1          *            9       30        1  //"Devil Square"
+1          *            13      30        1  //"Devil Square"
+1          *            17      30        1  //"Devil Square"
+1          *            21      30        1  //"Devil Square"
+
+2          *            1       55        2  //"Chaos Castle"
+2          *            5       55        2  //"Chaos Castle"
+2          *            9       55        2  //"Chaos Castle"
+2          *            13      55        2  //"Chaos Castle"
+2          *            17      55        2  //"Chaos Castle"
+2          *            21      55        2  //"Chaos Castle"
+
+3          *            12      45        3  //"Skeleton King Invasion"
+3          *            18      55        3  //"Skeleton King Invasion"
+
+4          *            00      45        4  //"White Wizard Invasion"
+4          *            06      55        4  //"White Wizard Invasion"
+
+5          *            20      00        5  //"Red Dragon Invasion"
+
+6          *            00      36        6  //"Golden Invasion"
+6          *            04      36        6  //"Golden Invasion"
+6          *            08      36        6  //"Golden Invasion"
+6          *            12      36        6  //"Golden Invasion"
+6          *            16      36        6  //"Golden Invasion"
+6          *            20      36        6  //"Golden Invasion"
+
+7          *            11      25        7  //"Spring Invasion"
+7          *            17      25        7  //"Spring Invasion"
+
+8          *            13      25        8  //"Summer Invasion"
+8          *            19      25        8  //"Summer Invasion"
+
+9          *            15      25        9  //"Winter Invasion"
+9          *            21      25        9  //"Winter Invasion"
+
+10         *            21      10        10 //"Medusa Invasion"
+
+11         *            19      10        11 //"Queen Ant Invasion"
+
+
+12         *            20      00        12 //"Cryptos Invasion"
+
+13         *            17      00        13 // "Gorgon Invasion"
+
+14         *            16      00       14 // "Ice Giant Stuttgart Invasion"
+14         *            21      00       14 //"Ice Giant Stuttgart Invasion"
+
+15         *            13      00        15 //"Balrog Invasion"
+15         *            18      00        15 //"Balrog Invasion"
+
+16         *            15      00       16 // "Hydra Invasion"
+16         *            17      00       16 // "Hydra Invasion"
+
+17         *            14      00       17 // "Hellraiser Invasion"
+17         *            19      00       17 // "Hellraiser Invasion"
+
+18         *            13      00        18 //"Alpha Crust Invasion"
+18         *            18      00        18 // "Alpha Crust Invasion"
+
+19         *            14      00        19 //"Kentauros Invasion"
+19         *            19      00        19 //"Kentauros Invasion"
+
+20         *            19      55       20 // "Zaikan Invasion"
+
+21         *            22      15        21 //"Lord Of Kundun Invasion"
+
+22         1            20      00       22 // "Lord Of Ferea Invasion"
+22         3            20      00       22 //  "Lord Of Ferea Invasion"
+22         5            20      00       22 //  "Lord Of Ferea Invasion"
+22         7            20      00       22 // "Lord Of Ferea Invasion"
+
+23         2            19      00       23 // "Lord Silvester Invasion"
+23         4            19      00       23 // "Lord Silvester Invasion"
+23         6            19      00       23 // "Lord Silvester Invasion"
+23         7            19      00       23 // "Lord Silvester Invasion"
+
+24         *            17      30       24 // "Nix Invasion"
+
+end

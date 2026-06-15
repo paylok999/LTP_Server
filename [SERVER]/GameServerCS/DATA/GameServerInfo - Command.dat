@@ -1,0 +1,325 @@
+[GameServerInfo]
+;==================================================
+; Post Command Settings
+;==================================================
+CommandPostSwitch = 1
+CommandPostType = 7
+CommandPostEnable_AL0 = 1
+CommandPostEnable_AL1 = 1
+CommandPostEnable_AL2 = 1
+CommandPostEnable_AL3 = 1
+CommandPostLevel_AL0 = 6
+CommandPostLevel_AL1 = 6
+CommandPostLevel_AL2 = 6
+CommandPostLevel_AL3 = 6
+CommandPostReset_AL0 = 0
+CommandPostReset_AL1 = 0
+CommandPostReset_AL2 = 0
+CommandPostReset_AL3 = 0
+CommandPostMoney_AL0 = 0
+CommandPostMoney_AL1 = 0
+CommandPostMoney_AL2 = 0
+CommandPostMoney_AL3 = 0
+CommandPostDelay_AL0 = 30
+CommandPostDelay_AL1 = 30
+CommandPostDelay_AL2 = 30
+CommandPostDelay_AL3 = 30
+
+;==================================================
+; Add Point Command Settings
+;==================================================
+CommandAddPointSwitch = 1
+CommandAddPointEnable_AL0 = 1
+CommandAddPointEnable_AL1 = 1
+CommandAddPointEnable_AL2 = 1
+CommandAddPointEnable_AL3 = 1
+CommandAddPointAutoEnable_AL0 = 1
+CommandAddPointAutoEnable_AL1 = 1
+CommandAddPointAutoEnable_AL2 = 1
+CommandAddPointAutoEnable_AL3 = 1
+CommandAddPointMoney_AL0 = 0
+CommandAddPointMoney_AL1 = 0
+CommandAddPointMoney_AL2 = 0
+CommandAddPointMoney_AL3 = 0
+
+;==================================================
+; PK Clear Command Settings
+;==================================================
+CommandPKClearSwitch = 1
+CommandPKClearEnable_AL0 = 1
+CommandPKClearEnable_AL1 = 1
+CommandPKClearEnable_AL2 = 1
+CommandPKClearEnable_AL3 = 1
+CommandPKClearMoney_AL0 = 0
+CommandPKClearMoney_AL1 = 0
+CommandPKClearMoney_AL2 = 0
+CommandPKClearMoney_AL3 = 0
+
+;==================================================
+; Money Command Settings
+;==================================================
+CommandMoneySwitch = 1
+CommandMoneyEnable_AL0 = 1
+CommandMoneyEnable_AL1 = 1
+CommandMoneyEnable_AL2 = 1
+CommandMoneyEnable_AL3 = 1
+
+;==================================================
+; Change Command Settings
+;==================================================
+CommandChangeSwitch = 1
+CommandChangeEnable_AL0 = 1
+CommandChangeEnable_AL1 = 1
+CommandChangeEnable_AL2 = 1
+CommandChangeEnable_AL3 = 1
+CommandChangeMoney_AL0 = 0
+CommandChangeMoney_AL1 = 0
+CommandChangeMoney_AL2 = 0
+CommandChangeMoney_AL3 = 0
+CommandChangeLimit_AL0 = 2
+CommandChangeLimit_AL1 = 2
+CommandChangeLimit_AL2 = 2
+CommandChangeLimit_AL3 = 2
+
+;==================================================
+; Reset Command Settings
+;==================================================
+CommandResetSwitch = 1				;"/reset" command state (0=Off/1=On).
+CommandResetType = 1				;"/reset" utilization mode (0=Keep Points/1=Reset Points).
+CommandResetEnable_AL0 = 1			;"/reset" utilization state (0=Off/1=On).
+CommandResetEnable_AL1 = 1			;"/reset" utilization state (0=Off/1=On).
+CommandResetEnable_AL2 = 1			;"/reset" utilization state (0=Off/1=On).
+CommandResetEnable_AL3 = 1			;"/reset" utilization state (0=Off/1=On).
+CommandResetAutoEnable_AL0 = 1		;"/reset auto" utilization state (0=Off/1=On).
+CommandResetAutoEnable_AL1 = 1		;/reset auto" utilization state (0=Off/1=On).
+CommandResetAutoEnable_AL2 = 1		;"/reset auto" utilization state (0=Off/1=On).
+CommandResetAutoEnable_AL3 = 1		;"/reset auto" utilization state (0=Off/1=On).
+CommandResetCheckItem_AL0 = 0		;Check equipped items (0=No/1=Yes).
+CommandResetCheckItem_AL1 = 0		;Check equipped items (0=No/1=Yes).
+CommandResetCheckItem_AL2 = 0		;Check equipped items (0=No/1=Yes).
+CommandResetCheckItem_AL3 = 0		;Check equipped items (0=No/1=Yes).
+CommandResetMove_AL0 = 1			;Move character to safe zone (0=No/1=Yes).
+CommandResetMove_AL1 = 1			;Move character to safe zone (0=No/1=Yes).
+CommandResetMove_AL2 = 1			;Move character to safe zone (0=No/1=Yes).
+CommandResetMove_AL3 = 1			;Move character to safe zone (0=No/1=Yes).
+CommandResetQuest_AL0 = 0			;Clear character quests (0=No/1=Yes).
+CommandResetQuest_AL1 = 0			;Clear character quests (0=No/1=Yes).
+CommandResetQuest_AL2 = 0			;Clear character quests (0=No/1=Yes).
+CommandResetQuest_AL3 = 0			;Clear character quests (0=No/1=Yes).
+CommandResetSkill_AL0 = 0			;Clear character skills (0=No/1=Yes).
+CommandResetSkill_AL1 = 0			;Clear character skills (0=No/1=Yes).
+CommandResetSkill_AL2 = 0			;Clear character skills (0=No/1=Yes).
+CommandResetSkill_AL3 = 0			;Clear character skills (0=No/1=Yes).
+CommandResetLevel_AL0 = 400			;Required level to use "/reset" (Free).
+CommandResetLevel_AL1 = 400			;Required level to use "/reset" (Vip1).
+CommandResetLevel_AL2 = 400			;Required level to use "/reset" (Vip2).
+CommandResetLevel_AL3 = 400			;Required level to use "/reset" (Vip3).
+CommandResetMoney_AL0 = 10000000			;Required money to use "/reset" (Free).
+CommandResetMoney_AL1 = 10000000			;Required money to use "/reset" (Vip1).
+CommandResetMoney_AL2 = 10000000			;Required money to use "/reset" (Vip2).
+CommandResetMoney_AL3 = 10000000			;Required money to use "/reset" (Vip3).
+CommandResetCount_AL0 = 1			;Amount of resets gain utilizing "/reset" (Free).
+CommandResetCount_AL1 = 1			;Amount of resets gain utilizing "/reset" (Vip1).
+CommandResetCount_AL2 = 1			;Amount of resets gain utilizing "/reset" (Vip2).
+CommandResetCount_AL3 = 1			;Amount of resets gain utilizing "/reset" (Vip3).
+CommandResetLimit_AL0 = 50		;Maximum resets (Free).
+CommandResetLimit_AL1 = 50		;Maximum resets (Vip1).
+CommandResetLimit_AL2 = 50		;Maximum resets (Vip2).
+CommandResetLimit_AL3 = 50		;Maximum resets (Vip3).
+CommandResetLimitDay_AL0 = 1000	;Maximum resets per day (Free).
+CommandResetLimitDay_AL1 = 1000	;Maximum resets per day (Vip1).
+CommandResetLimitDay_AL2 = 1000	;Maximum resets per day (Vip2).
+CommandResetLimitDay_AL3 = 1000	;Maximum resets per day (Vip3).
+CommandResetLimitWek_AL0 = 1000	;Maximum resets per week (Free).
+CommandResetLimitWek_AL1 = 1000	;Maximum resets per week (Vip1).
+CommandResetLimitWek_AL2 = 1000	;Maximum resets per week (Vip2).
+CommandResetLimitWek_AL3 = 1000	;Maximum resets per week (Vip3).
+CommandResetLimitMon_AL0 = 1000	;Maximum resets per month (Free).
+CommandResetLimitMon_AL1 = 1000	;Maximum resets per month (Vip1).
+CommandResetLimitMon_AL2 = 1000	;Maximum resets per month (Vip2).
+CommandResetLimitMon_AL3 = 1000	;Maximum resets per month (Vip3).
+CommandResetStartLevel_AL0 = 1		;Character level after utilizing "/reset" (Free).
+CommandResetStartLevel_AL1 = 1		;Character level after utilizing "/reset" (Vip1).
+CommandResetStartLevel_AL2 = 1		;Character level after utilizing "/reset" (Vip2).
+CommandResetStartLevel_AL3 = 1		;Character level after utilizing "/reset" (Vip3).
+CommandResetPoint_AL0 = 1			;Amount of points gain (Free).
+CommandResetPoint_AL1 = 1			;Amount of points gain (Vip1).
+CommandResetPoint_AL2 = 1			;Amount of points gain (Vip2).
+CommandResetPoint_AL3 = 1			;Amount of points gain (Vip3).
+CommandResetPointRateDW = 100		;Percentage of points gain (Dark Wizard).
+CommandResetPointRateDK = 100		;Percentage of points gain (Dark Knight).
+CommandResetPointRateFE = 120		;Percentage of points gain (Fairy Elf).
+CommandResetPointRateMG = 140		;Percentage of points gain (Magic Gladiator).
+CommandResetPointRateDL = 140		;Percentage of points gain (Dark Lord).
+CommandResetPointRateSU = 100		;Percentage of points gain (Summoner).
+CommandResetPointRateRF = 100		;Percentage of points gain (Rage Fighter).
+
+CommandResetNeedItem = 0
+CommandResetItemID = 7168			;ItemType * 512 + ItemID
+CommandResetItemLevel = 0
+CommandResetItemCount_AL0 = 5
+CommandResetItemCount_AL1 = 5
+CommandResetItemCount_AL2 = 5
+CommandResetItemCount_AL3 = 5
+CommandResetItemForGR = 2
+
+CommandResetCredits_AL0 = 0
+CommandResetCredits_AL1 = 0
+CommandResetCredits_AL2 = 0
+CommandResetCredits_AL3 = 0
+
+
+;==================================================
+; Master Reset Command Settings
+;==================================================
+CommandMasterResetSwitch = 0
+CommandMasterResetType = 0
+CommandMasterResetEnable_AL0 = 1
+CommandMasterResetEnable_AL1 = 1
+CommandMasterResetEnable_AL2 = 1
+CommandMasterResetEnable_AL3 = 1
+CommandMasterResetCheckItem_AL0 = 0
+CommandMasterResetCheckItem_AL1 = 0
+CommandMasterResetCheckItem_AL2 = 0
+CommandMasterResetCheckItem_AL3 = 0
+CommandMasterResetMove_AL0 = 0
+CommandMasterResetMove_AL1 = 0
+CommandMasterResetMove_AL2 = 0
+CommandMasterResetMove_AL3 = 0
+CommandMasterResetQuest_AL0 = 0
+CommandMasterResetQuest_AL1 = 0
+CommandMasterResetQuest_AL2 = 0
+CommandMasterResetQuest_AL3 = 0
+CommandMasterResetSkill_AL0 = 0
+CommandMasterResetSkill_AL1 = 0
+CommandMasterResetSkill_AL2 = 0
+CommandMasterResetSkill_AL3 = 0
+CommandMasterResetLevel_AL0 = 400
+CommandMasterResetLevel_AL1 = 400
+CommandMasterResetLevel_AL2 = 400
+CommandMasterResetLevel_AL3 = 400
+CommandMasterResetReset_AL0 = 1000
+CommandMasterResetReset_AL1 = 1000
+CommandMasterResetReset_AL2 = 1000
+CommandMasterResetReset_AL3 = 1000
+CommandMasterResetMoney_AL0 = 0
+CommandMasterResetMoney_AL1 = 0
+CommandMasterResetMoney_AL2 = 0
+CommandMasterResetMoney_AL3 = 0
+CommandMasterResetCount_AL0 = 1					
+CommandMasterResetCount_AL1 = 1	
+CommandMasterResetCount_AL2 = 1	
+CommandMasterResetCount_AL3 = 1
+CommandMasterResetLimit_AL0 = 10000
+CommandMasterResetLimit_AL1 = 10000
+CommandMasterResetLimit_AL2 = 10000
+CommandMasterResetLimit_AL3 = 10000
+CommandMasterResetLimitDay_AL0 = 10000
+CommandMasterResetLimitDay_AL1 = 10000
+CommandMasterResetLimitDay_AL2 = 10000
+CommandMasterResetLimitDay_AL3 = 10000
+CommandMasterResetLimitWek_AL0 = 10000
+CommandMasterResetLimitWek_AL1 = 10000
+CommandMasterResetLimitWek_AL2 = 10000
+CommandMasterResetLimitWek_AL3 = 10000
+CommandMasterResetLimitMon_AL0 = 10000
+CommandMasterResetLimitMon_AL1 = 10000
+CommandMasterResetLimitMon_AL2 = 10000
+CommandMasterResetLimitMon_AL3 = 10000
+CommandMasterResetStartLevel_AL0 = 400
+CommandMasterResetStartLevel_AL1 = 400
+CommandMasterResetStartLevel_AL2 = 400
+CommandMasterResetStartLevel_AL3 = 400
+CommandMasterResetStartReset_AL0 = 0
+CommandMasterResetStartReset_AL1 = 0
+CommandMasterResetStartReset_AL2 = 0
+CommandMasterResetStartReset_AL3 = 0
+CommandMasterResetPoint_AL0 = 0
+CommandMasterResetPoint_AL1 = 0
+CommandMasterResetPoint_AL2 = 0
+CommandMasterResetPoint_AL3 = 0
+CommandMasterResetPointRateDW = 100
+CommandMasterResetPointRateDK = 100
+CommandMasterResetPointRateFE = 100
+CommandMasterResetPointRateMG = 100
+CommandMasterResetPointRateDL = 100
+CommandMasterResetPointRateSU = 100
+CommandMasterResetPointRateRF = 100
+
+;==================================================
+; GM Move Command Settings
+;==================================================
+CommandGMMoveSwitch = 1
+CommandGMMoveGameMasterLevel = 0
+
+;==================================================
+; GM Post Command Settings
+;==================================================
+CommandGMPostSwitch = 1
+CommandGMPostGameMasterLevel = 0
+
+;==================================================
+; Track Command Settings
+;==================================================
+CommandTrackSwitch = 1
+CommandTrackGameMasterLevel = 0
+
+;==================================================
+; Trace Command Settings
+;==================================================
+CommandTraceSwitch = 1
+CommandTraceGameMasterLevel = 0
+
+;==================================================
+; Disconnect Command Settings
+;==================================================
+CommandDisconnectSwitch = 1
+CommandDisconnectGameMasterLevel = 0
+
+;==================================================
+; Fireworks Command Settings
+;==================================================
+CommandFireworksSwitch = 1
+CommandFireworksGameMasterLevel = 0
+
+;==================================================
+; Make Command Settings
+;==================================================
+CommandMakeSwitch = 1
+CommandMakeGameMasterLevel = 0
+
+;==================================================
+; Drop Command Settings
+;==================================================
+CommandDropSwitch = 1
+CommandDropGameMasterLevel = 0
+
+;==================================================
+; Skin Command Settings
+;==================================================
+CommandSkinSwitch = 1
+CommandSkinGameMasterLevel = 0
+
+;==================================================
+; Set Money Command Settings
+;==================================================
+CommandSetMoneySwitch = 1
+CommandSetMoneyGameMasterLevel = 0
+
+;==================================================
+; Notice Command Settings
+;==================================================
+CommandNoticeSwitch = 1
+CommandNoticeGameMasterLevel = 0
+
+;==================================================
+; Hide Command Settings
+;==================================================
+CommandHideSwitch = 1
+CommandHideGameMasterLevel = 0
+
+;==================================================
+; BanChat Command Settings
+;==================================================
+CommandBanChatSwitch = 1
+CommandBanChatGameMasterLevel = 0

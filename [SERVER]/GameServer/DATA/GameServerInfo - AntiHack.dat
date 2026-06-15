@@ -1,0 +1,25 @@
+[GameServerInfo]
+
+;==================================================
+; Attack Speed Hack Detection
+; CheckAttackSpeedHack = 1 to enable, 0 to disable
+; CheckAttackSpeedHackTolerance = latency tolerance in ms (default 100)
+;==================================================
+CheckAttackSpeedHack = 1
+CheckAttackSpeedHackTolerance = 100
+
+;==================================================
+; Damage Hack Detection
+; CheckDamageHack = 1 to enable, 0 to disable
+; CheckDamageHackMax = max allowed single-hit damage (default 100000)
+;==================================================
+CheckDamageHack = 1
+CheckDamageHackMax = 100000
+
+;==================================================
+; Move Speed Hack Detection
+; CheckMoveSpeedHack = 1 to enable, 0 to disable
+; CheckMoveSpeedHackTolerance = latency tolerance in ms (default 50)
+;==================================================
+CheckMoveSpeedHack = 1
+CheckMoveSpeedHackTolerance = 50

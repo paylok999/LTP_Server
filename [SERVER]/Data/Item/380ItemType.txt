@@ -1,0 +1,420 @@
+//Section   Type   OptionIndex1   OptionValue1   OptionIndex2   OptionValue2     Coment
+//Sword
+0	        0  	   2	          *              1              *               //Kris
+0	        1  	   2	          *              1              *               //Short Sword
+0	        2  	   2	          *              1              *               //Rapier
+0	        3  	   2	          *              1              *               //Katana
+0	        4  	   2	          *              1              *               //Sword of Assassin
+0	        5  	   2	          *              1              *               //Blade
+0	        6  	   2	          *              1              *               //Gladius
+0	        7  	   2	          *              1              *               //Falchion
+0	        8  	   2	          *              1              *               //Serpent Sword
+0	        9  	   2	          *              1              *               //Sword of Salamander
+0	        10 	   2	          *              1              *               //Light Saber
+0	        11 	   2	          *              1              *               //Legendary Sword
+0	        12 	   2	          *              1              *               //Heliacal Sword
+0	        13 	   2	          *              1              *               //Double Blade
+0	        14 	   2	          *              1              *               //Lighting Sword
+0	        15 	   2	          *              1              *               //Giant Sword
+0	        16 	   2	          *              1              *               //Sword of Destruction
+0	        17 	   2	          *              1              *               //Dark Breaker
+0	        18 	   2	          *              1              *               //Thunder Blade
+0	        19 	   2	          *              1              *               //Divine Sword of Archangel
+0	        20 	   2	          *              1              *               //Knight Blade
+0	        21 	   2	          *              1              *               //Dark Reign Blade
+0	        22 	   2	          *              1              *               //Bone Blade
+0	        23 	   2	          *              1              *               //Explosion Blade
+0	        24 	   2	          *              1              *               //Daybreak
+0	        25 	   2	          *              1              *               //Sword Dancer
+0	        26 	   2	          *              1              *               //Flameberge
+0	        27 	   2	          *              1              *               //Sword Breaker
+0	        28 	   2	          *              1              *               //Rune Bastard Sword
+0	        31 	   2	          *              1              *               //Rune Blade
+0	        32 	   2	          *              1              *               //Sacred Glove
+0	        33 	   2	          *              1              *               //Storm Zahard Claw
+0	        34 	   2	          *              1              *               //Piercing Glove
+0	        35	   2	          *              1              *               //Phoenix Soul Star
+//Scepter
+2	        0  	   2	          *              1              *               //Mace
+2	        1  	   2	          *              1              *               //Morning Star
+2	        2  	   2	          *              1              *               //Flail
+2	        3  	   2	          *              1              *               //Great Hammer                 
+2	        4  	   2	          *              1              *               //Crystal Morning Star         
+2	        5  	   2	          *              1              *               //Crystal Sword                
+2	        6  	   2	          *              1              *               //Chaos Dragon Axe             
+2	        7  	   2	          *              1              *               //Elemental Mace               
+2	        8  	   2	          *              1              *               //Battle Scepter               
+2	        9  	   2	          *              1              *               //Master Scepter               
+2	        10 	   2	          *              1              *               //Great Scepter                
+2	        11 	   2	          *              1              *               //Lord Scepter                 
+2	        12 	   2	          *              1              *               //Great Lord Scepter           
+2	        13 	   2	          *              1              *               //Divine Scepter of Archangel  
+2	        14 	   2	          *              1              *               //Soleil Sceptor               
+2	        15 	   2	          *              1              *               //Shining Scepter              
+2	        16 	   2	          *              1              *               //Frost Mace                   
+2	        17 	   2	          *              1              *               //Absolute Scepter            
+2	        18 	   2	          *              1              *               //Striker Scepter              
+//Bow
+4	        0 	   2	          *              1              *               //Short Bow                     
+4	        1 	   2	          *              1              *               //Bow                           
+4	        2 	   2	          *              1              *               //Elven Bow                     
+4	        3 	   2	          *              1              *               //Battle Bow                    
+4	        4 	   2	          *              1              *               //Tiger Bow                     
+4	        5 	   2	          *              1              *               //Silver Bow                    
+4	        6 	   2	          *              1              *               //Chaos Nature Bow                                     
+4	        8 	   2	          *              1              *               //Crossbow                      
+4	        9 	   2	          *              1              *               //Golden Crossbow               
+4	        10	   2	          *              1              *               //Arquebus                      
+4	        11	   2	          *              1              *               //Light Crossbow                
+4	        12	   2	          *              1              *               //Serpent Crossbow              
+4	        13	   2	          *              1              *               //Bluewing Crossbow             
+4	        14	   2	          *              1              *               //Aquagold Crossbow                                     
+4	        16	   2	          *              1              *               //Saint Crossbow                
+4	        17	   2	          *              1              *               //Celestial Bow                 
+4	        18	   2	          *              1              *               //Divine Crossbow of Archangel  
+4	        19	   2	          *              1              *               //Great Reign Crossbow          
+4	        20	   2	          *              1              *               //Arrow Viper Bow               
+4	        21	   2	          *              1              *               //Sylph Wind Bow                
+4	        22	   2	          *              1              *               //Albatross Bow                 
+4	        23	   2	          *              1              *               //Dark Stinger                  
+4	        24	   2	          *              1              *               //Aileen Bowr                  
+//Staff
+5	        0 	   2	          *              1              *               //Skull Staff                 
+5	        1 	   2	          *              1              *               //Angelic Staff               
+5	        2 	   2	          *              1              *               //Serpent Staff               
+5	        3 	   2	          *              1              *               //Thunder Staff               
+5	        4 	   2	          *              1              *               //Gorgon Staff                
+5	        5 	   2	          *              1              *               //Legendary Staff             
+5	        6 	   2	          *              1              *               //Staff of Resurrection       
+5	        7 	   2	          *              1              *               //Chaos Lighting Staff        
+5	        8 	   2	          *              1              *               //Staff of Destruction        
+5	        9 	   2	          *              1              *               //Dragon Soul Staff           
+5	        10	   2	          *              1              *               //Divine Staff of Archangel   
+5	        11	   2	          *              1              *               //Staff of Kundun             
+5	        12	   2	          *              1              *               //Grand Viper Staff           
+5	        13	   2	          *              1              *               //Platina Staff               
+5	        14	   2	          *              1              *               //Mystery Stick               
+5	        15	   2	          *              1              *               //Violent Wind Stick         
+5	        16	   2	          *              1              *               //Red Wing Stick              
+5	        17	   2	          *              1              *               //Ancient Stick               
+5	        18	   2	          *              1              *               //Demonic Stick               
+5	        19	   2	          *              1              *               //Storm Blitz Stick           
+5	        20	   2	          *              1              *               //Lilium Staff			    
+5	        21	   2	          *              1              *               //Book of Samut               
+5	        22	   2	          *              1              *               //Book of Neil                
+5	        23	   2	          *              1              *               //Book of Lagle               
+5	        30	   2	          *              1              *               //Deadly Staff                
+5	        31     2	          *              1              *               //Imperial Staff              
+5	        32	   2	          *              1              *               //Guardian Staff			    
+5	        33	   2	          *              1              *               //Chromatic Staff             
+5	        34	   2	          *              1              *               //Raven Stick                 
+5	        36	   2	          *              1              *               //Divine Stick of Archangel	
+//Shield
+6	        0 	   4	          *              3              *               //Small Shield            
+6	        1 	   4	          *              3              *               //Horn Shield             
+6	        2 	   4	          *              3              *               //Kite Shield             
+6	        3 	   4	          *              3              *               //Elven Shield            
+6	        4 	   4	          *              3              *               //Buckler                 
+6	        5 	   4	          *              3              *               //Dragon Slayer Shield    
+6	        6 	   4	          *              3              *               //Skull Shield            
+6	        7 	   4	          *              3              *               //Spiked Shield           
+6	        8 	   4	          *              3              *               //Tower Shield            
+6	        9 	   4	          *              3              *               //Plate Shield            
+6	        10	   4	          *              3              *               //Large Round Shield      
+6	        11	   4	          *              3              *               //Serpent Shield          
+6	        12	   4	          *              3              *               //Bronze Shield           
+6	        13	   4	          *              3              *               //Dragon Shield           
+6	        14	   4	          *              3              *               //Legendary Shield        
+6	        15	   4	          *              3              *               //Grand Soul Shield       
+6	        16	   4	          *              3              *               //Elemental Shield        
+6	        17	   4	          *              3              *               //Crimson Glory           
+6	        18	   4	          *              3              *               //Salamander Shield       
+6	        19	   4	          *              3              *               //Frost Barrier           
+6	        20	   4	          *              3              *               //Guardian Shield        
+6	        21	   4	          *              3              *               //Cross Shield            
+//Helm
+7	        0  	   8	          *              3              *                //Bronze Helm                  
+7	        1  	   8	          *              3              *                //Dragon Helm                  
+7	        2  	   8	          *              3              *                //Pad Helm                     
+7	        3  	   8	          *              3              *                //Legendary Helm               
+7	        4  	   8	          *              3              *                //Bone Helm                    
+7	        5  	   8	          *              3              *                //Leather Helm                 
+7	        6  	   8	          *              3              *                //Scale Helm                   
+7	        7  	   8	          *              3              *                //Sphinx Mask                  
+7	        8  	   8	          *              3              *                //Brass Helm                  
+7	        9  	   8	          *              3              *                //Plate Helm                   
+7	        10 	   8	          *              3              *                //Vine Helm                    
+7	        11 	   8	          *              3              *                //Silk Helm                    
+7	        12 	   8	          *              3              *                //Wind Helm                    
+7	        13 	   8	          *              3              *                //Spirit Helm                  
+7	        14 	   8	          *              3              *                //Guardian Helm               
+7	        16 	   8	          *              3              *                //Black Dragon Helm            
+7	        17 	   8	          *              3              *                //Dark Phoenix Helm            
+7	        18 	   8	          *              3              *                //Grand Soul Helm              
+7	        19 	   8	          *              3              *                //Divine Helm                
+7	        21 	   8	          *              3              *                //Great Dragon Helm            
+7	        22 	   8	          *              3              *                //Dark Soul Helm             
+7	        24 	   8	          *              3              *                //Red Spirit Helm              
+7	        25 	   8	          *              3              *                //Light Plate Mask             
+7	        26 	   8	          *              3              *                //Adamantine Mask              
+7	        27 	   8	          *              3              *                //Dark Steel Mask              
+7	        28 	   8	          *              3              *                //Dark Master Mask             
+7	        29 	   8	          *              3              *                //Dragon Knight Helm           
+7	        30 	   8	          *              3              *                //Venom Mist Helm              
+7	        31 	   8	          *              3              *                //Sylphid Ray Helm            
+7	        33 	   8	          *              3              *                //Sunlight Mask                
+7	        34 	   8	          *              3              *                //Ashcrow Helm                 
+7	        35 	   8	          *              3              *                //Eclipse Helm                 
+7	        36 	   8	          *              3              *                //Iris Helm                   
+7	        38 	   8	          *              3              *                //Glorious Mask                
+7	        39 	   8	          *              3              *                //Violent Wind Helm            
+7	        40 	   8	          *              3              *                //Red Wing Helm                
+7	        41 	   8	          *              3              *                //Ancient Helm                 
+7	        42 	   8	          *              3              *                //Demonic Helm                 
+7	        43 	   8	          *              3              *                //Storm Blitz Helm             
+7	        44	   8	          *              3              *                //Lilium Helm			         
+7	        45 	   8	          *              3              *                //Titan Helm                   
+7	        46 	   8	          *              3              *                //Brave Helm                   
+7	        49 	   8	          *              3              *                //Seraphim Helm                
+7	        50 	   8	          *              3              *                //Divine Helm                  
+7	        51 	   8	          *              3              *                //Royal Mask                   
+7	        52 	   8	          *              3              *                //Hades Helm                   
+7	        53	   8	          *              3              *                //Queen Helm			         
+7	        59 	   8	          *              3              *                //Sacred Helm                  
+7	        60 	   8	          *              3              *                //Storm Zahard Helm            
+7	        61 	   8	          *              3              *                //Piercing Helm                	     
+7	        73	   8	          *              3              *                //Phoenix Soul Helm	                          
+//Armor
+8	        0  	   7	          *              3              *                //Bronze Armor              
+8	        1  	   7	          *              3              *                //Dragon Armor              
+8	        2  	   7	          *              3              *                //Pad Armor                 
+8	        3  	   7	          *              3              *                //Legendary Armor           
+8	        4  	   7	          *              3              *                //Bone Armor                
+8	        5  	   7	          *              3              *                //Leather Armor             
+8	        6  	   7	          *              3              *                //Scale Armor               
+8	        7  	   7	          *              3              *                //Sphinx Armor              
+8	        8  	   7	          *              3              *                //Brass Armor               
+8	        9  	   7	          *              3              *                //Plate Armor               
+8	        10 	   7	          *              3              *                //Vine Armor                
+8	        11 	   7	          *              3              *                //Silk Armor                
+8	        12 	   7	          *              3              *                //Wind Armor                
+8	        13 	   7	          *              3              *                //Spirit Armor              
+8	        14 	   7	          *              3              *                //Guardian Armor            
+8	        15 	   7	          *              3              *                //Storm Crow Armor          
+8	        16 	   7	          *              3              *                //Black Dragon Armor        
+8	        17 	   7	          *              3              *                //Dark Phoenix Armor        
+8	        18 	   7	          *              3              *                //Grand Soul Armor          
+8	        19 	   7	          *              3              *                //Divine Armor              
+8	        20 	   7	          *              3              *                //Thunder Hawk Armor        
+8	        21 	   7	          *              3              *                //Great Dragon Armor        
+8	        22 	   7	          *              3              *                //Dark Soul Armor           
+8	        23 	   7	          *              3              *                //Hurricane Armor           
+8	        24 	   7	          *              3              *                //Red Sprit Armor           
+8	        25 	   7	          *              3              *                //Light Plate Armor         
+8	        26 	   7	          *              3              *                //Adamantine Armor         
+8	        27 	   7	          *              3              *                //Dark Steel Armor         
+8	        28 	   7	          *              3              *                //Dark Master Armor         
+8	        29 	   7	          *              3              *                //Dragon Knight Armor       
+8	        30 	   7	          *              3              *                //Venom Mist Armor         
+8	        31 	   7	          *              3              *                //Sylphid Ray Armor         
+8	        32 	   7	          *              3              *                //Volcano Armor            
+8	        33 	   7	          *              3              *                //Sunlight Armor           
+8	        34 	   7	          *              3              *                //Ashcrow Armor             
+8	        35 	   7	          *              3              *                //Eclipse Armor             
+8	        36 	   7	          *              3              *                //Iris Armor                
+8	        37 	   7	          *              3              *                //Valiant Armor             
+8	        38 	   7	          *              3              *                //Glorious Armor            
+8	        39 	   7	          *              3              *                //Violent Wind Armor        
+8	        40 	   7	          *              3              *                //Red Wing Armor            
+8	        41 	   7	          *              3              *                //Ancient Armor            
+8	        42 	   7	          *              3              *                //Demonic Armor             
+8	        43 	   7	          *              3              *                //Storm Blitz Armor        
+8	        44	   7	          *              3              *                //Lilium Armor			  
+8	        45 	   7	          *              3              *                //Titan Armor               
+8	        46 	   7	          *              3              *                //Brave Armor               
+8	        47 	   7	          *              3              *                //Phantom Armor             
+8	        48 	   7	          *              3              *                //Destroy Armor             
+8	        49 	   7	          *              3              *                //Seraphim Armor            
+8	        50 	   7	          *              3              *                //Divine Armor              
+8	        51 	   7	          *              3              *                //Royal Armor               
+8	        52 	   7	          *              3              *                //Hades Armor               
+8	        53	   7	          *              3              *                //Queen Armor			      
+8	        59 	   7	          *              3              *                //Sacred Armor              
+8	        60 	   7	          *              3              *                //Storm Zahard Armor        
+8	        61 	   7	          *              3              *                //Piercing Armor            	  
+8	        73	   7	          *              3              *                //Phoenix Soul Armor	      
+8	        100	   7	          *              3              *                //Tigrit Armor              
+//Pants
+9	        0  	   4	          *              3              *                //Bronze Pants              
+9	        1  	   4	          *              3              *                //Dragon Pants              
+9	        2  	   4	          *              3              *                //Pad Pants                 
+9	        3  	   4	          *              3              *                //Legendary Pants           
+9	        4  	   4	          *              3              *                //Bone Pants                
+9	        5  	   4	          *              3              *                //Leather Pants             
+9	        6  	   4	          *              3              *                //Scale Pants               
+9	        7  	   4	          *              3              *                //Sphinx Pants              
+9	        8  	   4	          *              3              *                //Brass Pants               
+9	        9  	   4	          *              3              *                //Plate Pants               
+9	        10 	   4	          *              3              *                //Vine Pants                
+9	        11 	   4	          *              3              *                //Silk Pants                
+9	        12 	   4	          *              3              *                //Wind Pants                
+9	        13 	   4	          *              3              *                //Spirit Pants              
+9	        14 	   4	          *              3              *                //Guardian Pants            
+9	        15 	   4	          *              3              *                //Storm Crow Pants          
+9	        16 	   4	          *              3              *                //Black Dragon Pants        
+9	        17 	   4	          *              3              *                //Dark Phoenix Pants        
+9	        18 	   4	          *              3              *                //Grand Soul Pants          
+9	        19 	   4	          *              3              *                //Divine Pants              
+9	        20 	   4	          *              3              *                //Thunder Hawk Pants        
+9	        21 	   4	          *              3              *                //Great Dragon Pants        
+9	        22 	   4	          *              3              *                //Dark Soul Pants           
+9	        23 	   4	          *              3              *                //Hurricane Pants           
+9	        24 	   4	          *              3              *                //Red Spirit Pants          
+9	        25 	   4	          *              3              *                //Light Plate Pants         
+9	        26 	   4	          *              3              *                //Adamantine Pants          
+9	        27 	   4	          *              3              *                //Dark Steel Pants          
+9	        28 	   4	          *              3              *                //Dark Master Pants         
+9	        29 	   4	          *              3              *                //Dragon Knight Pants       
+9	        30 	   4	          *              3              *                //Venom Mist Pants          
+9	        31 	   4	          *              3              *                //Sylphid Ray Pants         
+9	        32 	   4	          *              3              *                //Volcano Pants             
+9	        33 	   4	          *              3              *                //Sunlight Pants            
+9	        34 	   4	          *              3              *                //Ashcrow Pants             
+9	        35 	   4	          *              3              *                //Eclipse Pants             
+9	        36 	   4	          *              3              *                //Iris Pants                
+9	        37 	   4	          *              3              *                //Valiant Pants             
+9	        38 	   4	          *              3              *                //Glorious Pants            
+9	        39 	   4	          *              3              *                //Violent Wind Pants        
+9	        40 	   4	          *              3              *                //Red Wing Pants            
+9	        41 	   4	          *              3              *                //Ancient Pants             
+9	        42 	   4	          *              3              *                //Demonic Pants             
+9	        43 	   4	          *              3              *                //Storm Blitz Pants         
+9	        44	   4	          *              3              *                //Lilium Pants			  
+9	        45 	   4	          *              3              *                //Titan  Pants              
+9	        46 	   4	          *              3              *                //Brave Pants              
+9	        47     4	          *              3              *                //Phantom  Pants           
+9	        48 	   4	          *              3              *                //Destroy Pants             
+9	        49 	   4	          *              3              *                //Seraphim Pants            
+9	        50 	   4	          *              3              *                //Divine Pants              
+9	        51 	   4	          *              3              *                //Royal Pants               
+9	        52 	   4	          *              3              *                //Hades Pants               
+9	        53	   4	          *              3              *                //Queen Pants			      
+9	        59 	   4	          *              3              *                //Sacred Pants              
+9	        60 	   4	          *              3              *                //Storm Zahard Pants        
+9	        61 	   4	          *              3              *                //Piercing Pants                
+9	        73	   4	          *              3              *                //Phoenix Soul Pants	                  
+//Gloves
+10	        0 	   5	          *              3              *                //Bronze Gloves               
+10	        1 	   5	          *              3              *                //Dragon Gloves               
+10	        2 	   5	          *              3              *                //Pad Gloves                  
+10	        3 	   5	          *              3              *                //Legendary Gloves            
+10	        4 	   5	          *              3              *                //Bone Gloves                 
+10	        5 	   5	          *              3              *                //Leather Gloves              
+10	        6 	   5	          *              3              *                //Scale Gloves                
+10	        7 	   5	          *              3              *                //Sphinx Gloves               
+10	        8 	   5	          *              3              *                //Brass Gloves                
+10	        9 	   5	          *              3              *                //Plate Gloves                
+10	        10	   5	          *              3              *                //Vine Gloves                 
+10	        11	   5	          *              3              *                //Silk Gloves                 
+10	        12	   5	          *              3              *                //Wind Gloves                 
+10	        13	   5	          *              3              *                //Spirit Gloves               
+10	        14	   5	          *              3              *                //Guardian Gloves             
+10	        15	   5	          *              3              *                //Storm Crow Gloves           
+10	        16	   5	          *              3              *                //Black Dragon Gloves         
+10	        17	   5	          *              3              *                //Dark Phoenix Gloves         
+10	        18	   5	          *              3              *                //Grand Soul Gloves           
+10	        19	   5	          *              3              *                //Divine Gloves               
+10	        20	   5	          *              3              *                //Thunder Hawk Gloves         
+10	        21	   5	          *              3              *                //Great Dragon Gloves         
+10	        22	   5	          *              3              *                //Dark Soul Gloves            
+10	        23	   5	          *              3              *                //Hurricane Gloves            
+10	        24	   5	          *              3              *                //Red Spirit Gloves           
+10	        25	   5	          *              3              *                //Light Plate Gloves          
+10	        26	   5	          *              3              *                //Adamantine Gloves           
+10	        27	   5	          *              3              *                //Dark Steel Gloves           
+10	        28	   5	          *              3              *                //Dark Master Gloves          
+10	        29	   5	          *              3              *                //Dragon Knight Gloves        
+10	        30	   5	          *              3              *                //Venom Mist Gloves           
+10	        31	   5	          *              3              *                //Sylphid Ray Gloves          
+10	        32	   5	          *              3              *                //Volcano Gloves              
+10	        33	   5	          *              3              *                //Sunlight Gloves             
+10	        34	   5	          *              3              *                //Ashcrow Gloves             
+10	        35	   5	          *              3              *                //Eclipse Gloves              
+10	        36	   5	          *              3              *                //Iris Gloves                 
+10	        37	   5	          *              3              *                //Valiant Gloves              
+10	        38	   5	          *              3              *                //Glorious Gloves             
+10	        39	   5	          *              3              *                //Violent Wind Gloves        
+10	        40	   5	          *              3              *                //Red Wing Gloves             
+10	        41	   5	          *              3              *                //Ancient Gloves              
+10	        42	   5	          *              3              *                //Demonic Gloves              
+10	        43	   5	          *              3              *                //Storm Blitz Gloves          
+10	        44	   5	          *              3              *                //Lilium Gloves			    
+10	        45	   5	          *              3              *                //Titan  Gloves               
+10	        46	   5	          *              3              *                //Brave Gloves                
+10	        47     5	          *              3              *                //Phantom  Gloves            
+10	        48	   5	          *              3              *                //Destroy Gloves              
+10	        49	   5	          *              3              *                //Seraphim Gloves             
+10	        50	   5	          *              3              *                //Divine Gloves               
+10	        51	   5	          *              3              *                //Royal Gloves                
+10	        52	   5	          *              3              *                //Hades Gloves                
+10	        53	   5	          *              3              *                //Queen Gloves			    
+//Boots
+11	        0  	   6	          *              3              *                //Bronze Boots               
+11	        1  	   6	          *              3              *                //Dragon Boots               
+11	        2  	   6	          *              3              *                //Pad Boots                  
+11	        3  	   6	          *              3              *                //Legendary Boots            
+11	        4  	   6	          *              3              *                //Bone Boots                 
+11	        5  	   6	          *              3              *                //Leather Boots              
+11	        6  	   6	          *              3              *                //Scale Boots                
+11	        7  	   6	          *              3              *                //Sphinx Boots               
+11	        8  	   6	          *              3              *                //Brass Boots                
+11	        9  	   6	          *              3              *                //Plate Boots                
+11	        10 	   6	          *              3              *                //Vine Boots                 
+11	        11 	   6	          *              3              *                //Silk Boots                 
+11	        12 	   6	          *              3              *                //Wind Boots                 
+11	        13 	   6	          *              3              *                //Spirit Boots               
+11	        14 	   6	          *              3              *                //Guardian Boots             
+11	        15 	   6	          *              3              *                //Storm Crow Boots           
+11	        16 	   6	          *              3              *                //Black Dragon Boots         
+11	        17 	   6	          *              3              *                //Dark Phoenix Boots         
+11	        18 	   6	          *              3              *                //Grand Soul Boots           
+11	        19 	   6	          *              3              *                //Divine Boots               
+11	        20 	   6	          *              3              *                //Thunder Hawk Boots         
+11	        21 	   6	          *              3              *                //Great Dragon Boots         
+11	        22 	   6	          *              3              *                //Dark Soul Boots            
+11	        23 	   6	          *              3              *                //Hurricane Boots            
+11	        24 	   6	          *              3              *                //Red Spirit Boots           
+11	        25 	   6	          *              3              *                //Light Plate Boots          
+11	        26 	   6	          *              3              *                //Adamantine Boots           
+11	        27 	   6	          *              3              *                //Dark Steel Boots           
+11	        28 	   6	          *              3              *                //Dark Master Boots          
+11	        29 	   6	          *              3              *                //Dragon Knight Boots        
+11	        30 	   6	          *              3              *                //Venom Mist Boots           
+11	        31 	   6	          *              3              *                //Sylphid Ray Boots          
+11	        32 	   6	          *              3              *                //Volcano Boots              
+11	        33 	   6	          *              3              *                //Sunlight Boots             
+11	        34 	   6	          *              3              *                //Ashcrow Boots              
+11	        35 	   6	          *              3              *                //Eclipse Boots              
+11	        36 	   6	          *              3              *                //Iris Boots                 
+11	        37 	   6	          *              3              *                //Valiant Boots              
+11	        38 	   6	          *              3              *                //Glorious Boots             
+11	        39 	   6	          *              3              *                //Violent Wind Boots         
+11	        40 	   6	          *              3              *                //Red Wing Boots             
+11	        41 	   6	          *              3              *                //Ancient Boots              
+11	        42 	   6	          *              3              *                //Demonic Boots              
+11	        43 	   6	          *              3              *                //Storm Blitz Boots          
+11	        44	   6	          *              3              *                //Lilium Boots			   
+11	        45 	   6	          *              3              *                //Titan Boots                
+11	        46 	   6	          *              3              *                //Brave Boots                
+11	        47     6	          *              3              *                //Phantom Boots              
+11	        48 	   6	          *              3              *                //Destroy Boots              
+11	        49 	   6	          *              3              *                //Seraphim Boots             
+11	        50 	   6	          *              3              *                //Divine Boots               
+11	        51 	   6	          *              3              *                //Royal Boots                
+11	        52 	   6	          *              3              *                //Hades Boots                
+11	        53	   6	          *              3              *                //Queen Boots			       
+11	        59 	   6	          *              3              *                //Sacred Boots               
+11	        60 	   6	          *              3              *                //Storm Zahard Boots         
+11	        61 	   6	          *              3              *                //Piercing Boots                  
+11	        73	   6	          *              3              *                //Phoenix Soul Boots	                      
+end

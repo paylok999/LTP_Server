@@ -1,0 +1,9 @@
+*.exe
+*.dll
+*LOG*
+*LOG/*
+*/LOG/*
+*.rar
+*.zip
+*.dmp
+/Tools

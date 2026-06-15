@@ -1,0 +1,79 @@
+3
+//Index   DropRate
+0         10000
+end
+
+4
+//Index   Section   SectionRate   MoneyAmount   OptionValue   DW   DK   FE   MG   DL   SU   RF		Comment
+0           5         9500          0             0             1    1    1    1    1    1    1		//5
+0           6         500           0             0             1    1    1    1    1    1    1		//6
+end
+
+5
+//Index   Level   Grade   Level     Skill     Luck      JoL       Exc       Set       Socket
+//Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   Comment
+//Sword
+20   	  0       0       32    	13    	  13    	24    	  20        *         *         0          //Knight Blade
+21   	  0       0       32    	13    	  13    	24    	  20        *         *         0          //Dark Reign Blade
+31   	  0       0       32    	13    	  13    	24    	  20        *         *         0          //Rune Blade
+24   	  0       0       32    	13    	  13    	24    	  20        *         *         0          //Daybreak
+//Bow
+2068   	  0       0       32    	13    	  13    	24    	  20        *         *         0          //Arrow Viper Bow
+//Scepter
+1039   	  0       0       32    	13    	  13    	24    	  20        *         *         0          //Shining Scepter
+//Staff
+2573   	  0       0       32    	*    	  13    	24    	  20        *         *         0          //Platina Staff
+2571   	  0       0       32    	*    	  13    	24    	  20        *         *         0          //Staff of Kundun
+//Stick
+2579   	  0       0       32    	13    	  13    	24    	  20        *         *         0          //Storm Blitz Stick
+2594   	  0       0       32    	13    	  13    	24    	  20        *         *         0          //Raven Stick
+//Sets
+3605   	  0       0       32    	*    	  13    	24    	  20        *         *         0          //Great Dragon Helm
+4117   	  0       0       32    	*    	  13    	24    	  20        *         *         0          //Great Dragon Armor
+4629   	  0       0       32    	*    	  13    	24    	  20        *         *         0          //Great Dragon Pants
+5141   	  0       0       32    	*    	  13    	24    	  20        *         *         0          //Great Dragon Gloves
+5653   	  0       0       32    	*    	  13    	24    	  20        *         *         0          //Great Dragon Boots
+//
+3606   	  0       0       32    	*    	  13    	24    	  20        *         *         0          //Dark Soul Helm
+4118   	  0       0       32    	*    	  13    	24    	  20        *         *         0          //Dark Soul Armor
+4630   	  0       0       32    	*    	  13    	24    	  20        *         *         0          //Dark Soul Pants
+5142   	  0       0       32    	*    	  13    	24    	  20        *         *         0          //Dark Soul Gloves
+5654   	  0       0       32    	*    	  13    	24    	  20        *         *         0          //Dark Soul Boots
+//
+3608   	  0       0       32    	*    	  13    	24    	  20        *         *         0          //Red Spirit Helm
+4120   	  0       0       32    	*    	  13    	24    	  20        *         *         0          //Red Spirit Armor
+4632   	  0       0       32    	*    	  13    	24    	  20        *         *         0          //Red Spirit Pants
+5144   	  0       0       32    	*    	  13    	24    	  20        *         *         0          //Red Spirit Gloves
+5656   	  0       0       32    	*    	  13    	24    	  20        *         *         0          //Red Spirit Boots
+//
+3612   	  0       0       32    	*    	  13    	24    	  20        *         *         0          //Dark Master Helm
+4124   	  0       0       32    	*    	  13    	24    	  20        *         *         0          //Dark Master Armor
+4636   	  0       0       32    	*    	  13    	24    	  20        *         *         0          //Dark Master Pants
+5148   	  0       0       32    	*    	  13    	24    	  20        *         *         0          //Dark Master Gloves
+5660   	  0       0       32    	*    	  13    	24    	  20        *         *         0          //Dark Master Boots
+//
+3626   	  0       0       32    	*    	  13    	24    	  20        *         *         0          //Demonic Helm
+4138   	  0       0       32    	*    	  13    	24    	  20        *         *         0          //Demonic Armor
+4650   	  0       0       32    	*    	  13    	24    	  20        *         *         0          //Demonic Pants
+5162   	  0       0       32    	*    	  13    	24    	  20        *         *         0          //Demonic Gloves
+5674   	  0       0       32    	*    	  13    	24    	  20        *         *         0          //Demonic Boots
+//
+4119   	  0       0       32    	*    	  13    	24    	  20        *         *         0          //Hurricane Armor
+4631   	  0       0       32    	*    	  13    	24    	  20        *         *         0          //Hurricane Pants
+5143   	  0       0       32    	*    	  13    	24    	  20        *         *         0          //Hurricane Gloves
+5655   	  0       0       32    	*    	  13    	24    	  20        *         *         0          //Hurricane Boots
+//
+33   	  0       0       32    	13    	  13    	24    	  20        *         *         0          //Storm Jahad
+3644   	  0       0       32    	*    	  13    	24    	  20        *         *         0          //Storm Jahad Helm
+4156   	  0       0       32    	*    	  13    	24    	  20        *         *         0          //Storm Jahad Armor
+4668   	  0       0       32    	*    	  13    	24    	  20        *         *         0          //Storm Jahad Pants
+5692   	  0       0       32    	*    	  13    	24    	  20        *         *         0          //Storm Jahad Boots
+end
+
+6
+//Index   Level   Grade   Level     Skill     Luck      JoL       Exc       Set       Socket
+//Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   Comment 
+7368   	  0       0       *    	    *    	  *    	  	*    	  *         *         *         0          // Jewel of Level
+7369   	  0       0       *    	    *    	  *    	  	*    	  *         *         *         0          // Jewel of Luck
+7373   	  0       0       *    	    *    	  *    	  	*    	  *         *         *         0          // Jewel of Excellent 
+end

@@ -1,0 +1,255 @@
+[GameServerInfo]
+;==================================================
+; Mana Shield Skill Settings
+;==================================================
+ManaShieldConstA = 10			;Constant formula for damage reduction Mana Shield spell.
+ManaShieldConstB = 50			;Constant formula for damage reduction Mana Shield spell.
+ManaShieldConstC = 200			;Constant formula for damage reduction Mana Shield spell.
+ManaShieldRateDW = 100			;Percentage of effect that will be applied to DWs.
+ManaShieldRateDK = 100			;Percentage of effect that will be applied to DKs.
+ManaShieldRateFE = 100			;Percentage of effect that will apply to AGs.
+ManaShieldRateMG = 100			;Percentage of effect that will be applied to MGs.
+ManaShieldRateDL = 100			;Percentage of effect that will apply to DLs.
+ManaShieldRateSU = 100			;Percentage of effect that will be applied to SUs.
+ManaShieldRateRF = 100			;Percentage of effect that will be applied to RFs.
+ManaShieldTimeConstA = 60		;Duration of Formula constant in seconds Mana Shield spell.
+ManaShieldTimeConstB = 40		;Duration of Formula constant in seconds Mana Shield spell.
+ManaShieldMaxRate = 50			;Maximum amount of damage reduction of Mana Shield spell.
+
+;==================================================
+; Defense Skill Settings
+;==================================================
+DefenseConstA = 50
+DefenseTimeConstA = 4
+
+;==================================================
+; Heal Skill Settings
+;==================================================
+HealConstA = 5					;Constant formula recovery of life Heal spell.
+HealConstB = 5					;Constant formula recovery of life Heal spell.
+
+;==================================================
+; Greater Defense Skill Settings
+;==================================================
+GreaterDefenseConstA = 2		;Constant formula of defense increased Greater Defense magic.
+GreaterDefenseConstB = 8		;Constant formula of defense increased Greater Defense magic.
+GreaterDefenseRateDW = 100		;Percentage of effect that will be applied to DWs.
+GreaterDefenseRateDK = 100		;Percentage of effect that will be applied to DKs.
+GreaterDefenseRateFE = 100		;Percentage of effect that will apply to AGs.
+GreaterDefenseRateMG = 100		;Percentage of effect that will be applied to MGs.
+GreaterDefenseRateDL = 100		;Percentage of effect that will apply to DLs.
+GreaterDefenseRateSU = 100		;Percentage of effect that will be applied to SUs.
+GreaterDefenseRateRF = 100		;Percentage of effect that will be applied to RFs.
+GreaterDefenseTimeConstA = 180	;Duration in seconds of Greater Defense magic.
+
+;==================================================
+; Greater Damage Skill Settings
+;==================================================
+GreaterDamageConstA = 3			;Constant formula increase of Greater Damage magic damage.
+GreaterDamageConstB = 7			;Constant formula increase of Greater Damage magic damage.
+GreaterDamageRateDW = 100		;Percentage of effect that will be applied to DWs.
+GreaterDamageRateDK = 100		;Percentage of effect that will be applied to DKs.
+GreaterDamageRateFE = 100		;Percentage of effect that will apply to AGs.
+GreaterDamageRateMG = 100		;Percentage of effect that will be applied to MGs.
+GreaterDamageRateDL = 100		;Percentage of effect that will apply to DLs.
+GreaterDamageRateSU = 100		;Percentage of effect that will be applied to SUs.
+GreaterDamageRateRF = 100		;Percentage of effect that will be applied to RFs.
+GreaterDamageTimeConstA = 180	;Duration in seconds of Greater Damage magic.
+
+;==================================================
+; Summon Monster Skill Settings
+;==================================================
+SummonMonster1 = 26				;monster number to be raised by Summon Goblin magic.
+SummonMonster2 = 32				;monster number to be invoked by the magic Summon Stone Golem.
+SummonMonster3 = 21				;monster number to be invoked by the magic Summon Assassin.
+SummonMonster4 = 20				;monster number to be invoked by the magic Summon Elite Yeti.
+SummonMonster5 = 10				;monster number to be raised by the Summon Dark Knight magic.
+SummonMonster6 = 150			;monster number to be invoked by the magic Summon Bali.
+SummonMonster7 = 151			;monster number to be raised by the Summon Soldier magic.
+SummonMonster8 = 353			;monster number to be invoked by the magic Summon Satyros.
+
+;==================================================
+; Greater Life Skill Settings
+;==================================================
+GreaterLifeConstA = 12			;Constant formula of increased life of the Greater Life magic.
+GreaterLifeConstB = 100			;Constant formula of increased life of the Greater Life magic.
+GreaterLifeConstC = 20			;Constant formula of increased life of the Greater Life magic.
+GreaterLifeRateDW = 100			;Percentage of effect that will be applied to DWs.
+GreaterLifeRateDK = 100			;Percentage of effect that will be applied to DKs.
+GreaterLifeRateFE = 100			;Percentage of effect that will apply to AGs.
+GreaterLifeRateMG = 100			;Percentage of effect that will be applied to MGs.
+GreaterLifeRateDL = 100			;Percentage of effect that will apply to DLs.
+GreaterLifeRateSU = 100			;Percentage of effect that will be applied to SUs.
+GreaterLifeRateRF = 100			;Percentage of effect that will be applied to RFs.
+GreaterLifeTimeConstA = 60		;Constant formula length in seconds of the Greater Life magic.
+GreaterLifeTimeConstB = 2000		;Constant formula length in seconds of the Greater Life magic.
+GreaterLifeMaxRate = 100		;Maximum amount of increased Greater Life magic of life.
+
+;==================================================
+; Fire Slash Skill Settings
+;==================================================
+FireSlashConstA = 10			;Constant formula of defense reduction Slash Fire magic.
+FireSlashConstB = 50			;Constant formula of defense reduction Slash Fire magic.
+FireSlashTimeConstA = 10		;Duration in seconds of Fire Slash magic.
+FireSlashMaxRate = 30			;maximum reduction of defense of Fire Slash magic value.
+
+;==================================================
+; Greater Critical Damage Skill Settings
+;==================================================
+GreaterCriticalDamageConstA = 25			;Constant formula of critical damage increased Greater Critical Damage magic.
+GreaterCriticalDamageConstB = 30			;Constant formula of critical damage increased Greater Critical Damage magic.
+GreaterCriticalDamageTimeConstA = 60		;Constant formula length in seconds of Greater Critical Damage magic.
+GreaterCriticalDamageTimeConstB = 10		;Constant formula length in seconds of Greater Critical Damage magic.
+
+;==================================================
+; Stern Skill Settings
+;==================================================
+SternTimeConstA = 10					;Duration in seconds of Stern magic.
+
+;==================================================
+; Greater Mana Skill Settings
+;==================================================
+GreaterManaConstA = 50					;Magic mana increased Value Greater Mana.
+GreaterManaTimeConstA = 60				;Duration in seconds of Greater Mana magic.
+
+;==================================================
+; Invisibility Skill Settings
+;==================================================
+InvisibilityTimeConstA = 60				;Duration in seconds of Invisibility spell.
+
+;==================================================
+; Brand Skill Settings
+;==================================================
+BrandTimeConstA = 10					;Duration in seconds Brand magic.
+
+;==================================================
+; Infinity Arrow Skill Settings
+;==================================================
+InfinityArrowTimeConstA = 1800			;Duration in seconds of magic Infinity Arrow.
+
+;==================================================
+; Magic Damage Immunity Skill Settings
+;==================================================
+MagicDamageImmunityTimeConstA = 10		;Duration in seconds of magic Magic Damage Immunity.
+
+;==================================================
+; Physi Damage Immunity Skill Settings
+;==================================================
+PhysiDamageImmunityTimeConstA = 10		;Duration in seconds of Physi Damage Immunity magic.
+
+;==================================================
+; Drain Life Skill Settings
+;==================================================
+DrainLifeConstA = 10					;Constant Formula Drain Life spell of recovery life.
+DrainLifeConstB = 23					;Constant Formula Drain Life spell of recovery life.
+
+;==================================================
+; Reflect Damage Skill Settings
+;==================================================
+ReflectDamageConstA = 30			;Constant Formula Reflect Damage magic of damage reflection.		
+ReflectDamageConstB = 42			;Constant Formula Reflect Damage magic of damage reflection.
+ReflectDamageRateDW = 100			;Percentage of effect that will be applied to DWs.
+ReflectDamageRateDK = 100			;Percentage of effect that will be applied to DKs.
+ReflectDamageRateFE = 100			;Percentage of effect that will apply to AGs.
+ReflectDamageRateMG = 100			;Percentage of effect that will be applied to MGs.
+ReflectDamageRateDL = 100			;Percentage of effect that will apply to DLs.
+ReflectDamageRateSU = 100			;Percentage of effect that will be applied to SUs.
+ReflectDamageRateRF = 100			;Percentage of effect that will be applied to RFs.
+ReflectDamageTimeConstA = 30		;Constant formula length in seconds Reflect Damage spell.
+ReflectDamageTimeConstB = 25		;Constant formula length in seconds Reflect Damage spell.
+ReflectDamageMaxRate = 50			;Maximum amount of reflection Reflect Damage spell damage.
+
+;==================================================
+; Sword Power Skill Settings
+;==================================================
+SwordPowerConstA = 30				;Constant formula of increasing damage and speed of the Power Sword magic.
+SwordPowerConstB = 60				;Constant formula of reduction of life and defense of the Power Sword magic.
+SwordPowerTimeConstA = 30			;Constant length of the formula in seconds the Power Sword magic.
+SwordPowerTimeConstB = 20			;Constant length of the formula in seconds the Power Sword magic.
+SwordPowerMaxRate = 100				;Value Maximum Power Sword magic damage increased.
+
+;==================================================
+; Sleep Skill Settings
+;==================================================
+SleepConstA = 15					;Constant Formula chance to Sleep magic hit.
+SleepConstB = 37					;Constant Formula chance to Sleep magic hit.
+SleepTimeConstA = 1					;Constant formula length in seconds from Sleep magic.
+SleepTimeConstB = 250				;Constant formula length in seconds from Sleep magic.
+SleepMaxTime = 5					;Duration in Maximum Sleep magic seconds.
+
+;==================================================
+; Lesser Defense Skill Settings
+;==================================================
+LesserDefenseConstA = 32			;Constant Formula chance to hit the Lesser Defense magic.
+LesserDefenseConstB = 50			;Constant Formula chance to hit the Lesser Defense magic.
+LesserDefenseConstC = 12			;Constant formula of defense reduction Lesser Defense magic.
+LesserDefenseConstD = 110			;Constant formula of defense reduction Lesser Defense magic.
+LesserDefenseTimeConstA = 5			;Constant formula length in seconds of the Lesser Defense magic.
+LesserDefenseTimeConstB = 300		;Constant formula length in seconds of the Lesser Defense magic.
+LesserDefenseMaxRate = 40			;Maximum Value defense reduction of Lesser Defense magic.
+
+;==================================================
+; Lesser Damage Skill Settings
+;==================================================
+LesserDamageConstA = 32				;Constant Formula chance to hit the magic Lesser Damage.
+LesserDamageConstB = 50				;Constant Formula chance to hit the magic Lesser Damage.
+LesserDamageConstC = 3				;Constant formula for damage reduction of magic Lesser Damage.
+LesserDamageConstD = 93				;Constant formula for damage reduction of magic Lesser Damage.
+LesserDamageTimeConstA = 5			;Constant formula length in seconds of magic Lesser Damage.
+LesserDamageTimeConstB = 300		;Constant formula length in seconds of magic Lesser Damage.
+LesserDamageMaxRate = 40			;Maximum amount of reduction Lesser Damage magic damage.
+
+;==================================================
+; Sahamutt Skill Settings
+;==================================================
+SahamuttConstA = 60					;Percentage of damage that will be periodic in Sahamutt magic.
+
+;==================================================
+; Neil Skill Settings
+;==================================================
+NeilConstA = 60						;Percentage of damage that will be periodic in magic Neil.
+
+;==================================================
+; Magic Circle Skill Settings
+;==================================================
+MagicCircleConstA = 20				;Percentage of increase in the minimum damage of the Magic Circle magic.
+MagicCircleTimeConstA = 1800		;Duration in seconds of the Magic Circle magic.
+
+;==================================================
+; Shield Recover Skill Settings
+;==================================================
+ShieldRecoverConstA = 2				;Constant formula shell Recovery Magic Shield Recover.
+ShieldRecoverConstB = 6				;Constant formula shell Recovery Magic Shield Recover.
+
+;==================================================
+; Dragon Slayer Skill Settings
+;==================================================
+DragonSlayerConstA = 10				;Constant Formula chance to hit the Dragon Slayer magic.
+DragonSlayerConstB = 150			;Constant Formula chance to hit the Dragon Slayer magic.
+DragonSlayerConstC = 10				;Constant formula SD reduction percentage of Dragon Slayer magic.
+DragonSlayerConstD = 30				;Constant formula SD reduction percentage of Dragon Slayer magic.
+DragonSlayerMaxRate = 3				;Value Maximum SD reduction percentage of Dragon Slayer magic.
+
+;==================================================
+; Greater Ignore Defense Rate Skill Settings
+;==================================================
+GreaterIgnoreDefenseRateConstA = 0				;Constant Formula chance to ignore the defense of magic Greater Ignore Defense Rate.
+GreaterIgnoreDefenseRateConstB = 100			;Constant formula change to ignore defense magic Greater Ignore Defense Rate.
+GreaterIgnoreDefenseRateTimeConstA = 60			;Constant length formula in seconds the Greater Ignore Defense Rate magic.
+GreaterIgnoreDefenseRateTimeConstB = 10			;Constant length formula in seconds the Greater Ignore Defense Rate magic.
+
+;==================================================
+; Fitness Skill Settings
+;==================================================
+FitnessConstA = 17				;Constant formula of increased vitality of Fitness Magic.
+FitnessConstB = 5				;Constant formula of increased vitality of Fitness Magic.
+FitnessTimeConstA = 60			;Constant formula length in seconds of Fitness Magic.
+FitnessTimeConstB = 10000			;Constant formula length in seconds of Fitness Magic.
+
+;==================================================
+; Greater Defense Success Rate Skill Settings
+;==================================================
+GreaterDefenseSuccessRateConstA = 2				;Constant formula increased chance of defending Greater Defense Success Rate magic.
+GreaterDefenseSuccessRateConstB = 10			;Constant formula increased chance of defending Greater Defense Success Rate magic.
+GreaterDefenseSuccessRateTimeConstA = 60		;Constant length formula in seconds of Greater Defense Success Rate magic.
+GreaterDefenseSuccessRateTimeConstB = 10		;Constant length formula in seconds of Greater Defense Success Rate magic.

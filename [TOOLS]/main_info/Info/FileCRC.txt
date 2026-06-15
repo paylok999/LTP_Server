@@ -1,0 +1,5 @@
+//This is client files CRC, you need to put it info GameServerInfo - Custom.dat file, if you want to protect your client.
+
+AntihackCRC = 0x0 // 0 - Disabled
+LtpCRC = 0x0 // 0 - Disabled
+MainCRC = 0x7F1BDF28 // 0 - Disabled

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipe Name="FallenAngel">
+	<combination name="Fallen Angel Set Item">
+	<money>500000000</money>
+	<successrate>45</successrate>
+	<excoption op1="15" op2="15" op4="15" op8="15" op16="20" op32="20" />
+		<ingredients>
+			<item starttype="14" 	startindex="213" 	endtype="14" endindex="213" minlevel="0" maxlevel="255" minoption="0" maxoption="255" mindur="0" maxdur="255" mincount="1" maxcount="1" tag="tag"/>
+			<item starttype="14" startindex="182" endtype="14" endindex="182" minlevel="0" maxlevel="255" minoption="0" maxoption="255" mindur="0" maxdur="255" mincount="1" maxcount="1" tag="tag"/>
+			<item starttype="12" startindex="30" endtype="12" endindex="30" minlevel="0" maxlevel="255" minoption="0" maxoption="255" mindur="0" maxdur="255" mincount="1" maxcount="1" tag="tag"/>
+			<item starttype="12" startindex="15" endtype="12" endindex="15" minlevel="0" maxlevel="255" minoption="0" maxoption="255" mindur="0" maxdur="255" mincount="1" maxcount="1" tag="tag"/>
+			<item starttype="12" startindex="31" endtype="12" endindex="31" minlevel="0" maxlevel="255" minoption="0" maxoption="255" mindur="0" maxdur="255" mincount="1" maxcount="1" tag="tag"/>
+		</ingredients>	
+		<talismans>
+			<item starttype="0" startindex="0" endtype="0" endindex="0" minlevel="0" maxlevel="0" minoption="0" maxoption="0" mindur="1" maxdur="255" addrate="10" countmax="5"/>
+		</talismans>	
+		<produces>
+			<item type="7" index="119" minlevel="0" maxlevel="15" minoption="0" maxoption="4" skill="0" luck="1" excmin="1" excmax="3" ancient="0" sockmin="0" sockmax="5" dur="255"/>
+			<item type="8" index="119" minlevel="0" maxlevel="15" minoption="0" maxoption="4" skill="0" luck="1" excmin="1" excmax="3" ancient="0" sockmin="0" sockmax="5" dur="255"/>
+			<item type="9" index="119" minlevel="0" maxlevel="15" minoption="0" maxoption="4" skill="0" luck="1" excmin="1" excmax="3" ancient="0" sockmin="0" sockmax="5" dur="255"/>
+			<item type="10" index="119" minlevel="0" maxlevel="15" minoption="0" maxoption="4" skill="0" luck="1" excmin="1" excmax="3" ancient="0" sockmin="0" sockmax="5" dur="255"/>
+			<item type="11" index="119" minlevel="0" maxlevel="15" minoption="0" maxoption="4" skill="0" luck="1" excmin="1" excmax="3" ancient="0" sockmin="0" sockmax="5" dur="255"/>
+		</produces>
+	</combination>
+</recipe>

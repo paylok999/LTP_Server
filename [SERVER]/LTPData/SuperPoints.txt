@@ -1,0 +1,8 @@
+0
+//NPC_ID    NPC_MAP    NPC_X    NPC_Y
+380         0          130      120
+end
+1
+//ItemIndex    ItemLevel    Points
+6174           0            5000
+end

@@ -1,0 +1,4 @@
+//ServerCode   ServerName         ServerAddress      ServerPort       ServerType
+0              "World of MU"       "15.235.145.188"        55901            "SHOW"
+19             "GameServerCS"     "15.235.145.188"        55919            "HIDE"
+end

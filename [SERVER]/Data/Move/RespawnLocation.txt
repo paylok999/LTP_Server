@@ -1,0 +1,32 @@
+//Map   MoveGate   Gate
+0       1          17      // ->LORENCIA
+1       1          17      // ->DUNGEON
+2       1          22      // ->DEVIAS
+3       1          27      // ->NORIA
+4       1          42      // ->LOST TOWER
+6       0          *       // ->ARENA
+7       1          49      // ->ATLANS
+8       1          57      // ->TARKAN
+10      1          22      // ->ICARUS
+31      1          106     // ->LAND OF TRIALS
+33      1          119     // ->AIDA
+37      1          138     // ->KANTURU1
+38      1          139     // ->KANTURU2
+39      1          137     // ->KANTURU3
+40      1          402     // ->SILENT
+41      1          256     // ->BARRAKS
+42      1          256     // ->REFUGE
+51      1          267     // ->ELBELAND
+56      1          273     // ->SWAMP OF CALMNESS
+57      1          286     // ->RAKLION
+58      1          286     // ->RAKLION2
+62      1          22      // ->SANTA TOWN
+63      1          137     // ->VULCANUS
+79      1          333     // ->LOREN MARKET
+80      1          335     // ->KARUTAN1
+81      1          335     // ->KARUTAN2
+91      1          417     // ->ACHERON1
+92      1          426     // ->ACHERON2
+95      1          417     // ->DEVENTER1
+96      1          426     // ->DEVENTER2
+end

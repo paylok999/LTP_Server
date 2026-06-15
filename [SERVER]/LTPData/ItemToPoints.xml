@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ItemToPoints Enable="1" NpcID="406" NpcMap="0" NpcX="137" NpcY="121">
+	<Item Type="12" ID="15" ItemLevel="0" RewardPoints="100" Time="1"/>	
+</ItemToPoints>

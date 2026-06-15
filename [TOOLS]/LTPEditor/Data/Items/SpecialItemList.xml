@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SpecialItemList>
+	<Item Group="14" Index="11" Level="1" Durability="-1" ExcOption="0" Name="Star of the Sacred Birth" />
+	<Item Group="14" Index="11" Level="2" Durability="-1" ExcOption="0" Name="Firecracker" />
+	<Item Group="14" Index="11" Level="3" Durability="-1" ExcOption="0" Name="Heart of Love" />
+	<Item Group="14" Index="11" Level="5" Durability="-1" ExcOption="0" Name="Silver Medal" />
+	<Item Group="14" Index="11" Level="6" Durability="-1" ExcOption="0" Name="Gold Medal" />
+	<Item Group="14" Index="11" Level="7" Durability="-1" ExcOption="0" Name="Box of Heaven" />
+	<Item Group="14" Index="11" Level="8" Durability="-1" ExcOption="0" Name="Box of Kundun +1" />
+	<Item Group="14" Index="11" Level="9" Durability="-1" ExcOption="0" Name="Box of Kundun +2" />
+	<Item Group="14" Index="11" Level="10" Durability="-1" ExcOption="0" Name="Box of Kundun +3" />
+	<Item Group="14" Index="11" Level="11" Durability="-1" ExcOption="0" Name="Box of Kundun +4" />
+	<Item Group="14" Index="11" Level="12" Durability="-1" ExcOption="0" Name="Box of Kundun +5" />
+	<Item Group="14" Index="11" Level="13" Durability="-1" ExcOption="0" Name="Heart of Dark Lord" />
+	<Item Group="14" Index="11" Level="14" Durability="-1" ExcOption="0" Name="Lucky Blue Pouch" />
+	<Item Group="14" Index="11" Level="15" Durability="-1" ExcOption="0" Name="Lucky Red Pouch" />
+	
+	<Item Group="14" Index="32" Level="1" Durability="-1" ExcOption="0" Name="Light Purple Candy Box" />
+	
+	<Item Group="14" Index="33" Level="1" Durability="-1" ExcOption="0" Name="Orange Candy Box" />
+	
+	<Item Group="14" Index="34" Level="1" Durability="-1" ExcOption="0" Name="Dark Blue Candy Box" />
+	
+	<Item Group="13" Index="37" Level="0" Durability="-1" ExcOption="1" Name="Black Fenrir" />
+	<Item Group="13" Index="37" Level="0" Durability="-1" ExcOption="2" Name="Blue Fenrir" />
+	<Item Group="13" Index="37" Level="0" Durability="-1" ExcOption="4" Name="Golden Fenrir" />
+	
+	<Item Group="14" Index="23" Level="1" Durability="-1" ExcOption="0" Name="Ring of Honor" />
+	<Item Group="14" Index="24" Level="1" Durability="-1" ExcOption="0" Name="Dark Stone" />
+
+</SpecialItemList>

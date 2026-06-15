@@ -1,0 +1,486 @@
+[GameServerInfo]
+;==================================================
+; Server Settings
+;==================================================
+ServerName = World of MU
+ServerCode = 0
+ServerLock = 0
+ServerPort = 55901
+ServerVersion = 1.04.05
+ServerSerial = TbYehR2hFUPBKgZj
+ServerMaxUserNumber = 300
+ServerMinUserReset = 0
+ServerMaxUserReset = 500
+ServerMinUserGrandReset = 0
+ServerMaxUserGrandReset = 100
+Disable_BuyForWC = 0
+
+UseWrongPacketsCheck = 0
+
+CustomerName = release
+
+;==================================================
+; Connection Settings
+;==================================================
+DataServerAddress = 127.0.0.1
+DataServerPort = 55960
+JoinServerAddress = 127.0.0.1
+JoinServerPort = 55972
+ConnectServerAddress = 127.0.0.1
+ConnectServerPort = 54668
+
+;==================================================
+; CRC Check
+;==================================================
+AntihackCRC = 0x0
+LtpCRC = 0x0
+MainCRC = 0x0
+
+;==================================================
+; Log Settings
+;==================================================
+WriteChatLog = 1							;User chat log (0=Off/1=On).
+WriteCommandLog = 1							;Command log (0=Off/1=On).
+WriteTradeLog = 1							;Trade log (0=Off/1=On).
+WriteConnectLog = 1							;Connection system log (0=Off/1=On).
+WriteHackLog = 1							;Hack info log (0=Off/1=On).
+WriteCashShopLog = 1							;CashShop log (0=Off/1=On).
+WriteChaosMixLog = 1							;ChaosMix log (0=Off/1=On).
+WriteResetLog = 1
+WriteGrandResetLog = 1							;Reset Log (0-Off/1=On).
+
+;==================================================
+; Hack Settings
+;==================================================
+CheckSpeedHack = 0							;Attack speed check system (0=Off/1=On).
+CheckSpeedHackTolerance = 0						;Maximum attack speed tolerance.
+CheckLatencyHack = 0							;Connection latency check system (0=Off/1=On).
+CheckLatencyHackTolerance = 0						;Maximum latency tolerance.
+CheckAutoPotionHack = 0							;Potion usage check system (0=Off/1=On).
+CheckAutoPotionHackTolerance = 0					;Cooldown time between potion use (Miliseconds).
+CheckAutoComboHack = 0							;Combo usage check system (0=Off/1=On).
+CheckAutoComboHackTolerance = 0						;Cooldown time between combo use (Miliseconds).
+
+;==================================================
+; Common Settings
+;==================================================
+MaxItemOption = 4							;Maximum uses of Jewel of Life on itens.
+MaxIpConnection = 100						;Max number of connections with the same IP.
+MaxHwidConnection_AL0 = 100						;Max number of connections with the same HardwareID.
+MaxHwidConnection_AL1 = 100						;Max number of connections with the same HardwareID.
+MaxHwidConnection_AL2 = 100						;Max number of connections with the same HardwareID.
+MaxHwidConnection_AL3 = 100						;Max number of connections with the same HardwareID.
+PersonalCodeCheck = 0						;Personal Code check (0=Off/1=On).
+SetItemAcceptHarmonySwitch = 1				;Set item supports Jewel of Harmony (0=Off/1=On).
+AllowSocketHarmony = 1
+DisconnectOnConnect_AL0	= 0						
+DisconnectOnConnect_AL1	= 0						
+DisconnectOnConnect_AL2	= 0						
+DisconnectOnConnect_AL3	= 0					
+
+
+;==================================================
+; Pets Settings
+;==================================================
+PetsRenew = 0
+
+;==================================================
+; Monster Settings
+;==================================================
+MonsterLifeRate = 100							;Monster base life percentage.
+MonsterDamageRate = 100							;Monster base damage percentage.
+MonsterDefenseRate = 100						;Monster base defense percentage.
+ShowKillMessage = 1							;Show kill message, when monster kill you.
+MonsterHealthBarSwitch = 1						;Monster's life bar (0=Off/1=On).
+QuestNPCTeleport = 1							;Quest NPC Teleport Enable/Disable (0=Off/1=On)
+QuestNPCTeleportTime = 900						;Quest NPC Teleport Time (In Seconds)
+
+;==================================================
+; PK Settings
+;==================================================
+NonPK = 0								;Room PvP State (0=On/1=Off).
+PKLimitFree = 0								;
+PKDownTime1 = 3600							;Time required to decrease hero state (Seconds).
+PKDownTime2 = 3600							;Time required to decrease pk state (Seconds).
+MaxPKCount = 100							;Maximum of PK Count.
+MaxPKKillCount = 3							;Maximum of PK kills.
+;==================================================
+; Trade Settings
+;==================================================
+TradeSwitch = 1								;Trade system state (0=Off/1=On).
+
+;==================================================
+; Personal Shop Settings
+;==================================================
+PersonalShopSwitch = 1							;Personal Shop system state (0=Off/1=On).
+
+;==================================================
+; Duel Settings
+;==================================================
+DuelSwitch = 1								;Duel system state (0=Off/1=On).
+DuelArenaAnnounceSwitch = 1						;Duel start announce (0=Off/1=On).
+
+;==================================================
+; Guild Settings
+;==================================================
+GuildCreateSwitch = 1						;Guild create state (0=Off/1=On).
+GuildDeleteSwitch = 1						;Guild delete state (0=Off/1=On).
+GuildCreateMinLevel = 100					;Minimum level required to create guild.
+GuildInsertMaxUser1 = 40					;Max guild member.
+GuildInsertMaxUser2 = 80					;Max guild member (Dark Lord GuildMaster).
+GuildAllianceMinUser = 1					;Min guild member required to create an alliance.
+GuildAllianceMaxCount = 5					;Max number of guild on an alliance.
+GuildOwnerDestroyLimit = 1					;CastleSiege owner guild delete state (0=Off/1=On).
+
+;==================================================
+; Elf Buffer Settings
+;==================================================
+ElfBufferMaxLevel_AL0 = 220					;Max level to get the buff (Free).
+ElfBufferMaxLevel_AL1 = 220					;Max level to get the buff (Vip1).
+ElfBufferMaxLevel_AL2 = 220					;Max level to get the buff (Vip2).
+ElfBufferMaxLevel_AL3 = 220					;Max level to get the buff (Vip3).
+ElfBufferMaxReset_AL0 = 10000					;Max reset to get the buff (Free).
+ElfBufferMaxReset_AL1 = 10000					;Max reset to get the buff (Vip1).
+ElfBufferMaxReset_AL2 = 10000					;Max reset to get the buff (Vip2).
+ElfBufferMaxReset_AL3 = 10000					;Max reset to get the buff (Vip3).
+ElfBufferTime_AL0 = 1800					;Buff time (Free).
+ElfBufferTime_AL1 = 1800					;Buff time (Vip1).
+ElfBufferTime_AL2 = 1800					;Buff time (Vip2).
+ElfBufferTime_AL3 = 1800					;Buff time (Vip3).
+ElfBufferDamageConstA = 50					;Damage increase formula constant.
+ElfBufferDamageConstB = 5					;Damage increase formula constant
+ElfBufferDefenseConstA = 45					;Defense increase formula constant.
+ElfBufferDefenseConstB = 3					;Defense increase formula constant.
+
+;==================================================
+; Experience Settings
+;==================================================
+AddExperienceRate_AL0 = 9999					;Base experience multiplier (Free).
+AddExperienceRate_AL1 = 9999					;Base experience multiplier (Vip1).
+AddExperienceRate_AL2 = 9999					;Base experience multiplier (Vip2).
+AddExperienceRate_AL3 = 9999					;Base experience multiplier (Vip3).
+MaxExperienceMonsterLevel_AL0 = 150				;Max monster level to give experience (Free).
+MaxExperienceMonsterLevel_AL1 = 150				;Max monster level to give experience (Vip1).
+MaxExperienceMonsterLevel_AL2 = 150				;Max monster level to give experience (Vip2).
+MaxExperienceMonsterLevel_AL3 = 150				;Max monster level to give experience (Vip3).
+AddMasterExperienceRate_AL0 = 1					;Base master experience multiplier (Free).
+AddMasterExperienceRate_AL1 = 1					;Base master experience multiplier (Vip1).
+AddMasterExperienceRate_AL2 = 1					;Base master experience multiplier (Vip2).
+AddMasterExperienceRate_AL3 = 1					;Base master experience multiplier (Vip3).
+MinMasterExperienceMonsterLevel_AL0 = 95			;Min monster level to give master experience (Free).
+MinMasterExperienceMonsterLevel_AL1 = 95			;Min monster level to give master experience (Vip1).
+MinMasterExperienceMonsterLevel_AL2 = 95			;Min monster level to give master experience (Vip2).
+MinMasterExperienceMonsterLevel_AL3 = 95			;Min monster level to give master experience (Vip3).
+AddEventExperienceRate_AL0 = 1					;Base event experience multiplier (Free). (Must TEST)
+AddEventExperienceRate_AL1 = 1					;Base event experience multiplier (Vip1).
+AddEventExperienceRate_AL2 = 1					;Base event experience multiplier (Vip2).
+AddEventExperienceRate_AL3 = 1					;Base event experience multiplier (Vip3).
+AddQuestExperienceRate_AL0 = 1					;Base quest experience multiplier (Free).
+AddQuestExperienceRate_AL1 = 1					;Base quest experience multiplier (Vip1).
+AddQuestExperienceRate_AL2 = 1					;Base quest experience multiplier (Vip2).
+AddQuestExperienceRate_AL3 = 1					;Base quest experience multiplier (Vip3).
+
+;==================================================
+; Item Drop Settings
+;==================================================
+ItemDropTime = 30						;Time to items dissapear on the ground.
+ItemDropRate_AL0 = 100						;Chance to drop items from monsters (Free).
+ItemDropRate_AL1 = 100						;Chance to drop items from monsters (Vip1).
+ItemDropRate_AL2 = 100						;Chance to drop items from monsters (Vip2).
+ItemDropRate_AL3 = 100						;Chance to drop items from monsters (Vip3).
+
+;==================================================
+; Money Drop Settings
+;==================================================
+MoneyDropTime = 30							;Time to zen dissapear on the ground.
+MoneyAmountDropRate_AL0 = 100					;Zen percentage that will drop from monsters (Free).
+MoneyAmountDropRate_AL1 = 100					;Zen percentage that will drop from monsters (Vip1).
+MoneyAmountDropRate_AL2 = 100					;Zen percentage that will drop from monsters (Vip2).
+MoneyAmountDropRate_AL3 = 100					;Zen percentage that will drop from monsters (Vip3).
+MoneyMasterAmountDropRate_AL0 = 100				;Zen percentage that will drop from monsters for Master level users (Free).
+MoneyMasterAmountDropRate_AL1 = 100				;Zen percentage that will drop from monsters for Master level users (Vip1).
+MoneyMasterAmountDropRate_AL2 = 100				;Zen percentage that will drop from monsters for Master level users (Vip2).
+MoneyMasterAmountDropRate_AL3 = 100				;Zen percentage that will drop from monsters for Master level users (Vip3).
+PartyDivideZen = 1						;Divide the money for all party members (0=Off/1=On).
+CreateCoinWhenZenIsMax_AL0 = 0					;
+CreateCoinWhenZenIsMax_AL1 = 0					;
+CreateCoinWhenZenIsMax_AL2 = 0					;
+CreateCoinWhenZenIsMax_AL3 = 0					;
+CreateCoinIndex = 7351						;
+CreateCoinPrice = 1000000000					;
+
+;==================================================
+; Item Durability Settings
+;==================================================
+WeaponDurabilityRate = 100					;Weapon durability decrease percentage.
+ArmorDurabilityRate = 100					;Armor durability decrease percentage.
+WingDurabilityRate = 100					;Wing durability decrease percentage.
+GuardianDurabilityRate = 100					;Guardian durability decrease percentage.
+PendantDurabilityRate = 100					;Pendant durability decrease percentage.
+RingDurabilityRate = 100					;Ring durability decrease percentage.
+PetDurabilityRate = 100						;Dark Lord pet durability decrease percentage.
+
+;==================================================
+; Trade Item Block Settings
+;==================================================
+TradeItemBlock = 0						;Trade item block system state (0=Off/1=On).
+TradeItemBlockExc = 0						;Block excellent items on trade (0=No/1=Yes).
+TradeItemBlockSet = 0						;Block set items on trade (0=No/1=Yes).
+TradeItemBlockHarmony = 1					;Block harmony items on trade (0=No/1=Yes).
+TradeItemBlockSell = 0						;Trade blocked items cannot be sold (0=No/1=Yes).
+
+;==================================================
+; Level Up Settings
+;==================================================
+MaxLevelUp = 1							;Max number of levels that can be get at once.
+MaxLevelUpEvent = 1						;Max number of levels that can be get at once with event experience.
+MaxLevelUpQuest = 1						;Max number of levels that can be get at once with quest experience.
+MaxStatPoint_AL0 = 65000					;Max allowed stat point (Free).(Max. 65000)
+MaxStatPoint_AL1 = 65000					;Max allowed stat point (Vip1).(Max. 65000)
+MaxStatPoint_AL2 = 65000					;Max allowed stat point (Vip2).(Max. 65000)
+MaxStatPoint_AL3 = 65000					;Max allowed stat point (Vip3).(Max. 65000)
+DWLevelUpPoint = 5						;Points get by Dark Wizard each level.
+DKLevelUpPoint = 5						;Points get by Dark Knight each level.
+FELevelUpPoint = 5						;Points get by Fairy Elf each level.
+MGLevelUpPoint = 7						;Points get by Magic Gladiator each level.
+DLLevelUpPoint = 7						;Points get by Dark Lord each level.
+SULevelUpPoint = 5						;Points get by Summoner each level.
+RFLevelUpPoint = 7						;Points get by Rage Fighter each level.
+PlusStatPoint = 1						;Bonus points get each level after doing Marlon quest.
+
+;==================================================
+; Create Character Settings
+;==================================================
+CharacterCreateSwitch = 1					;Character creation state (0=Off/1=On).
+MGCreateType = 0						;Magic Gladiator creation mode (0=Level/1=Card).				
+DLCreateType = 0						;Dark Lord creation mode (0=Level/1=Card).	
+SUCreateType = 1						;Summoner creation mode (0=Level/1=Card).
+RFCreateType = 1						;Rage Fighter creation mode (0=Level/1=Card).
+MGCreateLevel_AL0 = 220						;Min level required to create Magic Gladiator (Free).
+MGCreateLevel_AL1 = 220						;Min level required to create Magic Gladiator (Vip1).
+MGCreateLevel_AL2 = 220						;Min level required to create Magic Gladiator (Vip2).
+MGCreateLevel_AL3 = 220						;Min level required to create Magic Gladiator (Vip3).
+DLCreateLevel_AL0 = 250						;Min level required to create Dark Lord (Free).
+DLCreateLevel_AL1 = 250						;Min level required to create Dark Lord (Vip1).
+DLCreateLevel_AL2 = 250						;Min level required to create Dark Lord (Vip2).
+DLCreateLevel_AL3 = 250						;Min level required to create Dark Lord (Vip3).
+SUCreateLevel_AL0 = 0						;Min level required to create Summoner (Free).
+SUCreateLevel_AL1 = 0						;Min level required to create Summoner (Vip1).
+SUCreateLevel_AL2 = 0						;Min level required to create Summoner (Vip2).
+SUCreateLevel_AL3 = 0						;Min level required to create Summoner (Vip3).
+RFCreateLevel_AL0 = 150						;Min level required to create Rage Fighter (Free).
+RFCreateLevel_AL1 = 150						;Min level required to create Rage Fighter (Vip1).
+RFCreateLevel_AL2 = 150						;Min level required to create Rage Fighter (Vip2).
+RFCreateLevel_AL3 = 150						;Min level required to create Rage Fighter (Vip3).
+
+CharacterDeleteGReset_AL0 = 0
+CharacterDeleteGReset_AL1 = 0
+CharacterDeleteGReset_AL2 = 0
+CharacterDeleteGReset_AL3 = 0
+
+CharacterDeleteReset_AL0 = 0
+CharacterDeleteReset_AL1 = 0
+CharacterDeleteReset_AL2 = 0
+CharacterDeleteReset_AL3 = 0
+
+CharacterDeleteLevel_AL0 = 250
+CharacterDeleteLevel_AL1 = 250
+CharacterDeleteLevel_AL2 = 250
+CharacterDeleteLevel_AL3 = 250
+
+;==================================================
+; Shield Gauge Settings
+;==================================================
+ShieldGaugeRate = 90						;Percentage of damage dealt to Shield Gauge on PvP.
+ShieldGaugeConstA = 12						;Shield Gauge amount formula constant.
+ShieldGaugeConstB = 15						;Shield Gauge amount formula constant.
+ShieldGaugeAttackRate = 2					;Shield Gauge attack success rate formula constant.
+ShieldGaugeAttackComboMiss = 0					;Combo miss if any of its spells also miss (0=No/1=Yes).
+
+;==================================================
+; Master Skill Tree Settings
+;==================================================
+MasterSkillTree = 1						;Master Skill Tree system state (0=Off/1=On).
+MasterSkillTreePoint = 1					;Master points get each level.
+MasterSkillTreeMaxLevel = 200					;Max master level.
+
+;==================================================
+; Gens System Settings
+;==================================================
+GensSystemSwitch = 1						;Gens system state (0=Off/1=On).
+GensSystemGuildLock = 0						;Allow players from different gens to guild (0=Yes/1=No).
+GensSystemPartyLock = 0						;Allow players from different gens to party (0=Yes/1=No).
+GensSystemInsertMinLevel = 50					;Min level to join gens.
+GensSystemContributionFloodTime = 30				;Time duration a killed gens member wont give points to the same killer (Seconds).
+GensSystemVictimContributionDecrease = 3			;Average points lost on dying.
+GensSystemKillerContributionIncrease = 5			;Average points won on killing.
+GensSystemVictimMinContributionDecrease = 1			;Min points lost on dying.
+GensSystemVictimMaxContributionDecrease = 15			;Max points lost on dying.
+GensSystemKillerMinContributionIncrease = 1			;Min points won on killing.
+GensSystemKillerMaxContributionIncrease = 15			;Max points won on killing.
+GensSystemStartRewardDay = 1					;Reward period start day.
+GensSystemFinalRewardDay = 7					;Reward period final day.
+GensSystemExitTime_AL0 = 0					;Time (in minutes), after which you can join Gens, after coming out of it (Free).
+GensSystemExitTime_AL1 = 0					;Time (in minutes), after which you can join Gens, after coming out of it.(Vip1).
+GensSystemExitTime_AL2 = 0					;Time (in minutes), after which you can join Gens, after coming out of it.(Vip2).
+GensSystemExitTime_AL3 = 0					;Time (in minutes), after which you can join Gens, after coming out of it.(Vip3).
+GensSystemSelfGensDamage = 1					;Can attack self Gens.
+
+;==================================================
+; Helper Settings
+;==================================================
+HelperSwitch = 1						;Helper system state (0=Off/1=On).
+HelperActiveLevel = 80						;Min level to use helper.
+HelperActiveDelay = 5						;Time between helper payment (Seconds).
+HelperActiveMoney1 = 20						;Money taken each payment on stage 1.
+HelperActiveMoney2 = 50						;Money taken each payment on stage 2.
+HelperActiveMoney3 = 80						;Money taken each payment on stage 3.
+HelperActiveMoney4 = 100					;Money taken each payment on stage 4.
+HelperActiveMoney5 = 120					;Money taken each payment on stage 5.
+
+;==================================================
+; Cash Shop Settings
+;==================================================
+CashShopSwitch = 1						;CashShop system state (0=Off/1=On).
+CashShopScriptVersion1 = 512					;CashShop script version.
+CashShopScriptVersion2 = 2011					;CashShop script version.
+CashShopScriptVersion3 = 6					;CashShop script version.
+CashShopBannerVersion1 = 583					;CashShop banner version.
+CashShopBannerVersion2 = 2010					;CashShop banner version.
+CashShopBannerVersion3 = 5					;CashShop banner version.
+CashShopGoblinPointDelay = 10					;Time online required to get Goblin Points (Minutes).
+CashShopGoblinPointValue_AL0 = 1				;Amount of Goblin Points get (Free).
+CashShopGoblinPointValue_AL1 = 1				;Amount of Goblin Points get (Vip1).
+CashShopGoblinPointValue_AL2 = 1				;Amount of Goblin Points get (Vip2).
+CashShopGoblinPointValue_AL3 = 1				;Amount of Goblin Points get (Vip3).
+
+;==================================================
+; Party Settings
+;==================================================
+PartyMaxUser = 10
+PartyReconnectTime = 3000					;Max reconnection time.
+PartyMaxLevelDiff = 400						;Max level diff
+
+PartyTeleportSwitch = 1
+PartyTeleportMoney = 500000
+
+PartyUseOriginalPartyExpFormula = 1				;Use default party experience formula.
+
+PartyGeneralExperience1 = 100
+PartyGeneralExperience2 = 100
+PartyGeneralExperience3 = 100
+PartyGeneralExperience4 = 100
+PartyGeneralExperience5 = 100
+PartyGeneralExperience6 = 100
+PartyGeneralExperience7 = 100
+PartyGeneralExperience8 = 100
+PartyGeneralExperience9 = 100
+PartyGeneralExperience10 = 100
+
+PartySpecialExperience1 = 100
+PartySpecialExperience2 = 100
+PartySpecialExperience3 = 125
+PartySpecialExperience4 = 130
+PartySpecialExperience5 = 150
+PartySpecialExperience6 = 150
+PartySpecialExperience7 = 150
+PartySpecialExperience8 = 150
+PartySpecialExperience9 = 150
+PartySpecialExperience10 = 150
+
+;==================================================
+; Potion Settings
+;==================================================
+ApplePotionRate = 10						;Percentage of life recovered by Apple.
+SmallLifePotionRate = 20					;Percentage of life recovered by Small Life Potion.
+MidleLifePotionRate = 30					;Percentage of life recovered by Midle Life Potion.
+LargeLifePotionRate = 40					;Percentage of life recovered by Large Life Potion.
+SmallManaPotionRate = 20					;Percentage of mana recovered by Small Mana Potion.
+MidleManaPotionRate = 30					;Percentage of mana recovered by Midle Mana Potion.
+LargeManaPotionRate = 40					;Percentage of mana recovered by Large Mana Potion.
+SmallShieldPotionRate = 25					;Percentage of shield recovered by Small Shield Potion.
+MidleShieldPotionRate = 35					;Percentage of shield recovered by Midle Shield Potion.
+LargeShieldPotionRate = 45					;Percentage of shield recovered by Large Shield Potion.
+SmallCompoundPotionRate1 = 10					;Percentage of life recovered by Small Compound Potion.
+SmallCompoundPotionRate2 = 5					;Percentage of shield recovered by Small Compound Potion.
+MidleCompoundPotionRate1 = 25					;Percentage of life recovered by Midle Compound Potion.
+MidleCompoundPotionRate2 = 10					;Percentage of shield recovered by Midle Compound Potion.
+LargeCompoundPotionRate1 = 45					;Percentage of life recovered by Large Compound Potion.
+LargeCompoundPotionRate2 = 20					;Percentage of shield recovered by Large Compound Potion
+EliteLifePotionRate = 100					;Percentage of life recovered by Elite Life Potion.
+EliteManaPotionRate = 100					;Percentage of mana recovered by Elite Mana Potion.
+EliteShieldPotionRate = 65					;Percentage of shield recovered by Elite Shield Potion.
+PotionDelay = 300						;Limiter drink potions, 1000 = 1 second
+
+;==================================================
+; Transformation Ring Settings
+;==================================================
+TransformationRing1 = 2						;Transformation monster number.
+TransformationRing2 = 7						;Transformation monster number.
+TransformationRing3 = 14					;Transformation monster number.
+TransformationRing4 = 8						;Transformation monster number.
+TransformationRing5 = 9						;Transformation monster number.
+TransformationRing6 = 41					;Transformation monster number.
+
+;==================================================
+; Jewel Settings
+;==================================================
+SoulSuccessRate_AL0 = 40					;Jewel of Soul success rate (Free).
+SoulSuccessRate_AL1 = 60					;Jewel of Soul success rate (Vip1).
+SoulSuccessRate_AL2 = 60					;Jewel of Soul success rate (Vip2).
+SoulSuccessRate_AL3 = 45					;Jewel of Soul success rate (Vip3).
+LifeSuccessRate_AL0 = 70					;Jewel of Life success rate (Free).
+LifeSuccessRate_AL1 = 70					;Jewel of Life success rate (Vip1).
+LifeSuccessRate_AL2 = 70					;Jewel of Life success rate (Vip2).
+LifeSuccessRate_AL3 = 75					;Jewel of Life success rate (Vip3).
+HarmonySuccessRate_AL0 = 80					;Jewel of Harmony success rate (Free).
+HarmonySuccessRate_AL1 = 80					;Jewel of Harmony success rate (Vip1).
+HarmonySuccessRate_AL2 = 80					;Jewel of Harmony success rate (Vip2).
+HarmonySuccessRate_AL3 = 85					;Jewel of Harmony success rate (Vip3).
+SmeltStoneSuccessRate1_AL0 = 50					;Smelt Stone success rate (Free).
+SmeltStoneSuccessRate1_AL1 = 50					;Smelt Stone success rate (Vip1).
+SmeltStoneSuccessRate1_AL2 = 50					;Smelt Stone success rate (Vip2).
+SmeltStoneSuccessRate1_AL3 = 55					;Smelt Stone success rate (Vip3).
+SmeltStoneSuccessRate2_AL0 = 70					;Smelt Stone success rate on excellent items (Free).
+SmeltStoneSuccessRate2_AL1 = 70					;Smelt Stone success rate on excellent items (Vip1).
+SmeltStoneSuccessRate2_AL2 = 70					;Smelt Stone success rate on excellent items (Vip2).
+SmeltStoneSuccessRate2_AL3 = 75					;Smelt Stone success rate on excellent items (Vip3).
+AddLuckSuccessRate1_AL0 = 15					;Luck bonus success rate (Free).
+AddLuckSuccessRate1_AL1 = 25					;Luck bonus success rate (Vip1).
+AddLuckSuccessRate1_AL2 = 25					;Luck bonus success rate (Vip2).
+AddLuckSuccessRate1_AL3 = 20					;Luck bonus success rate (Vip3).
+AddLuckSuccessRate2_AL0 = 20					;Luck bonus success rate on Chaos Machine (Free).
+AddLuckSuccessRate2_AL1 = 20					;Luck bonus success rate on Chaos Machine (Vip1).
+AddLuckSuccessRate2_AL2 = 20					;Luck bonus success rate on Chaos Machine (Vip2).
+AddLuckSuccessRate2_AL3 = 25					;Luck bonus success rate on Chaos Machine (Vip3).
+
+;==================================================
+; Fruit Settings
+;==================================================
+FruitAddPointMin = 1						;Min points increased by fruit.
+FruitAddPointMax = 3						;Max points increased by fruit.
+FruitAddPointSuccessRate_AL0 = -1				;Fruit increase point success rate (Free).
+FruitAddPointSuccessRate_AL1 = -1				;Fruit increase point success rate (Vip1).
+FruitAddPointSuccessRate_AL2 = -1				;Fruit increase point success rate (Vip2).
+FruitAddPointSuccessRate_AL3 = -1				;Fruit increase point success rate (Vip3).
+FruitSubPointMin = 1						;Min points decreased by fruit.
+FruitSubPointMax = 9						;Max points decreased by fruit.
+FruitSubPointSuccessRate_AL0 = -1				;Fruit decrease point success rate (Free).
+FruitSubPointSuccessRate_AL1 = -1				;Fruit decrease point success rate (Vip1).
+FruitSubPointSuccessRate_AL2 = -1				;Fruit decrease point success rate (Vip2).
+FruitSubPointSuccessRate_AL3 = -1				;Fruit decrease point success rate (Vip3).
+
+;==================================================
+; Auto Health Potion Settings
+;==================================================
+AutoHealthPotionEnable = 0
+
+UseAutoHealthPotion_AL0 = 0
+UseAutoHealthPotion_AL1 = 0
+UseAutoHealthPotion_AL2 = 0
+UseAutoHealthPotion_AL3 = 1
+
+AutoHealthPotionDelay_AL0 = 20
+AutoHealthPotionDelay_AL1 = 60
+AutoHealthPotionDelay_AL2 = 60
+AutoHealthPotionDelay_AL3 = 60

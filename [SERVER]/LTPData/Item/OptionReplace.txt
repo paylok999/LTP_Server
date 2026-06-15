@@ -1,0 +1,31 @@
+// CLIENT OPTIONS
+//		Damage			= 80,		//-> Additional Damage +<N>
+//		WizardryDamage	= 81,
+//		CurseSpell		= 82,
+//		Defense			= 84,		//-> Additional Defense +<N>
+//		Luck			= 85,		//-> Default: 0
+//		HPRecovery		= 86,
+		// ----
+//		LifeIncrease	= 87,		//-> Increase Max HP +4%%
+//		ManaIncrease	= 88,		//-> Increase Max Mana +4%%
+//		DamageDecrease	= 89,		//-> Damage Decrease +4%%
+//		Reflect		= 90,		//-> Reflect Damage +5%%
+//		DefenseSuccess	= 91,		//-> Defense success rate +10%%
+//		IncreaseZen	= 92,		//-> Increases acquisition rate of Zen after hunting monsters +30%%
+//		// ----
+//		ExcellentDamage	= 93,		//-> Excellent Damage rate +%d%%
+//		DamageByLevel	= 94,		//-> Increase Damage +level/%d
+//		IncreaseDamage	= 95,		//-> Increase Damage +%d%%
+//		IncreaseWizardry= 96,		//-> Increase Wizardry Dmg +level/%d
+//		IncWizardryDmg	= 97,		//-> Increase Wizardry Dmg +%d%%
+//		IncreaseSpeed	= 98,		//-> Increase Attacking(Wizardry)speed +%d
+//		IncreaseLife	= 99,		//-> Increases acquisition rate of Life after hunting monsters +Life/%d
+//		IncreaseMana	= 100,		//-> Increases acquisition rate of Mana after hunting monsters +Mana/%d
+//		IgnorOpDefense	= 103,
+//		ReturnAttack	= 106,		//-> Return's the enemy's attack power in <N>%
+//		CompleteLife	= 107,		//-> Complete recovery of life in <N>% rate
+//		CompleteMana	= 108,		//-> Complete recovery of Mana in <N>% rate
+
+//ItemID    OptionIndex    ClientOptionIndex    NewOptionIndex    NewOptionValue
+3584        86             92                   117               100
+end

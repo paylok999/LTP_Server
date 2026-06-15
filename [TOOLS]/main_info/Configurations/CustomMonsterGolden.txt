@@ -1,0 +1,2 @@
+// MonsterIndex     IsGolder     IsGolden2
+580                 1            1

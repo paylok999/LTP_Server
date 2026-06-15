@@ -1,0 +1,22 @@
+//[0] - MonsterID
+//[1] - Level
+//[2] - Reset
+//[3] - Money
+//[4] - WCoinC
+//[5] - WCoinP
+//[6] - GoblinPoint
+//[7] - Credits
+//[8] - Name
+// example /spawn warrior
+
+0    1    0    0     0    0    0    0    "warrior1"
+506    1    0    0     0    0    0    0    "warrior2"
+507    1    0    1     0    0    0    0    "warrior3"
+508    1    0    1     0    0    0    0    "warrior4"
+509    1    0    2     0    0    0    0    "warrior5"
+510    1    0    2     0    0    0    0    "warrior6"
+511    1    0    3     0    0    0    0    "warrior7"
+441    1    0    3     0    0    0    0    "warrior8"
+351    1    0    3     0    0    0    0    "warrior9"
+
+end

@@ -1,0 +1,14 @@
+//Section   Type   Level   Dur   Skill   Luck   Option   Excellent   Ancient   OptionEx
+14	        0	   0	   50    0	     0	    0	     0           0         0              //Apple
+14	        1	   0	   50	 0	     0	    0	     0           0         0              //Small Healing Potion
+14	        2	   0	   150	 0	     0	    0	     0           0         0              //Medium Healing Potion
+14	        3	   0	   255	 0	     0	    0	     0           0         0              //Large Healing Potion
+14	        6	   0	   255	 0	     0	    0	     0           0         0              //Large Mana Potion
+14	        5	   0	   150	 0	     0	    0	     0           0         0              //Medium Mana Potion
+14	        4	   0	   50	 0	     0	    0	     0           0         0              //Small Mana Potion
+14	        8	   0	   10	 0	     0	    0	     0           0         0              //Antidote
+13	        29	   0	   0	 0	     0	    0	     0           0         0              //Armor of Guardman
+14	        9	   0	   0	 0	     0	    0	     0           0         0              //Ale
+14	        9	   1	   0	 0	     0	    0	     0           0         0              //Olive of love
+14	        10	   0	   0	 0	     0	    0	     0           0         0              //Town Scroll Portal
+end

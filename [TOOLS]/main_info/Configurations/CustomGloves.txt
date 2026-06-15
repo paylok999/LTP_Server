@@ -1,0 +1,4 @@
+//GlovesID    Model       LeftIndex    LeftModel    RightIndex    RightModel    ColorR   ColorG   ColorB
+  41         "Sword41"    1552         "Sword41L"   1553          "Sword41R"    0        255      0
+  42         "Sword34"    1554         "SwordL34"   1555          "SwordR34"    255      0        0
+end

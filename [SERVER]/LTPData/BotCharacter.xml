@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<bots enable="0" count="100">
+	<account id="pidor" password="test"/>
+</bots>

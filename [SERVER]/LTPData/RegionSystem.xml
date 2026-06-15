@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RegionSystem CastleSiegeServerCode="19">
+	<Region ServerCode="0" RegionName="en"/>
+	<Region ServerCode="1" RegionName="ru"/>
+</RegionSystem>

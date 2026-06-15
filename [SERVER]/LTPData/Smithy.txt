@@ -1,0 +1,801 @@
+// ****************************
+// Ltp-Team.com		     **
+// ****************************
+// Configured: Creative	     **
+// ****************************
+// Skype: letstoplay.support **
+// ****************************
+// Period: 01.07.2020        **
+// ****************************
+
+0
+//=============================================================================================================================================================
+//AllowAncExc	MaxLvl	MaxExcOpt	LvlPrice	LuckPrice	AddPrice	Opt1Price	Opt2Price	Opt3Price	Opt4Price	Opt5Price	Opt6Price	AncPrice	SocketPrice
+//=============================================================================================================================================================
+1               15	     6		      10			350			10			525			350			1400	   875			1750		840			16000		16000
+end
+
+1
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+7        2		735		//Pad Helm
+7        4		1735	//Bone Helm
+7        7		7735	//Sphinx Helm
+7        3		12735	//Legendary Helm
+7        18		19735	//Grand Soul Helm
+7        22		29735	//Dark Soul Helm
+7        30		41735	//Venom Mist Helm
+7        35		53735	//Eclipse Helm
+7        52		63735	//Hades Helm
+//=================================================
+//Armor
+//=================================================
+//Type	 Index	 Price	Comments
+//=================================================
+8        2		735		//Pad Armor
+8        4		1735	//Bone Armor
+8        7		7735	//Sphinx Armor
+8        3		12735	//Legendary Armor
+8        18		19735	//Grand Soul Armor
+8        22		29735	//Dark Soul Armor
+8        30		41735	//Venom Mist Armor
+8        35		53735	//Eclipse Armor
+8        52		63735	//Hades Armor
+//=================================================
+//Pants
+//=================================================
+//Type	 Index	Price	Comments
+//=================================================
+9        2		735		//Pad Pants
+9        4		1735	//Bone Pants
+9        7		7735	//Sphinx Pants
+9        3		12735	//Legendary Pants
+9        18		19735	//Grand Soul Pants
+9        22		29735	//Dark Soul Pants
+9        30		41735	//Venom Mist Pants
+9        35		53735	//Eclipse Pants
+9        52		63735	//Hades Pants
+//=================================================
+//Gloves
+//=================================================
+//Type	 Index	Price	Comments
+//=================================================
+10       2		735		//Sphinx Gloves
+10       4		1735	//Bone Gloves
+10       7		7735	//Sphinx Gloves
+10       3		12735	//Legendary Gloves
+10       18		19735	//Grand Soul Gloves
+10       22		29735	//Dark Soul Gloves
+10       30		41735	//Venom Mist Gloves
+10       35		53735	//Eclipse Gloves
+10       52		63735	//Hades Gloves
+//=================================================
+//Boots
+//=================================================
+//Type	 Index	Price	Comments
+//=================================================
+11       2		735		//Pad Boots
+11       4		1735	//Bone Boots
+11       7		7735	//Sphinx Boots
+11       3		12735	//Legendary Boots
+11       18		19735	//Grand Soul Boots
+11       22		29735	//Dark Soul Boots
+11       30		41735	//Venom Mist Boots
+11       35		53735	//Eclipse Boots
+11       52		63735	//Hades Boots
+//=================================================
+//Shields
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+6       6       490		//Skull Shield
+6       14      1240	//Legendary Shield
+6       15      1740	//Grand Soul Shield
+6       20      2240	//Guardian Shield
+6       101		2990	//Dark Devil Shield
+//=================================================
+//Weapons
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+5		0		1740 	//Divine Staff of Archangel
+5		1		2240	//Dragon Soul Staff
+5		2		2740	//Platina Staff
+5		3		3090	//Staff of Kundun
+5		4		3490	//Grand Viper Staff
+5		5		3490	//Chromatic Staff
+5		6		3990 	//Inberial Staff
+5		7		4240	//Mirace Staff
+5		8		4240	//Spite Staff
+5		9		4740	//Blood Angels Staff
+5		10		4740	//Dark Angels Staff
+5		11		4990	//Holy Angels Staff
+5		12		5240	//Awakening Staff
+//=================================================
+//Wings
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+12      4       5000	//Wings of Soul
+12      201		7500	//Wings of Magic
+12      37      8750	//Wing of Eternal
+12      205     9240	//Heavenly Wings
+//=================================================
+//Ring and Pend
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+13      8		2990	//Ring of Ice
+13      9		2990	//Ring of Poison
+13      21		2990	//Ring of Fire
+13      22		2990	//Ring of Earth
+13      23		2990	//Ring of Wind
+13      24		2990	//Ring of Magic
+13      25		2990	//Pendant of Ice
+13      26		2990	//Pendant of Wind
+13      27		2990	//Pendant of Water
+13      28		2990	//Pendant of Ability
+13      12		2990	//Pendant of Lighting
+13      13		2990	//Pendant of Fire
+end
+
+2
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+//**********************************************************************************************
+//Item to Dark Knight
+//**********************************************************************************************
+//Helm
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+7		5       735		//Leather Helm
+7		0       3735	//Bronze Helm
+7		6       5735	//Scale Helm
+7		8       6735	//Brass Helm
+7		9       7735	//Plate Helm
+7		1       12735	//Dragon Helm
+7		16      15735	//Black Dragon Helm
+7		17      19735	//Dark Phoenix Helm
+7		21      29735	//Great Dragon Helm
+7		29      41735	//Dragon Knight Helm
+7		34      53735	//Ashcrow Helm
+7		45      63735	//Titan Helm
+7		46      63735	//Brave Helm
+//=================================================
+//Armor
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+8		5       735		//Leather Armor
+8		0       3735	//Bronze Armor
+8		6       5735	//Scale Armor
+8		8       6735	//Brass Armor
+8		9       7735	//Plate Armor
+8		1       12735	//Dragon Armor
+8		16      15735	//Black Dragon Armor
+8		17      19735	//Dark Phoenix Armor
+8		21      29735	//Great Dragon Armor
+8		29      41735	//Dragon Knight Armor
+8		34      53735	//Ashcrow Armor
+8		45      63735	//Titan Armor
+8		46      63735	//Brave Armor
+//=================================================
+//Pants
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+9		5       735		//Leather Pants
+9		0       3735	//Bronze Pants
+9		6       5735	//Scale Pants
+9		8       6735	//Brass Pants
+9		9       7735	//Plate Pants
+9		1       12735	//Dragon Pants
+9		16      15735	//Black Dragon Pants
+9		17      19735	//Dark Phoenix Pants
+9		21      29735	//Great Dragon Pants
+9		29      41735	//Dragon Knight Pants
+9		34      53735	//Ashcrow Pants
+9		45      63735	//Titan Pants
+9		46      63735	//Brave Pants
+//=================================================
+//Gloves
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+10		5       735		//Leather Gloves
+10		0       3735	//Bronze Gloves
+10		6       5735	//Scale Gloves
+10		8       6735	//Brass Gloves
+10		9       7735	//Plate Gloves
+10		1       12735	//Dragon Gloves
+10		16      15735	//Black Dragon Gloves
+10		17      19735	//Dark Phoenix Gloves
+10		21      29735	//Great Dragon Gloves
+10		29      41735	//Dragon Knight Gloves
+10		34      53735	//Ashcrow Gloves
+10		45      63735	//Titan Gloves
+10		46      63735	//Brave Gloves
+//=================================================
+//Boots
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+11		5       735		//Leather Boots
+11		0       3735	//Bronze Boots
+11		6       5735	//Scale Boots
+11		8       6735	//Brass Boots
+11		9       7735	//Plate Boots
+11		1       12735	//Dragon Boots
+11		16      15735	//Black Dragon Boots
+11		17      19735	//Dark Phoenix Boots
+11		21      29735	//Great Dragon Boots
+11		29      41735	//Dragon Knight Boots
+11		34      53735	//Ashcrow Boots
+11		45      63735	//Titan Boots
+11		46      63735	//Brave Boots
+//=================================================
+//Shields
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+6       6       490		//Skull Shield
+6       7       490		//Spiked Shield
+6       9       740		//Plate Shield
+6       5       740		//Dragon Slayer Shield
+6       12      1490	//Bronze Shield
+6       13      1740	//Dragon Shield
+6       17      2240	//Crimson Glory
+6       100		2990	//Storm Wing Shield
+//=================================================
+//Weapons
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+0		16		1740	//Sword of Destruction
+0		19		2490	//Divine Sword of Archangel
+0		20		3090	//Knight Blade
+0		24		3240	//Daybreak
+0		22		3490	//Bone Blade
+0		26		3990	//Flameberge
+0		27		3990	//Sword Breaker
+0		100		4240	//Cyclone Sword
+0		101		4240	//Blast Breaker
+0		103		4740	//Blood Angels Sword
+0		105		4740	//Dark Angels Sword
+0		111		4990	//Holy Angels Sword
+0		113		5240	//Awakening Sword
+0		110		5490	//Blessed Sword of Archangel
+3		100		4240	//Magma Spear
+2		100		4490	//Horn of Steal
+//=================================================
+//Wings
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+12      5       5000	//Wings of Dragon
+12      200		7500	//Wings of Chaos
+12      36      8750	//Wing of Storm
+12      204     9240	//Wing of Conqueror
+//=================================================
+//Ring and Pend
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+13      8		2990	//Ring of Ice
+13      9		2990	//Ring of Poison
+13      21		2990	//Ring of Fire
+13      22		2990	//Ring of Earth
+13      23		2990	//Ring of Wind
+13      24		2990	//Ring of Magic
+13      25		2990	//Pendant of Ice
+13      26		2990	//Pendant of Wind
+13      27		2990	//Pendant of Water
+13      28		2990	//Pendant of Ability
+13      12		2990	//Pendant of Lighting
+13      13		2990	//Pendant of Fire
+end
+
+3
+//**********************************************************************************************
+//Item to ELF
+//**********************************************************************************************
+//Helm
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+7		10      735		//Vine Helm
+7		11      2735	//Silk Helm
+7		12      3735	//Wind Helm
+7		13      5735	//Spirit Helm
+7		14      12735	//Guardian Helm
+7		19      19735	//Divine Helm
+7		24		29735	//Red Spirit Helm
+7		31		41735	//Sylphid Ray Helm
+7		36		53735	//Iris Helm
+7		50		63735	//Divined Helm
+7		49		63735	//Seraphim Helm
+//=================================================
+//Armor
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+8		10      735		//Vine Armor
+8		11      2735	//Silk Armor
+8		12      3735	//Wind Armor
+8		13      5735	//Spirit Armor
+8		14      12735	//Guardian Armor
+8		19      19735	//Divine Armor
+8		24		29735	//Red Spirit Armor
+8		31		41735	//Sylphid Ray Armor
+8		36		53735	//Iris Armor
+8		50		63735	//Divined Armor
+8		49		63735	//Seraphim Armor
+//=================================================
+//Pants
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+9		10      735		//Vine Pants
+9		11      2735	//Silk Pants
+9		12      3735	//Wind Pants
+9		13      5735	//Spirit Pants
+9		14      12735	//Guardian Pants
+9		19      19735	//Divine Pants
+9		24		29735	//Red Spirit Pants
+9		31		41735	//Sylphid Ray Pants
+9		36		53735	//Iris Pants
+9		50		63735	//Divined Pants
+9		49		63735	//Seraphim Pants
+//=================================================
+//Gloves
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+10		10      735		//Vine Gloves
+10		11      2735	//Silk Gloves
+10		12      3735	//Wind Gloves
+10		13      5735	//Spirit Gloves
+10		14      12735	//Guardian Gloves
+10		19      19735	//Divine Gloves
+10		24		29735	//Red Spirit Gloves
+10		31		41735	//Sylphid Ray Gloves
+10		36		53735	//Iris Gloves
+10		50		63735	//Divined Gloves
+10		49		63735	//Seraphim Gloves
+//=================================================
+//Boots
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+11		10      735		//Vine Boots
+11		11      2735	//Silk Boots
+11		12      3735	//Wind Boots
+11		13      5735	//Spirit Boots
+11		14      12735	//Guardian Boots
+11		19      19735	//Divine Boots
+11		24		29735	//Red Spirit Boots
+11		31		41735	//Sylphid Ray Boots
+11		36		53735	//Iris Boots
+11		50		63735	//Divined Boots
+11		49		63735	//Seraphim Boots
+//=================================================
+//Shields
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+6       3		490		//Elven Shield
+6       16		1740	//Elemental Shield
+6       19		2240	//Frost Barrier
+6       102		2990	//Sticky Shield
+//=================================================
+//Weapons
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+4		18		2240	//Divine Crossbow of Archangel
+4		16		2740	//Saint Crossbow
+4		19		3240	//Great Reign Crossbow
+4		5		2240	//Silver Bow
+4		6		2490	//Chaos Nature Bow
+4		17		2740	//Celestial Bow
+4		22		3240	//Albatross Bow
+4		20		3490	//Arrow Viper Bow
+4		21		3740	//Sylph Wind Bow
+4		23		3990	//Dark Stinger
+2       16      3990	//Frost Mace
+4		24		3990	//Aileen Bow
+4		100		4240	//Angelic Bow
+4		101		4240	//Devil Crossbow
+4		102		4740	//Blood Angels Bow
+4		103		4740	//Dark Angels Bow
+4		105		4990	//Holy Angels Bow
+4		106		5240	//Awakening Bow
+4		104		5490	//Blessed Crossbow of Archangel
+//=================================================
+//Wings
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+12      3       5000	//Wings of Spirits
+12      202		7500	//Wings of Fire
+12      38      8750	//Wing of Illusion
+12      207     9240	//Orb Wings
+//=================================================
+//Ring and Pend
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+13      8		2990	//Ring of Ice
+13      9		2990	//Ring of Poison
+13      21		2990	//Ring of Fire
+13      22		2990	//Ring of Earth
+13      23		2990	//Ring of Wind
+13      24		2990	//Ring of Magic
+13      25		2990	//Pendant of Ice
+13      26		2990	//Pendant of Wind
+13      27		2990	//Pendant of Water
+13      28		2990	//Pendant of Ability
+13      12		2990	//Pendant of Lighting
+13      13		2990	//Pendant of Fire
+end
+
+4
+//**********************************************************************************************
+//Item to Magic Gladiator
+//**********************************************************************************************
+//Armor
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+8		15		10935	//Storm Crow Armor
+8		20		17735	//Thunder Hawk Armor
+8		23		29735	//Hurricane Armor
+8		32		43735	//Volcano Armor
+8		37		53735	//Valiant Armor
+8		47		63735	//Destroy Armor
+8		48		63735	//Phantom Armor
+//=================================================
+//Pants
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+9		15		10935	//Storm Crow Pants
+9		20		17735	//Thunder Hawk Pants
+9		23		29735	//Hurricane Pants
+9		32		43735	//Volcano Pants
+9		37		53735	//Valiant Pants
+9		47		63735	//Destroy Pants
+9		48		63735	//Phantom Pants
+//=================================================
+//Gloves
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+10		15		10935	//Storm Crow Gloves
+10		20		17735	//Thunder Hawk Gloves
+10		23		29735	//Hurricane Gloves
+10		32		43735	//Volcano Gloves
+10		37		53735	//Valiant Gloves
+10		47		63735	//Destroy Gloves
+10		48		63735	//Phantom Gloves
+//=================================================
+//Boots
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+11		15		10935	//Storm Crow Boots
+11		20		17735	//Thunder Hawk Boots
+11		23		29735	//Hurricane Boots
+11		32		43735	//Volcano Boots
+11		37		53735	//Valiant Boots
+11		47		63735	//Destroy Boots
+11		48		63735	//Phantom Boots
+//=================================================
+//Shield
+//=================================================
+//Type	 Index	 Price
+//=================================================
+6       6       490		//Skull Shield
+6       14      1240	//Legendary Shield
+6       7       490		//Spiked Shield
+6       9       740		//Plate Shield
+6       5       740		//Dragon Slayer Shield
+6       12      1490	//Bronze Shield
+6       18		2240	//Salamander Shield
+6       103		2990	//Hell Knight Shield
+//=================================================
+//Weapons
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+0		31		2740	//Rune Blade
+0		25		3090	//Sword Dancer
+0		21		3090	//Dark Reign Blade
+0		23		3490	//Explosion Blade
+0		28		3990	//Rune Bastard Sword
+0		101		4240	//Blast Breaker
+0		102		4240	//Asura
+3		100		4240	//Magma Spear
+0		104		4740	//Blood Angels Magic Sword
+0		106		4740	//Dark Angels Magic Sword
+0		112		4990	//Holy Angels Magic Sword
+0		114		5240	//Awakening Sword
+0		110		5490	//Blessed Sword of Archangel
+5		100		4240	//Mirace Staff
+5		102		4740	//Blood Angels Staff
+5		104		4740	//Dark Angels Staff
+5		109		4990	//Holy Angels Staff
+5		111		5240	//Awakening Staff
+5		107		5490	//Blessed Staff of Archangel
+//=================================================
+//Wings
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+12      6       5000	//Wings of Darkness
+12      200		7500	//Wings of Chaos
+12      201		7500	//Wings of Magic
+12      39      8750	//Wing of Ruin
+12      206     9240	//Fall Wings
+//=================================================
+//Ring and Pend
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+13      8		2990	//Ring of Ice
+13      9		2990	//Ring of Poison
+13      21		2990	//Ring of Fire
+13      22		2990	//Ring of Earth
+13      23		2990	//Ring of Wind
+13      24		2990	//Ring of Magic
+13      25		2990	//Pendant of Ice
+13      26		2990	//Pendant of Wind
+13      27		2990	//Pendant of Water
+13      28		2990	//Pendant of Ability
+13      12		2990	//Pendant of Lighting
+13      13		2990	//Pendant of Fire
+end
+
+5
+//**********************************************************************************************
+//Item to Dark Lord
+//**********************************************************************************************
+//Mask
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+7		25		7735	//Light Plate Mask
+7		26		12735	//Adamantine Mask
+7		27		17735	//Dark Steel Mask
+7		28		29735	//Dark Master Mask
+7		33		41735	//Sunlight Mask
+7		38		53735	//Glorious Mask
+7		51		63735	//Royal Mask
+//=================================================
+//Armor
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+8		25		7735	//Light Plate Armor
+8		26		12735	//Adamantine Armor
+8		27		17735	//Dark Steel Armor
+8		28		29735	//Dark Master Armor
+8		33		41735	//Sunlight Armor
+8		38		53735	//Glorious Armor
+8		51		63735	//Royal Armor
+//=================================================
+//Pants
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+9		25		7735	//Light Plate Pants
+9		26		12735	//Adamantine Pants
+9		27		17735	//Dark Steel Pants
+9		28		29735	//Dark Master Pants
+9		33		41735	//Sunlight Pants
+9		38		53735	//Glorious Pants
+9		51		63735	//Royal Pants
+//=================================================
+//Gloves
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+10		25		7735	//Light Plate Gloves
+10		26		12735	//Adamantine Gloves
+10		27		17735	//Dark Steel Gloves
+10		28		29735	//Dark Master Gloves
+10		33		41735	//Sunlight Gloves
+10		38		53735	//Glorious Gloves
+10		51		63735	//Royal Gloves
+//=================================================
+//Boots
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+11		25		7735	//Light Plate Boots
+11		26		12735	//Adamantine Boots
+11		27		17735	//Dark Steel Boots
+11		28		29735	//Dark Master Boots
+11		33		41735	//Sunlight Boots
+11		38		53735	//Glorious Boots
+11		51		63735	//Royal Boots
+//=================================================
+//Shield
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+6       6       490		//Skull Shield
+6       7       490		//Spiked Shield
+6       9       740		//Plate Shield
+6       5       740		//Dragon Slayer Shield
+6       21      2240	//Cross Shield
+6       104		2990	//Ambition Shield
+//=================================================
+//Weapons
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+2		10		1990	//Great Scepter
+2		11		2240	//Lord Scepter
+2		12		2740	//Great Lord Scepter
+2		13		3090	//Divine Scepter of Archangel
+2		15		3240	//Shining Scepter
+2		14		3490	//Soleil Scepter
+2		17		3990	//Absolute Scepter
+//=================================================
+//Wings
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+13		30		5000	//Cape of Lord
+12      203		7500	//Wings of Control
+12      40		8750	//Cape of Emperor
+12      209		9240	//Wings of Death
+//=================================================
+//Ring and Pend
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+13      8		2990	//Ring of Ice
+13      9		2990	//Ring of Poison
+13      21		2990	//Ring of Fire
+13      22		2990	//Ring of Earth
+13      23		2990	//Ring of Wind
+13      24		2990	//Ring of Magic
+13      25		2990	//Pendant of Ice
+13      26		2990	//Pendant of Wind
+13      27		2990	//Pendant of Water
+13      28		2990	//Pendant of Ability
+13      12		2990	//Pendant of Lighting
+13      13		2990	//Pendant of Fire
+end
+
+6
+//**********************************************************************************************
+//Item to Summoner
+//**********************************************************************************************
+//Helm
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+7		39		3735	//Violent Wind Helm
+7		40		12735	//Red Wing Helm
+7		41		17735	//Ancient Helm
+7		42		29735	//Demonic Helm
+7		43		41735	//Storm Blitz Helm
+7		44		57735	//Eternal Wing Helm
+//=================================================
+//Armor
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+8		39		3735	//Violent Wind Armor
+8		40		12735	//Red Wing Armor
+8		41		17735	//Ancient Armor
+8		42		29735	//Demonic Armor
+8		43		41735	//Storm Blitz Armor
+8		44		41735	//Eternal Wing Armor
+//=================================================
+//Pants
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+9		39		3735	//Violent Wind Pants
+9		40		12735	//Red Wing Pants
+9		41		17735	//Ancient Pants
+9		42		29735	//Demonic Pants
+9		43		41735	//Storm Blitz Pants
+9		44		41735	//Eternal Wing Pants
+//=================================================
+//Gloves
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+10		39		3735	//Violent Wind Gloves
+10		40		12735	//Red Wing Gloves
+10		41		17735	//Ancient Gloves
+10		42		29735	//Demonic Gloves
+10		43		41735	//Storm Blitz Gloves
+10		44		41735	//Eternal Wing Gloves
+//=================================================
+//Boots
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+11		39		3735	//Violent Wind Boots
+11		40		12735	//Red Wing Boots
+11		41		17735	//Ancient Boots
+11		42		29735	//Demonic Boots
+11		43		41735	//Storm Blitz Boots
+11		44		41735	//Eternal Wing Boots
+//=================================================
+//Shield
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+
+//=================================================
+//Weapons
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+5		14		1740	//Mystery Stick
+5		15		1740	//Violent Wind Stick
+5		16		2240	//Red Wing Stick
+5		17		2740	//Ancient Stick
+5		36		3090	//Divine Stick of Archangel
+5		18		3090	//Demonic Stick
+5		19		3490	//Storm Blitz Stick
+5		21		1740	//Book of Samut
+5		22		2740	//Book of Neil
+5		23		3490	//Book of Lagle
+5		34		3740	//Raven Stick
+5		36		3990	//Guardian Staff
+5		106		4240	//Summon Spirit Stick
+5		103		4740	//Blood Angels Stick
+5		105		4740	//Dark Angels Stick
+5		110		4990	//Holy Angels Stick
+5		112		5240	//Awakening Stick
+5		108		5490	//Blessed Stick of Archangel
+//=================================================
+//Wings
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+12		42		5000	//Wings of Despair
+12      202		7500	//Wings of Fire
+12      43		8750	//Wings of Dimension
+12      208		9240	//Wings of Illusive
+//=================================================
+//Ring and Pend
+//=================================================
+//Type	Index	Price	Comments
+//=================================================
+13      8		2990	//Ring of Ice
+13      9		2990	//Ring of Poison
+13      21		2990	//Ring of Fire
+13      22		2990	//Ring of Earth
+13      23		2990	//Ring of Wind
+13      24		2990	//Ring of Magic
+13      25		2990	//Pendant of Ice
+13      26		2990	//Pendant of Wind
+13      27		2990	//Pendant of Water
+13      28		2990	//Pendant of Ability
+13      12		2990	//Pendant of Lighting
+13      13		2990	//Pendant of Fire
+end
+
+7
+
+end
+
+8
+//=============================================================================================================================================================
+//Time Settings (in percents from basic price)
+//Forever    1Day    3Days    7Days    30Days    90Days
+//=============================================================================================================================================================
+100          10       15      20       40        80
+end

@@ -1,0 +1,4 @@
+//ItemType	ItemIndex	DamageMin	DamageMax	Defense		MagicDefense
+//7		1		*		*		373		0
+//0		19		292		363		*		*
+end

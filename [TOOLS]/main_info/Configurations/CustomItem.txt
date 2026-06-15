@@ -1,0 +1,5 @@
+//Index   ColorR   ColorG   ColorB   ModelName
+7349      0        0        0        "SilverCoin"
+7350      0        0        0        "PlatinumCoin"
+7351      0        0        0        "GoldCoin"
+end

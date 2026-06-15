@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ClearDatabase>
+	<Data State="0" Name="AccountCharacter" Query="truncatxe table dbo.AccountCharacter" />
+	<Data State="1" Name="AccountCharacter2" Query="truncate table dbo.AccountCharacter2" />
+	<Data State="0" Name="AccountCharacter3" Query="truncate table dbo.AccountCharacter3" />
+	<Data State="1" Name="AccountCharacter4" Query="truncate table dbo.AccountCharacter4" />
+	<Data State="1" Name="AccountCharacter5" Query="truncate table dbo.AccountCharacter5" />
+	<Data State="1" Name="Achievements" Query="truncate table dbo.Achievements" />
+	<Data State="1" Name="BankEx" Query="truncate table dbo.BankEx" />
+	<Data State="1" Name="CashLog" Query="truncate table dbo.CashLog" />
+	<Data State="1" Name="CashShopData" Query="truncate table dbo.CashShopData" />
+	<Data State="1" Name="CashShopInventory" Query="truncate table dbo.CashShopInventory" />
+	<Data State="1" Name="CashShopPeriodicItem" Query="truncate table dbo.CashShopPeriodicItem" />
+	<Data State="1" Name="Character" Query="truncate table dbo.Character" />
+	<Data State="1" Name="Character second db" Query="truncate table MuOnlineTest.dbo.Character" />
+	<Data State="1" Name="ExtWarehouse" Query="truncate table dbo.ExtWarehouse" />
+	<Data State="1" Name="Gens_Rank" Query="truncate table dbo.Gens_Rank" />
+	<Data State="1" Name="Gens_Reward" Query="truncate table dbo.Gens_Reward" />
+	<Data State="1" Name="Guild" Query="truncate table dbo.Guild" />
+	<Data State="1" Name="GuildMember" Query="truncate table dbo.GuildMember" />
+	<Data State="1" Name="HelperData" Query="truncate table dbo.HelperData" />
+	<Data State="1" Name="ItemLog" Query="truncate table dbo.ItemLog" />
+	<Data State="1" Name="LuckyCoin" Query="truncate table dbo.LuckyCoin" />
+	<Data State="1" Name="LuckyItem" Query="truncate table dbo.LuckyItem" />
+	<Data State="1" Name="MasterSkillTree" Query="truncate table dbo.MasterSkillTree" />
+	<Data State="1" Name="MEMB_INFO" Query="truncate table dbo.MEMB_INFO" />
+	<Data State="1" Name="MEMB_STAT" Query="truncate table dbo.MEMB_STAT" />
+	<Data State="1" Name="OptionData" Query="truncate table dbo.OptionData" />
+	<Data State="1" Name="QuestKillCount" Query="truncate table dbo.QuestKillCount" />
+	<Data State="1" Name="Quest System" Query="truncate table dbo.QuestSystem" />
+	<Data State="1" Name="QuestWorld" Query="truncate table dbo.QuestWorld" />
+	<Data State="1" Name="RankingBloodCastle" Query="truncate table dbo.RankingBloodCastle" />
+	<Data State="1" Name="RankingChaosCastle" Query="truncate table dbo.RankingChaosCastle" />
+	<Data State="1" Name="RankingDevilSquare" Query="truncate table dbo.RankingDevilSquare" />
+	<Data State="1" Name="RankingDuel" Query="truncate table dbo.RankingDuel" />
+	<Data State="1" Name="RankingIllusionTemple" Query="truncate table dbo.RankingIllusionTemple" />
+	<Data State="1" Name="T_CGuid" Query="truncate table dbo.T_CGuid" />
+	<Data State="1" Name="FriendList" Query="truncate table dbo.T_FriendList" />
+	<Data State="1" Name="FriendMail" Query="truncate table dbo.T_FriendMail" />
+	<Data State="1" Name="FriendMain" Query="truncate table dbo.T_FriendMain" />
+	<Data State="1" Name="MU2003_EVENT" Query="truncate table dbo.T_MU2003_EVENT" />
+	<Data State="1" Name="PetItem_Info" Query="truncate table dbo.T_PetItem_Info" />
+	<Data State="1" Name="WaitFriend" Query="truncate table dbo.T_WaitFriend" />
+	<Data State="1" Name="warehouse" Query="truncate table dbo.warehouse" />
+	<Data State="1" Name="WZ_CW_INFO" Query="truncate table dbo.WZ_CW_INFO" />
+	<Data State="1" Name="Item Count" Query="update dbo.GameServerInfo set ItemCount = 0" />
+	
+</ClearDatabase>

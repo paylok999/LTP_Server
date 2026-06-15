@@ -1,0 +1,1 @@
+alter table OptionData add game_settings int NULL

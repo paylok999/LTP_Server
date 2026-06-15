@@ -1,0 +1,39 @@
+//Type 0:	Item
+//Syntax:	Type ItemType ItemIndex Level Luck Skill Option Excellent Ancient
+//Example:	0	 7		  1		    15	  1	   0	 7	    63		  5
+//It will appear Dragon Helm FO + Ancient
+//Type 1 - Zen
+//Syntax:	Type CountOfZen
+//Example:	1	 10000
+//Type 2 - Credits
+//Syntax:	Type CountOfCredits
+//Example:	2	 10000
+//Type 3 - WCoinC
+//Syntax:	Type CountOfWCoinC
+//Example:	3	 10000
+//Type 4 - WCoinP
+//Syntax:	Type CountOfWCoinP
+//Example:	4	 10000
+//Type 5 - Goblin Points
+//Syntax:	Type CountOfGoblinPoint
+//Example:	5	 10000
+//Type 6 - Points
+//Syntax:	Type CountOfPoints PointsType
+//Example:	6	 1000		   0
+//PointsType 0 - Points delete after do reset
+//PointsType 1 - Points save after reset
+
+
+//	Type   ItemType   ItemIndex   Level   Luck   Skill   Option   Excellent   Ancient
+	0      7          1           9       1      0       7        63          5
+	1      10001
+	2      10002
+	3      10003
+	4      10004
+	5      10005
+	6      10006      1
+//	0	 8			1		    10	  1	   0	 7	    63		  5
+//	0	 9			1		    0	  1	   0	 7	    63		  5
+//	0	 10			1		    0	  1	   0	 7	    0		  5
+//	0	 11			1		    0	  1	   0	 7	    63		  0
+end

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ResetTable>
+	<Info MinReset="0" MaxReset="50" MinGReset="0" MaxGReset="50" Level_AL0="400" Level_AL1="400" Level_AL2="400" Level_AL3="400" Money_AL0="10000" Money_AL1="10000" Money_AL2="10000" Money_AL3="10000" Point_AL0="1000" Point_AL1="1000" Point_AL2="1000" Point_AL3="1000"/>
+</ResetTable>

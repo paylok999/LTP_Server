@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Roulette Enabled="1">
+	<Item Type="0" ItemIndex="6159" Level="0" Luck="0" Skill="0" Option="0" Excellent="0" Ancient="0" Count="1" PointsType="0" Rate="2000"/>	
+	<Item Type="0" ItemIndex="6158" Level="0" Luck="0" Skill="0" Option="0" Excellent="0" Ancient="0" Count="1" PointsType="0" Rate="2000"/>	
+	<Item Type="0" ItemIndex="3" Level="0" Luck="0" Skill="0" Option="0" Excellent="0" Ancient="0" Count="1" PointsType="0" Rate="2000"/>	
+	<Item Type="0" ItemIndex="4" Level="0" Luck="0" Skill="0" Option="0" Excellent="0" Ancient="0" Count="1" PointsType="0" Rate="2000"/>	
+	<Item Type="0" ItemIndex="5" Level="0" Luck="0" Skill="0" Option="0" Excellent="0" Ancient="0" Count="1" PointsType="0" Rate="2000"/>	
+	<Item Type="0" ItemIndex="6" Level="0" Luck="0" Skill="0" Option="0" Excellent="0" Ancient="0" Count="1" PointsType="0" Rate="2000"/>	
+	<Item Type="0" ItemIndex="7" Level="0" Luck="0" Skill="0" Option="0" Excellent="0" Ancient="0" Count="1" PointsType="0" Rate="2000"/>	
+	<Item Type="0" ItemIndex="8" Level="0" Luck="0" Skill="0" Option="0" Excellent="0" Ancient="0" Count="1" PointsType="0" Rate="2000"/>	
+</Roulette>

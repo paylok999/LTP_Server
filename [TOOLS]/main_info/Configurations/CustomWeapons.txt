@@ -1,0 +1,7 @@
+//Index = Group * 512 + ID
+//Type: 0 = ELF Bow, 1 = ELF Crossbow, 2 = MG Sword, 3 = RF Gloves
+//Index		Type
+51		    2
+2148		0
+2149		1
+end

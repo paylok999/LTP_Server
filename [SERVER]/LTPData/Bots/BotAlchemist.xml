@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<BotAlchemist enable="0">
+
+	<Info>
+		<info bot_index="0" class="80" rate="80" name="Bot_Rentan" map="0" x="128" y="112" dir="2"/>
+	</Info>
+	
+	<Items>
+		<item bot_index="0" slot="2" type="7" index="44" level="9" opt="1"/>
+		<item bot_index="0" slot="3" type="8" index="44" level="9" opt="1"/>
+		<item bot_index="0" slot="4" type="9" index="44" level="9" opt="1"/>
+		<item bot_index="0" slot="5" type="10" index="44" level="9" opt="1"/>
+		<item bot_index="0" slot="6" type="11" index="44" level="9" opt="1"/>
+		<item bot_index="0" slot="7" type="12" index="42" level="0" opt="0"/>
+	</Items>
+	
+	<Settings>
+		<setting bot_index="0" allow_level="1" allow_opt="1" allow_luck="1" allow_skill="1" allow_excl="1"/>
+ 	</Settings>
+	
+	<Conditions>
+		<data bot_index="0" vip_level="0" zen="0" credits="0" only_same_type="0" only_if_destiny_lower="0" accept_anc="0" max_level="15" max_excl="3"/>
+	</Conditions>
+
+</BotAlchemist>

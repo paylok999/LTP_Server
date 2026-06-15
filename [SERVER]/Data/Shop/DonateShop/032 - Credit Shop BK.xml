@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Shop>
+	<Item Type="7" Index="0" Level="13" Dur="0" Skill="0" Luck="1" Option="7" Exc="63" Anc="0" OptionEx="0" PriceType="1" BuyValue="9400" /> <!-- Bronze -->
+	<Item Type="7" Index="5" Level="13" Dur="0" Skill="0" Luck="1" Option="7" Exc="63" Anc="0" OptionEx="0" PriceType="1" BuyValue="9000" /> <!-- Leather -->
+	<Item Type="7" Index="6" Level="13" Dur="0" Skill="0" Luck="1" Option="7" Exc="63" Anc="0" OptionEx="0" PriceType="1" BuyValue="9800" /> <!-- Scale -->
+	<Item Type="7" Index="8" Level="13" Dur="0" Skill="0" Luck="1" Option="7" Exc="63" Anc="0" OptionEx="0" PriceType="1" BuyValue="10000" /> <!-- Brass -->
+	
+	<Item Type="8" Index="0" Level="13" Dur="0" Skill="0" Luck="1" Option="7" Exc="63" Anc="0" OptionEx="0" PriceType="2" BuyValue="9400" /> <!-- Bronze -->
+	<Item Type="8" Index="5" Level="13" Dur="0" Skill="0" Luck="1" Option="7" Exc="63" Anc="0" OptionEx="0" PriceType="2" BuyValue="9000" /> <!-- Leather -->
+	<Item Type="8" Index="6" Level="13" Dur="0" Skill="0" Luck="1" Option="7" Exc="63" Anc="0" OptionEx="0" PriceType="2" BuyValue="9800" /> <!-- Scale -->
+	<Item Type="8" Index="8" Level="13" Dur="0" Skill="0" Luck="1" Option="7" Exc="63" Anc="0" OptionEx="0" PriceType="2" BuyValue="10000" /> <!-- Brass -->
+	
+	<Item Type="9" Index="0" Level="13" Dur="0" Skill="0" Luck="1" Option="7" Exc="63" Anc="0" OptionEx="0" PriceType="2" BuyValue="9400" /> <!-- Bronze -->
+	<Item Type="9" Index="6" Level="13" Dur="0" Skill="0" Luck="1" Option="7" Exc="63" Anc="0" OptionEx="0" PriceType="2" BuyValue="9800" /> <!-- Scale -->
+	<Item Type="9" Index="8" Level="13" Dur="0" Skill="0" Luck="1" Option="7" Exc="63" Anc="0" OptionEx="0" PriceType="2" BuyValue="10000" /> <!-- Brass -->
+	<Item Type="9" Index="5" Level="13" Dur="0" Skill="0" Luck="1" Option="7" Exc="63" Anc="0" OptionEx="0" PriceType="2" BuyValue="9000" /> <!-- Leather -->
+	
+	<Item Type="10" Index="0" Level="13" Dur="0" Skill="0" Luck="1" Option="7" Exc="63" Anc="0" OptionEx="0" PriceType="2" BuyValue="9400" /> <!-- Bronze -->
+	<Item Type="10" Index="6" Level="13" Dur="0" Skill="0" Luck="1" Option="7" Exc="63" Anc="0" OptionEx="0" PriceType="2" BuyValue="9800" /> <!-- Scale -->
+	<Item Type="10" Index="8" Level="13" Dur="0" Skill="0" Luck="1" Option="7" Exc="63" Anc="0" OptionEx="0" PriceType="2" BuyValue="10000" /> <!-- Brass -->
+	<Item Type="10" Index="5" Level="13" Dur="0" Skill="0" Luck="1" Option="7" Exc="63" Anc="0" OptionEx="0" PriceType="2" BuyValue="9000" /> <!-- Leather -->
+	
+	<Item Type="11" Index="0" Level="13" Dur="0" Skill="0" Luck="1" Option="7" Exc="63" Anc="0" OptionEx="0" PriceType="2" BuyValue="9400" /> <!-- Bronze -->
+	<Item Type="11" Index="6" Level="13" Dur="0" Skill="0" Luck="1" Option="7" Exc="63" Anc="0" OptionEx="0" PriceType="2" BuyValue="9800" /> <!-- Scale -->
+	<Item Type="11" Index="8" Level="13" Dur="0" Skill="0" Luck="1" Option="7" Exc="63" Anc="0" OptionEx="0" PriceType="2" BuyValue="10000" /> <!-- Brass -->
+	<Item Type="11" Index="5" Level="13" Dur="0" Skill="0" Luck="1" Option="7" Exc="63" Anc="0" OptionEx="0" PriceType="2" BuyValue="9000" /> <!-- Leather -->
+</Shop>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<VipLottery Enable="1">
+		<StartInfo>
+			<Time Index="0" Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="13" Minute="34" Second="00"/>
+		</StartInfo>
+		
+		<RuleInfo>
+			<Info Index="0" Name="Vip Lottery" Map="-1" MinLevel="0" MaxLevel="-1" MinReset="0" MaxReset="-1" MinGReset="0" MaxGReset="-1" AlarmTime="5"/>
+		</RuleInfo>
+		
+		<RewardInfo>
+			<Info Index="0" AccountLevel="2" Rate="10000"/>
+		</RewardInfo>
+	</VipLottery>
