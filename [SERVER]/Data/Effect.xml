@@ -29,7 +29,7 @@
 	<Effect Index="27" Group="19" ItemIndex="-1" Name="Crywolf State 7" Save="0" Type="0" Flag="0" Count="-1" Value1="-1" Value2="-1" Value3="-1" Value4="-1" />
 	<Effect Index="28" Group="20" ItemIndex="-1" Name="Game Master" Save="0" Type="1" Flag="0" Count="-1" Value1="-1" Value2="-1" Value3="-1" Value4="-1" />
 	<Effect Index="29" Group="60" ItemIndex="6699" Name="Seal of Ascension" Save="1" Type="2" Flag="0" Count="1800" Value1="35" Value2="-1" Value3="-1" Value4="-1" />
-	<Effect Index="30" Group="61" ItemIndex="6700" Name="Seal of Wealth" Save="1" Type="2" Flag="0" Count="1800" Value1="100" Value2="50" Value3="-1" Value4="-1" />
+	<Effect Index="30" Group="61" ItemIndex="6700" Name="Seal of Wealth" Save="1" Type="2" Flag="0" Count="1800" Value1="50" Value2="50" Value3="-1" Value4="-1" />
 	<Effect Index="31" Group="62" ItemIndex="6701" Name="Seal of Sustenance" Save="1" Type="2" Flag="0" Count="1800" Value1="-1" Value2="-1" Value3="-1" Value4="-1" />
 	<Effect Index="32" Group="22" ItemIndex="-1" Name="Order of Speed" Save="0" Type="0" Flag="0" Count="-1" Value1="-1" Value2="-1" Value3="-1" Value4="-1" />
 	<Effect Index="33" Group="22" ItemIndex="-1" Name="Order of Sublimation" Save="0" Type="0" Flag="0" Count="-1" Value1="-1" Value2="-1" Value3="-1" Value4="-1" />
@@ -43,7 +43,7 @@
 	<Effect Index="41" Group="61" ItemIndex="6700" Name="Seal of Wealth" Save="1" Type="2" Flag="0" Count="1800" Value1="100" Value2="50" Value3="-1" Value4="-1" />
 	<Effect Index="42" Group="65" ItemIndex="6701" Name="Seal of Sustenance" Save="1" Type="2" Flag="0" Count="1800" Value1="-1" Value2="-1" Value3="-1" Value4="-1" />
 	<Effect Index="43" Group="57" ItemIndex="6715" Name="Seal of Movement" Save="1" Type="2" Flag="0" Count="1800" Value1="-1" Value2="-1" Value3="-1" Value4="-1" />
-	<Effect Index="44" Group="67" ItemIndex="7240" Name="Scroll of Quick" Save="1" Type="2" Flag="0" Count="1800" Value1="25" Value2="-1" Value3="-1" Value4="-1" />
+	<Effect Index="44" Group="67" ItemIndex="7240" Name="Scroll of Quick" Save="1" Type="2" Flag="0" Count="1800" Value1="15" Value2="-1" Value3="-1" Value4="-1" />
 	<Effect Index="45" Group="68" ItemIndex="7241" Name="Scroll of Defense" Save="1" Type="2" Flag="0" Count="1800" Value1="60" Value2="-1" Value3="-1" Value4="-1" />
 	<Effect Index="46" Group="69" ItemIndex="7242" Name="Scroll of Damage" Save="1" Type="2" Flag="0" Count="1800" Value1="30" Value2="-1" Value3="-1" Value4="-1" />
 	<Effect Index="47" Group="70" ItemIndex="7243" Name="Scroll of Magic Damage" Save="1" Type="2" Flag="0" Count="1800" Value1="30" Value2="-1" Value3="-1" Value4="-1" />
@@ -101,12 +101,12 @@
 	<Effect Index="99" Group="52" ItemIndex="6737" Name="Talisman of Guardian" Save="1" Type="2" Flag="0" Count="1800" Value1="-1" Value2="-1" Value3="-1" Value4="-1" />
 	<Effect Index="100" Group="53" ItemIndex="6738" Name="Talisman of Protection" Save="1" Type="2" Flag="0" Count="1800" Value1="-1" Value2="-1" Value3="-1" Value4="-1" />
 	<Effect Index="101" Group="60" ItemIndex="6749" Name="Master Seal of Ascension" Save="1" Type="2" Flag="0" Count="1800" Value1="35" Value2="-1" Value3="-1" Value4="-1" />
-	<Effect Index="102" Group="61" ItemIndex="6750" Name="Master Seal of Wealth" Save="1" Type="2" Flag="0" Count="1800" Value1="100" Value2="50" Value3="-1" Value4="-1" />
+	<Effect Index="102" Group="61" ItemIndex="6750" Name="Master Seal of Wealth" Save="1" Type="2" Flag="0" Count="1800" Value1="50" Value2="50" Value3="-1" Value4="-1" />
 	<Effect Index="103" Group="51" ItemIndex="-1" Name="Gladiator's Glory" Save="1" Type="0" Flag="0" Count="-1" Value1="-1" Value2="-1" Value3="-1" Value4="-1" />
 	<Effect Index="105" Group="54" ItemIndex="-1" Name="Double Goer Delete" Save="0" Type="0" Flag="0" Count="-1" Value1="-1" Value2="-1" Value3="-1" Value4="-1" />
 	<Effect Index="112" Group="24" ItemIndex="6759" Name="Party Experience Bonus" Save="1" Type="2" Flag="0" Count="1800" Value1="90" Value2="10" Value3="-1" Value4="-1" />
-	<Effect Index="113" Group="58" ItemIndex="6760" Name="Max AG Boost Aura" Save="1" Type="2" Flag="0" Count="1800" Value1="10" Value2="-1" Value3="-1" Value4="-1" />
-	<Effect Index="114" Group="58" ItemIndex="6761" Name="Max SD Boost Aura" Save="1" Type="2" Flag="0" Count="1800" Value1="10" Value2="-1" Value3="-1" Value4="-1" />
+	<Effect Index="113" Group="58" ItemIndex="6760" Name="Max AG Boost Aura" Save="1" Type="2" Flag="0" Count="1800" Value1="1" Value2="-1" Value3="-1" Value4="-1" />
+	<Effect Index="114" Group="59" ItemIndex="6761" Name="Max SD Boost Aura" Save="1" Type="2" Flag="0" Count="1800" Value1="10" Value2="-1" Value3="-1" Value4="-1" />
 	<Effect Index="121" Group="75" ItemIndex="7308" Name="Scroll of Healing" Save="1" Type="2" Flag="0" Count="1800" Value1="3" Value2="100" Value3="-1" Value4="-1" />
 	<Effect Index="122" Group="76" ItemIndex="6784" Name="Hawk Figurine" Save="0" Type="1" Flag="0" Count="-1" Value1="10" Value2="-1" Value3="-1" Value4="-1" />
 	<Effect Index="123" Group="76" ItemIndex="6785" Name="Goat Figurine" Save="0" Type="1" Flag="0" Count="-1" Value1="10" Value2="-1" Value3="-1" Value4="-1" />

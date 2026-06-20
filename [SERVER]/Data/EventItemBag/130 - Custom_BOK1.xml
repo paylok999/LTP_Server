@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ============================================================================
+     XML Event Item Bag (Phase 1)
+
+     BagConfig   : ItemRate     = global gate (0..10000) the whole bag must pass
+                   SetItemRate  = chance (0..10000) a drop becomes a random set item
+                   MoneyDrop    = zen dropped when the bag fails the global gate
+                   BagUseEffect / BagUseRate = stored (bag-item consumption hooks)
+     SummonBook  : Enable=1 drops the given Cat/Index item at DropRate (0..10000)
+     AddCoin     : Enable=1 credits CoinValue of CoinType (1=WCoinC 2=WCoinP 3=GoblinPoint)
+     DropAllow   : class flags (1=allowed), PlayerMinLevel, PlayerMaxLevel ("MAX"), MapNumber (-1=any)
+     Drop        : Bag   = independent drop slot id (omit -> 1). Each distinct Bag rolls once.
+                   Rate  = selection weight inside the Bag (0..10000); leftover = nothing.
+                   Count = copies dropped when this Drop is selected.
+     Item        : Cat/Index, ItemMinLevel/ItemMaxLevel, Skill, Luck, Option,
+                   Exc  = -4 -> random 2-option combo {3,5,6,9,10,12,17,18,20,24,33,34,36,40,48}
+                          >0 -> explicit excellent bitmask (e.g. 12 = reflect + damage decrease on armor)
+                           0 -> none
+                   SetItem = 0 -> none
+                             1 -> random tier (regular item if this item has no ancient set)
+                            >1 -> explicit: low2bits=tier(1/2), bits2-3=#ancient opts(1/2)
+                                  e.g. 5=tier1+1opt, 6=tier2+1opt, 9=tier1+2opt, 10=tier2+2opt
+                   SocketCount (0..5),
+                   Harmony = 0 -> none ; -1 -> random option ; >0 -> explicit option index
+                             (Weapon/Staff/Armor tables differ; armor 7 = Damage Reduction)
+                   HarmonyLevel = strength tier 0..15 (used when Harmony>0)
+
+                   ElementalItem (n/a)
+     ============================================================================ -->
+<ItemBag>
+	<BagConfig Name="Custom_BOK1" ItemRate="10000" SetItemRate="0" MoneyDrop="0" BagUseEffect="-1" BagUseRate="10000" />
+	<SummonBook Enable="0" DropRate="0" ItemCat="0" ItemIndex="0" />
+	<AddCoin Enable="1" CoinType="2" CoinValue="5" />
+
+	<DropAllow Wizard="1" Knight="1" FairyElf="1" MagicGladiator="1" DarkLord="1" Summoner="1" RageFighter="1" PlayerMinLevel="1" PlayerMaxLevel="MAX" MapNumber="-1">
+
+
+		<Drop Rate="10000" Count="1" Bag="1">
+			<Item Cat="7" Index="1" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="1" Option="4" Exc="12" SetItem="0" SocketCount="0" Harmony="7" HarmonyLevel="13" ElementalItem="0"/>
+		</Drop>
+		
+		<Drop Rate="10000" Count="1" Bag="6">
+			<Item Cat="8" Index="1" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="1" Option="4" Exc="12" SetItem="0" SocketCount="0" Harmony="7" HarmonyLevel="13" ElementalItem="0"/>
+		</Drop>
+		
+		<Drop Rate="10000" Count="1" Bag="7">
+			<Item Cat="9" Index="1" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="1" Option="4" Exc="12" SetItem="0" SocketCount="0" Harmony="7" HarmonyLevel="13" ElementalItem="0"/>
+		</Drop>
+		
+		<Drop Rate="10000" Count="1" Bag="8">
+			<Item Cat="10" Index="1" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="1" Option="4" Exc="12" SetItem="0" SocketCount="0" Harmony="7" HarmonyLevel="13" ElementalItem="0"/>
+		</Drop>
+		
+		<Drop Rate="10000" Count="1" Bag="9">
+			<Item Cat="11" Index="1" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="1" Option="4" Exc="12" SetItem="0" SocketCount="0" Harmony="7" HarmonyLevel="13" ElementalItem="0"/>
+		</Drop>
+		
+		<Drop Rate="10000" Count="2" Bag="2">
+			<Item Cat="0" Index="22" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="1" Option="4" Exc="0" SetItem="0" SocketCount="0" Harmony="10" HarmonyLevel="13" Option380="1" ElementalItem="0"/>
+		</Drop>
+		
+		<Drop Rate="10000" Count="1" Bag="3">
+			<Item Cat="2" Index="1" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="1" Option="4" Exc="48" SetItem="0" SocketCount="0" Harmony="10" HarmonyLevel="13" ElementalItem="0"/>
+		</Drop>
+		
+		<Drop Rate="10000" Count="1" Bag="4">
+			<Item Cat="12" Index="5" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="1" Option="4" Exc="100" SetItem="0" SocketCount="0" Harmony="0" HarmonyLevel="0" ElementalItem="0"/>
+		</Drop>
+		
+		<Drop Rate="10000" Count="1" Bag="5">
+			<Item Cat="13" Index="26" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="3" Exc="48" SetItem="0" SocketCount="0" Harmony="0" HarmonyLevel="0" ElementalItem="0"/>
+		</Drop>
+
+
+
+	</DropAllow>
+</ItemBag>

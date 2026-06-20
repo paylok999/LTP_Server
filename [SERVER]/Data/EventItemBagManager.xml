@@ -51,7 +51,7 @@
 	<ItemBag Index="48" ItemIndex="-1" ItemLevel="-1" MonsterClass="361" SpecialValue="-1" /> <!-- Nightmare -->
 	<ItemBag Index="49" ItemIndex="7213" ItemLevel="-1" MonsterClass="-1" SpecialValue="-1" /> <!-- Halloween Pumpkin -->
 	<ItemBag Index="50" ItemIndex="-1" ItemLevel="-1" MonsterClass="365" SpecialValue="-1" /> <!-- Fortune Pouch -->
-	<ItemBag Index="51" ItemIndex="7220" ItemLevel="-1" MonsterClass="-1" SpecialValue="-1" /> <!-- Game Master Box -->
+	<ItemBag Index="51" ItemIndex="7220" ItemLevel="0" MonsterClass="-1" SpecialValue="-1" /> <!-- Game Master Box -->
 	<ItemBag Index="52" ItemIndex="7223" ItemLevel="-1" MonsterClass="-1" SpecialValue="-1" /> <!-- Green Mistery Box -->
 	<ItemBag Index="53" ItemIndex="7224" ItemLevel="-1" MonsterClass="-1" SpecialValue="-1" /> <!-- Pink Mistery Box -->
 	<ItemBag Index="54" ItemIndex="7225" ItemLevel="-1" MonsterClass="-1" SpecialValue="-1" /> <!-- Purple Mistery Box -->
@@ -130,4 +130,5 @@
 	<!-- <ItemBag Index="127" ItemIndex="-1" ItemLevel="-1" MonsterClass="12" SpecialValue="-1" /> --> <!-- Diablo -->
 	<ItemBag Index="128" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="58" /> <!-- Golden Archer -->
 	<ItemBag Index="129" ItemIndex="-1" ItemLevel="-1" MonsterClass="476" SpecialValue="-1" /> <!-- Cursed Santa -->
+	<ItemBag Index="130" ItemIndex="7220" ItemLevel="6" MonsterClass="-1" SpecialValue="-1" /> <!-- Custom_BOK1 (XML test bag) -->
 </EventItemBagManager>

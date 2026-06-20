@@ -51,9 +51,8 @@
 <MonsterSpawn>
 	<Map Number="0" Name="Lorencia">
 		<Spot Type="0" Description="NPC/Traps">
-			<Spawn Index="226" Distance="0" StartX="122" StartY="110" Dir="3" />
-			<Spawn Index="240" Distance="0" StartX="147" StartY="145" Dir="1" />
-			<Spawn Index="240" Distance="0" StartX="146" StartY="110" Dir="3" />
+			<!--<Spawn Index="226" Distance="0" StartX="122" StartY="110" Dir="3" />
+			
 			<Spawn Index="257" Distance="0" StartX="132" StartY="165" Dir="3" />
 			<Spawn Index="257" Distance="0" StartX="132" StartY="90" Dir="3" />
 			<Spawn Index="257" Distance="0" StartX="170" StartY="129" Dir="1" />
@@ -66,7 +65,19 @@
 			<Spawn Index="257" Distance="0" StartX="96" StartY="129" Dir="1" />
 			<Spawn Index="375" Distance="0" StartX="132" StartY="161" Dir="3" />
 			<Spawn Index="543" Distance="0" StartX="144" StartY="127" Dir="2" />
-			<Spawn Index="547" Distance="0" StartX="139" StartY="138" Dir="3" />
+			<Spawn Index="547" Distance="0" StartX="139" StartY="138" Dir="3" />-->
+			
+			<Spawn Index="240" Distance="0" StartX="147" StartY="145" Dir="1" />
+			<Spawn Index="240" Distance="0" StartX="146" StartY="110" Dir="3" />
+			<Spawn Index="251" Distance="0" StartX="116" StartY="141" Dir="3" />
+			<Spawn Index="253" Distance="0" StartX="127" StartY="86" Dir="1" />
+			<Spawn Index="253" Distance="0" StartX="135" StartY="131" Dir="1" />
+			<Spawn Index="254" Distance="0" StartX="118" StartY="113" Dir="1" />
+			<Spawn Index="255" Distance="0" StartX="123" StartY="135" Dir="1" />
+			<Spawn Index="479" Distance="0" StartX="130" StartY="134" Dir="3" /><!-- titus -->
+			<Spawn Index="479" Distance="0" StartX="139" StartY="144" Dir="3" /><!-- titus -->
+			<Spawn Index="543" Distance="0" StartX="135" StartY="124" Dir="2" /><!-- duprian -->
+			<Spawn Index="547" Distance="0" StartX="126" StartY="145" Dir="3" /><!-- market -->
 		</Spot>
 		<Spot Type="1" Description="Multi-Spawn">
 			<Spawn Index="3" Distance="30" StartX="180" StartY="90" EndX="226" EndY="244" Dir="-1" Count="45" />
@@ -6259,7 +6270,7 @@
 	</Map>
 	<Map Number="63" Name="Vulcanus">
 		<Spot Type="0" Description="NPC/Traps">
-			<Spawn Index="479" Distance="0" StartX="122" StartY="135" Dir="1" />
+			<!--<Spawn Index="479" Distance="0" StartX="122" StartY="135" Dir="1" />-->
 		</Spot>
 		<Spot Type="1" Description="Multi-Spawn">
 			<Spawn Index="481" Distance="30" StartX="64" StartY="54" EndX="124" EndY="89" Dir="-1" Count="3" />

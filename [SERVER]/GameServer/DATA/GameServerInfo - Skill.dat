@@ -126,6 +126,7 @@ BrandTimeConstA = 10					;Duration in seconds Brand magic.
 ; Infinity Arrow Skill Settings
 ;==================================================
 InfinityArrowTimeConstA = 1800			;Duration in seconds of magic Infinity Arrow.
+IceArrowTimeConstA = 3                    ;Duration in seconds of the Ice Arrow freeze effect.
 
 ;==================================================
 ; Magic Damage Immunity Skill Settings

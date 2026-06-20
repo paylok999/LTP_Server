@@ -119,6 +119,7 @@ PersonalShopSwitch = 1							;Personal Shop system state (0=Off/1=On).
 ;==================================================
 DuelSwitch = 1								;Duel system state (0=Off/1=On).
 DuelArenaAnnounceSwitch = 1						;Duel start announce (0=Off/1=On).
+DuelIdleCancelTime = 999 
 
 ;==================================================
 ; Guild Settings
@@ -167,10 +168,10 @@ AddMasterExperienceRate_AL0 = 1					;Base master experience multiplier (Free).
 AddMasterExperienceRate_AL1 = 1					;Base master experience multiplier (Vip1).
 AddMasterExperienceRate_AL2 = 1					;Base master experience multiplier (Vip2).
 AddMasterExperienceRate_AL3 = 1					;Base master experience multiplier (Vip3).
-MinMasterExperienceMonsterLevel_AL0 = 95			;Min monster level to give master experience (Free).
-MinMasterExperienceMonsterLevel_AL1 = 95			;Min monster level to give master experience (Vip1).
-MinMasterExperienceMonsterLevel_AL2 = 95			;Min monster level to give master experience (Vip2).
-MinMasterExperienceMonsterLevel_AL3 = 95			;Min monster level to give master experience (Vip3).
+MinMasterExperienceMonsterLevel_AL0 = 85			;Min monster level to give master experience (Free).
+MinMasterExperienceMonsterLevel_AL1 = 85			;Min monster level to give master experience (Vip1).
+MinMasterExperienceMonsterLevel_AL2 = 85			;Min monster level to give master experience (Vip2).
+MinMasterExperienceMonsterLevel_AL3 = 85			;Min monster level to give master experience (Vip3).
 AddEventExperienceRate_AL0 = 1					;Base event experience multiplier (Free). (Must TEST)
 AddEventExperienceRate_AL1 = 1					;Base event experience multiplier (Vip1).
 AddEventExperienceRate_AL2 = 1					;Base event experience multiplier (Vip2).
@@ -357,7 +358,7 @@ CashShopGoblinPointValue_AL3 = 1				;Amount of Goblin Points get (Vip3).
 ;==================================================
 ; Party Settings
 ;==================================================
-PartyMaxUser = 10
+PartyMaxUser = 5
 PartyReconnectTime = 3000					;Max reconnection time.
 PartyMaxLevelDiff = 400						;Max level diff
 
@@ -478,9 +479,9 @@ AutoHealthPotionEnable = 0
 UseAutoHealthPotion_AL0 = 0
 UseAutoHealthPotion_AL1 = 0
 UseAutoHealthPotion_AL2 = 0
-UseAutoHealthPotion_AL3 = 1
+UseAutoHealthPotion_AL3 = 0
 
-AutoHealthPotionDelay_AL0 = 20
-AutoHealthPotionDelay_AL1 = 60
-AutoHealthPotionDelay_AL2 = 60
-AutoHealthPotionDelay_AL3 = 60
+AutoHealthPotionDelay_AL0 = 0
+AutoHealthPotionDelay_AL1 = 0
+AutoHealthPotionDelay_AL2 = 0
+AutoHealthPotionDelay_AL3 = 0

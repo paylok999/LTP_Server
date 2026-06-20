@@ -218,3 +218,5 @@ CustomStoreOfflineText5 = You must be at least %d Resets to use the /offstore
 
 EnableDsrOnPvP = 1
 EarthQuakeStopTile = 3
+PremiumBuffSwitch = 0
+BuffRightClickRemove=1
