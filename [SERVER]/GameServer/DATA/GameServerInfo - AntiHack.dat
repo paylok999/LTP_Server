@@ -7,6 +7,13 @@
 ;==================================================
 CheckAttackSpeedHack = 1
 CheckAttackSpeedHackTolerance = 100
+; CheckAttackSpeedHackSafetyMargin = extra attack-speed points of headroom (default 20).
+;   PhysiSpeed already includes weapon/socket/buff speed; this absorbs the formula
+;   calibration gap for dual-wield/left-hand swings. Higher = fewer false positives, looser detection.
+; CheckAttackSpeedHackStrikes = consecutive violations required before a kick (default 5).
+;   Absorbs lag-bunched packets; a single normal-paced attack resets the streak.
+CheckAttackSpeedHackSafetyMargin = 20
+CheckAttackSpeedHackStrikes = 5
 
 ;==================================================
 ; Damage Hack Detection
@@ -23,3 +30,8 @@ CheckDamageHackMax = 100000
 ;==================================================
 CheckMoveSpeedHack = 1
 CheckMoveSpeedHackTolerance = 50
+
+
+CheckAutoComboDetect = 1     ; on, report-only (default)
+AutoComboMaxJitter   = 30    ; ms; ≤ this over the window = macro signature
+AutoComboStrikes     = 3     ; consecutive low-jitter windows before logging

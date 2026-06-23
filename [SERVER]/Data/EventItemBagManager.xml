@@ -131,4 +131,6 @@
 	<ItemBag Index="128" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="58" /> <!-- Golden Archer -->
 	<ItemBag Index="129" ItemIndex="-1" ItemLevel="-1" MonsterClass="476" SpecialValue="-1" /> <!-- Cursed Santa -->
 	<ItemBag Index="130" ItemIndex="7220" ItemLevel="6" MonsterClass="-1" SpecialValue="-1" /> <!-- Custom_BOK1 (XML test bag) -->
+	<ItemBag Index="152" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="0" /> <!-- Invasion Dark Phoenix -->
+	<ItemBag Index="153" ItemIndex="-1" ItemLevel="-1" MonsterClass="-1" SpecialValue="0" /> <!-- Invasion Hell Maine -->
 </EventItemBagManager>

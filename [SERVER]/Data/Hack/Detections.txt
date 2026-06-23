@@ -1,0 +1,54 @@
+//==============================================================================
+//  Detections.txt - server-driven client anti-cheat list (LTP)
+//  Pushed to the client at join (head 0xFB sub 0x40); AUGMENTS the hardcoded
+//  baseline in Protect.cpp. Edit + restart GameServer to update detections
+//  WITHOUT rebuilding the client.
+//
+//  Format:  <type> <action> <match> "<value>"
+//    type   : 1=process name  2=window class  3=driver device  4=loaded module
+//    action : 0=report-only (log only)   1=report + kick
+//    match  : 0=exact   1=substring (case-insensitive)
+//  Cap: first 200 rules. File MUST end with:  end
+//==============================================================================
+
+// ---- debuggers / RE / packet tools (process name, exact) ----
+1 1 0 "x32dbg.exe"
+1 1 0 "x64dbg.exe"
+1 1 0 "ida.exe"
+1 1 0 "ida64.exe"
+1 1 0 "ollydbg.exe"
+1 1 0 "windbg.exe"
+1 1 0 "immunitydebugger.exe"
+1 1 0 "ghidra.exe"
+1 1 0 "dnspy.exe"
+1 1 0 "processhacker.exe"
+1 1 0 "processhacker3.exe"
+1 1 0 "systeminformer.exe"
+1 1 0 "wireshark.exe"
+
+
+// ---- Cheat Engine (process; substring catches all CE build variants) ----
+1 1 1 "cheatengine"
+
+// ---- debugger / CE window classes ----
+2 1 0 "OLLYDBG"
+2 1 0 "WinDbgFrameClass"
+2 1 0 "ID"
+2 1 0 "X64DbgMainClass"
+2 1 0 "CheatEngine"
+
+// ---- Cheat Engine / DBK kernel driver devices ----
+3 1 0 "\\.\CEDRIVER73"
+3 1 0 "\\.\CEDRIVER75"
+3 1 0 "\\.\DBK64"
+3 1 0 "\\.\DBK32"
+
+// ---- injected modules (substring) ----
+4 1 1 "cheatengine"
+4 1 1 "dbk32"
+4 1 1 "dbk64"
+
+// ---- hashe apps ----
+//5 1 0 "7F770D35"     // kick if any .dll/.exe (non-system path) hashes to A1B2C3D4
+
+end

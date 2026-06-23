@@ -1,0 +1,268 @@
+<MonsterGroupRegenSystem SpawnNotice="1">
+    <GroupSettings>
+        <Group Index="0" Duration="60" MapNumber="10" BossMonsterIndex="77" BossMonsterName="DarkPhoenix" SpawnNotice="Dark Phoenix has invaded Icarus!!! Coordinates: [37,225]" />
+        <Group Index="1" Duration="60" MapNumber="33" BossMonsterIndex="309" BossMonsterName="HellMaine" SpawnNotice="Hell Maine has invaded Aida!!! Coordinates: [115,100]" />
+        <Group Index="2" Duration="10" MapNumber="2" BossMonsterIndex="25" BossMonsterName="IceQueen" SpawnNotice="Ice Queen has invaded Devias!!! Coordinates: [59,190]" />
+        <Group Index="3" Duration="10" MapNumber="1" BossMonsterIndex="18" BossMonsterName="Gorgon" SpawnNotice="Gorgon has invaded Dungeon 3!!! Coordinates: [25,67]" />
+        <Group Index="4" Duration="10" MapNumber="7" BossMonsterIndex="49" BossMonsterName="Hydra" SpawnNotice="Hydra has invaded Atlans 3!!! Coordinates: [24,226]" />
+        <Group Index="5" Duration="10" MapNumber="4" BossMonsterIndex="38" BossMonsterName="Balrog" SpawnNotice="Balrog has invaded Losttower 7!!! Coordinates: [30,210]" />
+        <Group Index="6" Duration="10" MapNumber="8" BossMonsterIndex="59" BossMonsterName="Zaikan" SpawnNotice="Zaikan has invaded Tarkan 2!!! Coordinates: [10,235]" />
+        <Group Index="7" Duration="10" MapNumber="8" BossMonsterIndex="63" BossMonsterName="DeathBeamKnight" SpawnNotice="Death Beam Knight has invaded Tarkan 2!!! Coordinates: [110,210]" />
+        <Group Index="8" Duration="60" MapNumber="0" BossMonsterIndex="77" BossMonsterName="BossBattle" SpawnNotice="Boss Batle has invaded Lorencia Square!!! Coordinates: [145,128]" />
+        <Group Index="9" Duration="60" MapNumber="36" BossMonsterIndex="275" BossMonsterName="Kundun7" SpawnNotice="Kundun has invaded Kalima 7!!! Coordinates: [36,77]" />
+        <Group Index="10" Duration="60" MapNumber="56" BossMonsterIndex="561" BossMonsterName="Medusa" SpawnNotice="Medusa has invaded Swamp of Clamness!" />
+        <Group Index="11" Duration="60" MapNumber="4" BossMonsterIndex="67" BossMonsterName="MetalBalrog" SpawnNotice="Metal Balrog has invaded Lost Tower 7!" />
+        <Group Index="12" Duration="60" MapNumber="0" BossMonsterIndex="66" BossMonsterName="King" SpawnNotice="Cursed King has invaded Lorencia!" />
+        <Group Index="13" Duration="30" MapNumber="56" BossMonsterIndex="463" BossMonsterName="FireFlameGhost" SpawnNotice="Flame Ghost has invaded Swamp[224,81]" />
+        <Group Index="14" Duration="30" MapNumber="37" BossMonsterIndex="463" BossMonsterName="FireFlameGhost" SpawnNotice="Flame Ghost has invaded Kantur[140,46]" />
+        <Group Index="15" Duration="30" MapNumber="38" BossMonsterIndex="463" BossMonsterName="FireFlameGhost" SpawnNotice="Flame Ghost has invaded Relic[108,143]" />
+        <Group Index="16" Duration="15" MapNumber="2" BossMonsterIndex="401" BossMonsterName="Hunchback" SpawnNotice="Hunchback Monsters has invaded Devias[223,83]" />
+        <Group Index="17" Duration="15" MapNumber="63" BossMonsterIndex="481" BossMonsterName="Vulcanus" SpawnNotice="Vulcanus Annihilation has starter![65,159]" />
+
+    </GroupSettings>
+
+    <SpotSettings>
+        <Group Index="0">
+            <Area StartX="37"  StartY="225" EndX="40"  EndY="228" />
+        </Group>
+        <Group Index="1">
+            <Area StartX="115"  StartY="100" EndX="118"  EndY="103" />
+        </Group>
+        <Group Index="2">
+            <Area StartX="58"  StartY="190" EndX="61"  EndY="193" />
+        </Group>
+        <Group Index="3">
+            <Area StartX="25"  StartY="67" EndX="28"  EndY="70" />
+        </Group>
+        <Group Index="4">
+            <Area StartX="24"  StartY="226" EndX="27"  EndY="229" />
+        </Group>
+        <Group Index="5">
+            <Area StartX="30"  StartY="210" EndX="33"  EndY="213" />
+        </Group>
+        <Group Index="6">
+            <Area StartX="10"  StartY="235" EndX="13"  EndY="238" />
+        </Group>
+        <Group Index="7">
+            <Area StartX="110"  StartY="210" EndX="113"  EndY="213" />
+        </Group>
+        <Group Index="8">
+            <Area StartX="141"  StartY="124" EndX="149"  EndY="132" />
+        </Group>
+        <Group Index="9">
+            <Area StartX="33"  StartY="75" EndX="38"  EndY="78" />
+        </Group>
+        <Group Index="10">
+            <Area StartX="199"  StartY="109" EndX="200"  EndY="113" />
+            <Area StartX="129"  StartY="169" EndX="130"  EndY="172" />
+            <Area StartX="149"  StartY="20" EndX="150"  EndY="24" />
+            <Area StartX="58"  StartY="76" EndX="60"  EndY="78" />
+        </Group>
+
+        <Group Index="11">
+            <Area StartX="27"  StartY="211" EndX="30"  EndY="213" />
+            <Area StartX="29"  StartY="127" EndX="32"  EndY="130" />
+            <Area StartX="27"  StartY="98" EndX="29"  EndY="101" />
+        </Group>
+        <Group Index="12">
+            <Area StartX="211"  StartY="90" EndX="212"  EndY="93" />
+            <Area StartX="196"  StartY="225" EndX="197"  EndY="229" />
+            <Area StartX="33"  StartY="81" EndX="34"  EndY="84" />
+            <Area StartX="117"  StartY="67" EndX="118"  EndY="70" />
+        </Group>
+
+
+        <Group Index="13">
+            <Area StartX="227"  StartY="79" EndX="224"  EndY="84" />
+        </Group>
+        <Group Index="14">
+            <Area StartX="146"  StartY="47" EndX="137"  EndY="45" />
+        </Group>
+        <Group Index="15">
+            <Area StartX="108"  StartY="143" EndX="106"  EndY="147" />
+        </Group>
+
+        <Group Index="16">
+            <Area StartX="221"  StartY="80" EndX="224"  EndY="84" />
+        </Group>
+        <Group Index="17">
+            <Area StartX="65"  StartY="157" EndX="64"  EndY="169" />
+        </Group>
+
+    </SpotSettings>
+
+    <MonsterSettings>
+        <Group Index="0">
+            <Monster Index="77" Count="1" OverrideDefaultSettings="1" EventID="152" HP="18000000" DamageMin="2000" DamageMax="2500" Defense="550" AttackRate="2000" DefenseRate="2000" />
+        </Group>
+        <Group Index="1">
+            <Monster Index="309" Count="1" OverrideDefaultSettings="1" EventID="153" HP="18000000" DamageMin="2000" DamageMax="2500" Defense="550" AttackRate="2000" DefenseRate="2000" />
+        </Group>
+        <Group Index="2">
+            <Monster Index="25" Count="1" OverrideDefaultSettings="1" EventID="159" HP="3600000" DamageMin="100" DamageMax="150" Defense="150" AttackRate="2000" DefenseRate="100" />
+        </Group>
+        <Group Index="3">
+            <Monster Index="18" Count="1" OverrideDefaultSettings="1" EventID="159" HP="3600000" DamageMin="200" DamageMax="250" Defense="250" AttackRate="2000" DefenseRate="100" />
+        </Group>
+        <Group Index="4">
+            <Monster Index="49" Count="1" OverrideDefaultSettings="1" EventID="159" HP="3600000" DamageMin="300" DamageMax="350" Defense="350" AttackRate="2000" DefenseRate="100" />
+        </Group>
+        <Group Index="5">
+            <Monster Index="38" Count="1" OverrideDefaultSettings="1" EventID="159" HP="3600000" DamageMin="400" DamageMax="450" Defense="450" AttackRate="2000" DefenseRate="100" />
+        </Group>
+        <Group Index="6">
+            <Monster Index="59" Count="1" OverrideDefaultSettings="1" EventID="156" HP="5040000" DamageMin="700" DamageMax="800" Defense="550" AttackRate="2000" DefenseRate="100" />
+        </Group>
+        <Group Index="7">
+            <Monster Index="63" Count="1" OverrideDefaultSettings="1" EventID="156" HP="5040000" DamageMin="700" DamageMax="800" Defense="550" AttackRate="2000" DefenseRate="100" />
+        </Group>
+        <Group Index="8">
+            <Monster Index="77" Count="1" OverrideDefaultSettings="1" EventID="152" HP="18000000" DamageMin="2000" DamageMax="2500" Defense="550" AttackRate="2000" DefenseRate="2000" />
+            <Monster Index="309" Count="1" OverrideDefaultSettings="1" EventID="153" HP="18000000" DamageMin="2000" DamageMax="2500" Defense="550" AttackRate="2000" DefenseRate="2000" />
+            <Monster Index="295" Count="1" OverrideDefaultSettings="0" EventID="0" HP="18000000" DamageMin="2000" DamageMax="2500" Defense="550" AttackRate="2000" DefenseRate="2000" />
+            <Monster Index="501" Count="1" OverrideDefaultSettings="0" EventID="0" HP="18000000" DamageMin="2000" DamageMax="2500" Defense="550" AttackRate="2000" DefenseRate="2000" />
+        </Group>
+        <Group Index="9">
+            <Monster Index="275" Count="1" OverrideDefaultSettings="1" EventID="160" HP="18720000" DamageMin="2400" DamageMax="3000" Defense="1800" AttackRate="2000" DefenseRate="2000" />
+            <!--<Monster Index="275" Count="1" OverrideDefaultSettings="1" EventID="160" HP="34560000" DamageMin="2400" DamageMax="3000" Defense="1800" AttackRate="2000" DefenseRate="2000" />  -->
+            <!--
+
+            s1 -->
+            <!--
+            <Monster Index="275" Count="1" OverrideDefaultSettings="1" EventID="160" HP="18000000" DamageMin="3200" DamageMax="4000" Defense="2400" AttackRate="2000" DefenseRate="2000" />
+            s10 -->
+        </Group>
+        <!-- Medusa -->
+        <Group Index="10">
+            <Monster Index="561" Count="1" OverrideDefaultSettings="1" EventID="162" HP="36000000" DamageMin="2500" DamageMax="3000" Defense="550" AttackRate="2000" DefenseRate="3000" />
+        </Group>
+        <!-- Metal Balrog -->
+        <Group Index="11">
+            <Monster Index="67" Count="2" OverrideDefaultSettings="1" EventID="163" HP="9600000" DamageMin="500" DamageMax="700" Defense="550" AttackRate="2000" DefenseRate="2000" />
+        </Group>
+        <!-- Cursed King -->
+        <Group Index="12">
+            <Monster Index="66" Count="2" OverrideDefaultSettings="1" EventID="163" HP="9600000" DamageMin="500" DamageMax="700" Defense="550" AttackRate="2000" DefenseRate="2000" />
+        </Group>
+        <!-- fireflame ghost -->
+        <Group Index="13">
+            <Monster Index="463" Count="1" OverrideDefaultSettings="0" EventID="0" HP="360000" DamageMin="800" DamageMax="1500" Defense="550" AttackRate="2000" DefenseRate="2000" />
+        </Group>
+        <Group Index="14">
+            <Monster Index="463" Count="1" OverrideDefaultSettings="0" EventID="0" HP="360000" DamageMin="800" DamageMax="1500" Defense="550" AttackRate="2000" DefenseRate="2000" />
+        </Group>
+        <Group Index="15">
+            <Monster Index="463" Count="1" OverrideDefaultSettings="0" EventID="0" HP="360000" DamageMin="800" DamageMax="1500" Defense="550" AttackRate="2000" DefenseRate="2000" />
+        </Group>
+
+        <Group Index="16">
+            <Monster Index="401" Count="4" OverrideDefaultSettings="1" EventID="161" HP="1200000" DamageMin="1000" DamageMax="1500" Defense="550" AttackRate="2000" DefenseRate="2000" />
+        </Group>
+        <Group Index="17">
+            <Monster Index="481" Count="1" OverrideDefaultSettings="1" EventID="165" HP="3600000" DamageMin="1000" DamageMax="1500" Defense="550" AttackRate="2000" DefenseRate="2000" />
+            <Monster Index="483" Count="1" OverrideDefaultSettings="1" EventID="165" HP="3600000" DamageMin="1000" DamageMax="1500" Defense="550" AttackRate="2000" DefenseRate="2000" />
+            <Monster Index="485" Count="1" OverrideDefaultSettings="1" EventID="165" HP="3600000" DamageMin="1000" DamageMax="1500" Defense="550" AttackRate="2000" DefenseRate="2000" />
+            <Monster Index="488" Count="1" OverrideDefaultSettings="1" EventID="165" HP="3600000" DamageMin="1000" DamageMax="1500" Defense="550" AttackRate="2000" DefenseRate="2000" />
+            <Monster Index="491" Count="1" OverrideDefaultSettings="1" EventID="164" HP="16800000" DamageMin="1000" DamageMax="1500" Defense="550" AttackRate="2000" DefenseRate="2000" />
+        </Group>
+    </MonsterSettings>
+
+    <SpawnSettings>
+        <Group Index="0">
+            <Spawn StartHour="6" StarMinute="0" AppearanceRate="100" />
+            <Spawn StartHour="18" StarMinute="0" AppearanceRate="100" />
+        </Group>
+        <Group Index="1">
+            <Spawn StartHour="6" StarMinute="30" AppearanceRate="100" />
+            <Spawn StartHour="18" StarMinute="30" AppearanceRate="100" />
+        </Group>
+        <Group Index="2">
+            <Spawn StartHour="1" StarMinute="0" AppearanceRate="100" />
+            <Spawn StartHour="7" StarMinute="0" AppearanceRate="100" />
+            <Spawn StartHour="13" StarMinute="0" AppearanceRate="100" />
+            <Spawn StartHour="19" StarMinute="0" AppearanceRate="100" />
+        </Group>
+        <Group Index="3">
+            <Spawn StartHour="2" StarMinute="0" AppearanceRate="100" />
+            <Spawn StartHour="8" StarMinute="0" AppearanceRate="100" />
+            <Spawn StartHour="14" StarMinute="0" AppearanceRate="100" />
+            <Spawn StartHour="20" StarMinute="0" AppearanceRate="100" />
+        </Group>
+        <Group Index="4">
+            <Spawn StartHour="3" StarMinute="0" AppearanceRate="100" />
+            <Spawn StartHour="9" StarMinute="0" AppearanceRate="100" />
+            <Spawn StartHour="15" StarMinute="0" AppearanceRate="100" />
+            <Spawn StartHour="21" StarMinute="0" AppearanceRate="100" />
+        </Group>
+        <Group Index="5">
+            <Spawn StartHour="4" StarMinute="0" AppearanceRate="100" />
+            <Spawn StartHour="10" StarMinute="0" AppearanceRate="100" />
+            <Spawn StartHour="16" StarMinute="0" AppearanceRate="100" />
+            <Spawn StartHour="22" StarMinute="0" AppearanceRate="100" />
+        </Group>
+        <Group Index="6">
+            <Spawn StartHour="5" StarMinute="0" AppearanceRate="100" />
+            <Spawn StartHour="10" StarMinute="0" AppearanceRate="100" />
+            <Spawn StartHour="17" StarMinute="0" AppearanceRate="100" />
+            <Spawn StartHour="22" StarMinute="0" AppearanceRate="100" />
+        </Group>
+        <Group Index="7">
+            <Spawn StartHour="5" StarMinute="30" AppearanceRate="100" />
+            <Spawn StartHour="10" StarMinute="30" AppearanceRate="100" />
+            <Spawn StartHour="17" StarMinute="30" AppearanceRate="100" />
+            <Spawn StartHour="22" StarMinute="30" AppearanceRate="100" />
+        </Group>
+        <!-- Metal Balrog -->
+        <Group Index="11">
+            <Spawn StartHour="19" StarMinute="30" AppearanceRate="100" />
+        </Group>
+        <!-- Cursed King -->
+        <Group Index="12">
+            <Spawn StartHour="19" StarMinute="30" AppearanceRate="100" />
+        </Group>
+
+        <!-- end fireflame ghost -->
+        <Group Index="13">
+            <Spawn StartHour="8" StarMinute="45" AppearanceRate="100" />
+            <Spawn StartHour="20" StarMinute="45" AppearanceRate="100" />
+        </Group>
+        <Group Index="14">
+            <Spawn StartHour="8" StarMinute="45" AppearanceRate="100" />
+            <Spawn StartHour="20" StarMinute="45" AppearanceRate="100" />
+        </Group>
+        <Group Index="15">
+            <Spawn StartHour="8" StarMinute="45" AppearanceRate="100" />
+            <Spawn StartHour="20" StarMinute="45" AppearanceRate="100" />
+        </Group>
+        <!-- end fireflame ghost -->
+
+
+
+        <!-- server1 only -->
+        <!-- kundun7 -->
+        <Group Index="9">
+            <Spawn StartHour="19" StarMinute="0" AppearanceRate="100" />
+        </Group>
+        <!-- boss battle -->
+        <Group Index="8">
+            <Spawn StartHour="22" StarMinute="0" AppearanceRate="100" />
+        </Group>
+        <!-- medusa -->
+        <Group Index="10">
+            <Spawn StartHour="22" StarMinute="30" AppearanceRate="100" />
+        </Group>
+
+
+        <!--Disabled -->
+        <!-- hunchback -->
+        <Group Index="16">
+            <Spawn StartHour="22" StarMinute="30" AppearanceRate="0" />
+        </Group>
+
+        <!-- vulcanus -->
+        <Group Index="17">
+            <Spawn StartHour="20" StarMinute="0" AppearanceRate="0" />
+        </Group>
+        <!-- End Disabled -->
+    </SpawnSettings>
+</MonsterGroupRegenSystem>

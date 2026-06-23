@@ -15,7 +15,7 @@ ServerMinUserGrandReset = 0
 ServerMaxUserGrandReset = 100
 Disable_BuyForWC = 0
 
-UseWrongPacketsCheck = 0
+UseWrongPacketsCheck = 1
 
 CustomerName = release
 
@@ -33,8 +33,8 @@ ConnectServerPort = 54668
 ; CRC Check
 ;==================================================
 AntihackCRC = 0x0
-LtpCRC = 0x0
-MainCRC = 0x0
+LtpCRC = 0x0 ;0x0 - Disabled
+MainCRC = 0x0 ;0x0 - Disabled
 
 ;==================================================
 ; Log Settings
